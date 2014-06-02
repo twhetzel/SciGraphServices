@@ -28,11 +28,11 @@ public class SearchDataFederation {
 			// Web service Documentation: http://neuinfo.org/servicesv1/resource_FederationService.html#path__federation_search.html
 			String prodUri = "http://nif-services.neuinfo.org/servicesv1/v1/federation/search?q="+termId;
 			//System.out.println("Query String: "+prodUri);
-			File file = new File("/Users/whetzel/Documents/workspace/DeprecatedConceptswithData/retired_terms_data_check.txt"); 
-
+			File file = new File("./retired_terms_data_check.txt"); 
+			
 			// if file doesn't exists, then create it
 			if (!file.exists()) {
-				file.createNewFile();
+				file.createNewFile();  
 			}
 
 			FileWriter fw = new FileWriter(file.getName(),true);
