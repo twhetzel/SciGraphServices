@@ -7,11 +7,14 @@ Fragment: nifext_5031 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/N
 
 
 Fragment: birnlex_6 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_6
+-> isReplacedByClass: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_6
 Fragment: birnlex_6 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_6
+-> label: Anatomical entity 
 
 
 Fragment: nlx_cell_10061313 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF_Neuron_MolecularConstituent_Bridge.owl#nlx_cell_10061313
 Fragment: nlx_cell_10061313 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-Brain-Bridge.owl#nlx_cell_10061313
+-> No file at this URL, loaded from 
 
 
 Fragment: birnlex_13 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl#birnlex_13

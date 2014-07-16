@@ -67,9 +67,6 @@ public class FollowImports {
 		System.out.println("\n** printOntologyAndImports method **");
 		printOntology(manager, ontology);
 		
-		//Map<String,String> map = getAllClasses(manager, ontology);
-		//System.out.println("** Returned HashMap Size: "+map.size());
-		//Map<String,String> map = new HashMap<String, String>();
 		File file = new File("./data_files/duplicate-keys-nifstd.txt");
 		if (!file.exists()) {
 			file.createNewFile();
@@ -84,20 +81,19 @@ public class FollowImports {
 		// List the imported ontologies, follows entire import chain for all ontologies
 		for (OWLOntology importedOntology : ontology.getImportsClosure()) {  //previously used getImportsClosure() but timed out vs. getImports() 
 			System.out.println("Imports: ");
-			bw.write("Imports: "+importedOntology+"\n");
+			IRI documentIRI = manager.getOntologyDocumentIRI(importedOntology);
+			bw.write("Imports: "+importedOntology+"From: "+documentIRI.toQuotedString()+"\n");
 			printOntology(manager, importedOntology);
 			
 			Map<String,String> map = getAllClasses(manager, importedOntology);
 			//Copy all keys and values to mapAll since map will be cleared when method called again
-			//mapAll.putAll(map); //TODO Unique id check will be of this Collection after last import. If key exists in map, it will be replaced with putAll()
 			
-			// Iterate through map 
-			System.out.println("Analyzing returned map in ** printOntologyAndImports method **");
+			// Iterate through returned map 
 			for (Entry<String, String> entry : map.entrySet()) {
-			    String key = entry.getKey();
+				System.out.println("Analyzing returned map in ** printOntologyAndImports method **");
+				String key = entry.getKey();
 			    String value = entry.getValue();
 			    //System.out.println("From new HashMap -> Key: "+key+" Value: "+value);
-			    //bw.write("From new HashMap - Key: "+key+" Value: "+value+"\n");
 			    // If unique key, add to mapAll
 			    if (!mapAll.containsKey(key)) {
 			    	//System.out.println("Key is unique, adding to mapAll\n");
@@ -108,10 +104,6 @@ public class FollowImports {
 			    	// Need to alert on the case below:
 			    	// Key: birnlex_2 Value: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_2
 			    	// Duplicate Key birnlex_2 Value: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl#birnlex_2
-			    	//System.out.println("Duplicate Found in existing HashMap -> Key: "+key+" Value: "+mapAll.get(key)+"\n"); 
-			    	// Write information to output file
-			    	//bw.write("Duplicate Found in existing HashMap -> Key: "+key+" Value: "+mapAll.get(key)+"\n");
-			    	//bw.write("From new HashMap -> Key: "+key+" \"Value: "+value+"\"\n");
 			    	
 			    	// Check if values are the same, if yes then there is no issue
 			    	if (!mapAll.get(key).equals(value)) {
@@ -121,8 +113,7 @@ public class FollowImports {
 			    		
 			    		bw.write("\nDuplicate Found in existing HashMap\nFragment: "+key+" IRI: "+mapAll.get(key)+"\n");
 				    	bw.write("Fragment: "+key+" IRI: "+value+"\n");
-			    		bw.write("-- Values do not match\n\n");
-			    		
+			    		bw.write("-- Values do not match\n\n"); 	    		
 			    	}
 			    }
 			}
