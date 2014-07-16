@@ -1,0 +1,186 @@
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/pr.owl>) VersionIRI(<http://purl.obolibrary.org/obo/pr/2012-05-11/pr.owl>))) [Axioms: 272815 Logical Axioms: 30545]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/iao/dev/external.owl>))) [Axioms: 48 Logical Axioms: 9]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-NCBITaxonomy-EnglishNames.owl>))) [Axioms: 49 Logical Axioms: 0]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule-Role-Inferred.owl>))) [Axioms: 91 Logical Axioms: 85]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-NT-Bridge.owl>))) [Axioms: 194 Logical Axioms: 86]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/uberon.owl>) VersionIRI(<http://purl.obolibrary.org/obo/uberon/releases/2013-07-08/uberon.owl>))) [Axioms: 179529 Logical Axioms: 35312]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/Dysfunction/NIF-DOID-Bridge.owl>))) [Axioms: 567 Logical Axioms: 186]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-NCBITax-Bridge.owl>))) [Axioms: 4 Logical Axioms: 2]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl>))) [Axioms: 20679 Logical Axioms: 3489]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Chemical.owl>))) [Axioms: 2069 Logical Axioms: 216]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/iao/dev/ontology-metadata.owl>))) [Axioms: 303 Logical Axioms: 35]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-MolecularConstituent-Inferred.owl>))) [Axioms: 702 Logical Axioms: 351]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/pato.owl>) VersionIRI(<http://purl.obolibrary.org/obo/pato/2012-06-19/pato.owl>))) [Axioms: 18043 Logical Axioms: 2790]
+Imports: Ontology(OntologyID(OntologyIRI(<http://www.ifomis.org/bfo/1.1>))) [Axioms: 278 Logical Axioms: 95]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Cell.owl>))) [Axioms: 9058 Logical Axioms: 399]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.org/obo/owl/ro_bfo1-1_bridge>))) [Axioms: 83 Logical Axioms: 20]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/Backend/BIRNLex_annotation_properties.owl>))) [Axioms: 433 Logical Axioms: 112]
+Imports: Ontology(OntologyID(OntologyIRI(<http://www.cogpo.org/ontologies/CogPOver2010.owl>))) [Axioms: 1178 Logical Axioms: 281]
+Imports: Ontology(OntologyID(OntologyIRI(<http://www.cognitiveatlas.org/ontology/cogat.owl#>))) [Axioms: 6396 Logical Axioms: 654]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Resource.owl>))) [Axioms: 874 Logical Axioms: 105]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-NT-Bridge-Inferred.owl>))) [Axioms: 42 Logical Axioms: 42]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/go.owl>) VersionIRI(<http://purl.obolibrary.org/obo/go/2013-07-16/go.owl>))) [Axioms: 464900 Logical Axioms: 87746]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/SAO-CORE_properties.owl>))) [Axioms: 642 Logical Axioms: 190]
+Imports: Ontology(OntologyID(OntologyIRI(<http://protege.stanford.edu/plugins/owl/dc/protege-dc.owl>))) [Axioms: 75 Logical Axioms: 0]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/ero.owl>) VersionIRI(<http://purl.obolibrary.org/obo/ero/releases/2013-05-06/ero.owl>))) [Axioms: 29994 Logical Axioms: 4847]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Annotation-Standard.owl>))) [Axioms: 38 Logical Axioms: 23]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/iao/dev/externalDerived.owl>))) [Axioms: 53 Logical Axioms: 0]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/nif.owl>))) [Axioms: 0 Logical Axioms: 0]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-PRO-Bridge.owl>))) [Axioms: 362 Logical Axioms: 112]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Government-Granting-Agency.owl>))) [Axioms: 1382 Logical Axioms: 261]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF_Neuron_MolecularConstituent_Bridge.owl>))) [Axioms: 54 Logical Axioms: 38]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl>))) [Axioms: 40945 Logical Axioms: 13121]
+
+Duplicate Found in existing HashMap
+Fragment: nifext_5031 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Chemical.owl#nifext_5031
+Fragment: nifext_5031 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl#nifext_5031
+-- Values do not match
+
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Investigation.owl>))) [Axioms: 6815 Logical Axioms: 903]
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_6 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_6
+Fragment: birnlex_6 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_6
+-- Values do not match
+
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBI-proxy.owl>))) [Axioms: 540 Logical Axioms: 50]
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_6 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_6
+Fragment: birnlex_6 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_6
+-- Values do not match
+
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/sequence.owl>))) [Axioms: 22097 Logical Axioms: 6417]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-NCBITaxonomy-Slim.owl>))) [Axioms: 262 Logical Axioms: 61]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/Backend/OBO_annotation_properties.owl>))) [Axioms: 175 Logical Axioms: 27]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/Dysfunction/NIF-Dysfunction.owl>))) [Axioms: 5685 Logical Axioms: 353]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-Circuit-Role-Bridge.owl>))) [Axioms: 222 Logical Axioms: 90]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Unclassified.owl>))) [Axioms: 138 Logical Axioms: 26]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/iao/dev/externalByHand.owl>))) [Axioms: 86 Logical Axioms: 15]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/iao/dev/iao-main.owl>))) [Axioms: 1202 Logical Axioms: 202]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl>))) [Axioms: 3565 Logical Axioms: 892]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule-Role-Bridge.owl>))) [Axioms: 194 Logical Axioms: 89]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-NCBITax-Slim-Inferred.owl>))) [Axioms: 96 Logical Axioms: 48]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/Backend/quality_bfo_bridge.owl>))) [Axioms: 60 Logical Axioms: 4]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/Function/NIF-Function.owl>))) [Axioms: 1790 Logical Axioms: 283]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-Morphology-Inferred.owl>))) [Axioms: 702 Logical Axioms: 353]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/NIF-Neuron-BR-Inferred.owl>))) [Axioms: 717 Logical Axioms: 357]
+
+Duplicate Found in existing HashMap
+Fragment: nlx_cell_10061313 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF_Neuron_MolecularConstituent_Bridge.owl#nlx_cell_10061313
+Fragment: nlx_cell_10061313 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-Brain-Bridge.owl#nlx_cell_10061313
+-- Values do not match
+
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/ro.owl>))) [Axioms: 185 Logical Axioms: 33]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-Circuit-Role-Inferred.owl>))) [Axioms: 714 Logical Axioms: 361]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Scientific-Discipline.owl>))) [Axioms: 684 Logical Axioms: 81]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Eagle-I-Bridge.owl>))) [Axioms: 570 Logical Axioms: 192]
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_6 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_6
+Fragment: birnlex_6 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_6
+-- Values do not match
+
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl>))) [Axioms: 424 Logical Axioms: 34]
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_13 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl#birnlex_13
+Fragment: birnlex_13 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_13
+-- Values do not match
+
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_10 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl#birnlex_10
+Fragment: birnlex_10 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_10
+-- Values do not match
+
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_1 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl#birnlex_1
+Fragment: birnlex_1 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_1
+-- Values do not match
+
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_2 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl#birnlex_2
+Fragment: birnlex_2 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_2
+-- Values do not match
+
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/doid.owl>) VersionIRI(<http://purl.obolibrary.org/obo/doid/releases/2013-07-17/doid.owl>))) [Axioms: 105698 Logical Axioms: 9129]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/Backend/NIF-Quality.owl>))) [Axioms: 1323 Logical Axioms: 353]
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_2107 IRI: http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Investigation.owl#birnlex_2107
+Fragment: birnlex_2107 IRI: http://ontology.neuinfo.org/NIF/Backend/NIF-Quality.owl#birnlex_2107
+-- Values do not match
+
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.bioontology.org/NEMO/ontology/NEMO_annotation_properties.owl>))) [Axioms: 400 Logical Axioms: 46]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-Morphology-Bridge.owl>))) [Axioms: 37 Logical Axioms: 16]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/uberon/bridge/uberon-bridge-to-nif_grossanatomy.owl>) VersionIRI(<http://purl.obolibrary.org/obo/uberon/bridge/uberon-bridge-to-nif_grossanatomy/2013-07-03/uberon/bridge/uberon-bridge-to-nif_grossanatomy.owl>))) [Axioms: 5113 Logical Axioms: 1005]
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_18 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_18
+Fragment: birnlex_18 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_18
+-- Values do not match
+
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_19 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_19
+Fragment: birnlex_19 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_19
+-- Values do not match
+
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_14 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_14
+Fragment: birnlex_14 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_14
+-- Values do not match
+
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_20 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_20
+Fragment: birnlex_20 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_20
+-- Values do not match
+
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_6 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_6
+Fragment: birnlex_6 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_6
+-- Values do not match
+
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_4 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_4
+Fragment: birnlex_4 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_4
+-- Values do not match
+
+
+Duplicate Found in existing HashMap
+Fragment: Class_2 IRI: http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Resource.owl#Class_2
+Fragment: Class_2 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#Class_2
+-- Values do not match
+
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GO-CC-Bridge.owl>))) [Axioms: 666 Logical Axioms: 229]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl>))) [Axioms: 14360 Logical Axioms: 1537]
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_2 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl#birnlex_2
+Fragment: birnlex_2 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_2
+-- Values do not match
+
+Imports: Ontology(OntologyID(OntologyIRI(<http://www.w3.org/2004/02/skos/core>))) [Axioms: 205 Logical Axioms: 42]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-BrainRegion-Bridge.owl>))) [Axioms: 537 Logical Axioms: 208]
+
+Duplicate Found in existing HashMap
+Fragment: nlx_cell_10061313 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF_Neuron_MolecularConstituent_Bridge.owl#nlx_cell_10061313
+Fragment: nlx_cell_10061313 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-Brain-Bridge.owl#nlx_cell_10061313
+-- Values do not match
+
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.org/obo/owl/ro>))) [Axioms: 265 Logical Axioms: 64]
+Imports: Ontology(OntologyID(OntologyIRI(<http://purl.bioontology.org/NEMO/ontology/NEMO.owl>))) [Axioms: 25795 Logical Axioms: 2701]
+Imports: Ontology(OntologyID(OntologyIRI(<http://ontology.neuinfo.org/NIF/Backend/nif_backend.owl>))) [Axioms: 32 Logical Axioms: 15]
+
+Duplicate Found in existing HashMap
+Fragment: birnlex_2 IRI: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl#birnlex_2
+Fragment: birnlex_2 IRI: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_2
+-- Values do not match
+

@@ -1,0 +1,126 @@
+** Review of NIFSTD Term IDs **
+
+Fragment: nifext_5031 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Chemical.owl#nifext_5031, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Chemical.owl]
+Fragment: nifext_5031 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl#nifext_5031, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl]
+-> isReplacedByClass of http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Chemical.owl
+Can a term be deprecated and replaced by itself??? 
+
+
+Fragment: birnlex_6 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_6, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl]
+-> label is Anatomical entity
+Fragment: birnlex_6 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_6, http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Investigation.owl]
+-> label is Anatomical entity
+Seems ok for update.
+
+
+Fragment: birnlex_6 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_6, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl]
+Fragment: birnlex_6 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_6, http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBI-proxy.owl]
+-> Duplicate as above
+
+
+Fragment: nlx_cell_10061313 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF_Neuron_MolecularConstituent_Bridge.owl#nlx_cell_10061313, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-MolecularConstituent-Inferred.owl]
+-> No term details in this file, only subClassOf http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Cell.owl#sao1417703748
+Fragment: nlx_cell_10061313 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-Brain-Bridge.owl#nlx_cell_10061313, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-BR-Inferred.owl]
+-> No term details in this file, subClassOf http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-BrainRegion-Bridge.owl#nlx_cell_0912002
+
+
+Fragment: birnlex_6 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_6, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl]
+Fragment: birnlex_6 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_6, http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Eagle-I-Bridge.owl]
+-> Duplicate as above
+
+
+Fragment: birnlex_13 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl#birnlex_13, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl]
+-> label Sample population 
+Fragment: birnlex_13 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_13, http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl]
+-> isReplacedByClass http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl#birnlex_13
+Can a term be deprecated and replaced by itself???
+
+
+Fragment: birnlex_10 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl#birnlex_10, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl]
+-> label is Constitutional part of cell, deprecated, but no mention of replacedBy Class 
+Fragment: birnlex_10 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_10, http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl]
+-> isReplacedBy http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl#birnlex_10 
+
+
+Fragment: birnlex_1 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl#birnlex_1, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl]
+-> deprecated, no mention of replacedBy Class, label is Macromolecular complex
+Fragment: birnlex_1 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_1, http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl]
+-> isReplacedBy http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl#birnlex_1, label is Macromolecular complex 
+
+
+Fragment: birnlex_2 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl#birnlex_2, http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Eagle-I-Bridge.owl]
+-> only referenced in rdfs:subClassOf property 
+Fragment: birnlex_2 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_2, http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl]
+-> label is Organism
+
+
+Fragment: birnlex_2107 IRI: [http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Investigation.owl#birnlex_2107, http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Investigation.owl]
+-> label is Staining
+Fragment: birnlex_2107 IRI: [http://ontology.neuinfo.org/NIF/Backend/NIF-Quality.owl#birnlex_2107, http://ontology.neuinfo.org/NIF/Backend/NIF-Quality.owl]
+-> label is Staining 
+-> Both classes in each ontology are a subclass of http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Investigation.owl#birnlex_2180, but the metadata for each class is different and should be merged. 
+
+
+Fragment: birnlex_18 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_18, http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl]
+-> isReplacedBy http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_18, label is Body
+Fragment: birnlex_18 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_18, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-UBERON-Bridge.owl]
+-> label is multi-cellular organism (NIF_GrossAnatomy), equivalentClass: http://purl.obolibrary.org/obo/UBERON_0000468, label multi-cellular organism
+
+
+Fragment: birnlex_19 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_19, http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Eagle-I-Bridge.owl]
+-> equivalentClass http://purl.obolibrary.org/obo/UBERON_0000479
+Fragment: birnlex_19 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_19, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-UBERON-Bridge.owl]
+-> label is tissue (NIF_GrossAnatomy), equivalentClass http://purl.obolibrary.org/obo/UBERON_0000479
+
+
+Fragment: birnlex_14 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_14, http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl]
+-> isReplacedBy http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_14, label is Body System
+Fragment: birnlex_14 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_14, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-UBERON-Bridge.owl]
+-> label is anatomical system (NIF_GrossAnatomy), equivalentClass http://purl.obolibrary.org/obo/UBERON_0000467 (label is anatomical system)
+
+
+Fragment: birnlex_20 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_20, http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl]
+-> label is Bodily fluid, isReplacedBy http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_20 
+Fragment: birnlex_20 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_20, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-UBERON-Bridge.owl]
+-> label is bodily fluid (NIF_GrossAnatomy), equivalentClass http://purl.obolibrary.org/obo/UBERON_0006314 (label is bodily fluid) 
+
+
+Fragment: birnlex_6 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_6, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl]
+-> label is Anatomical entity 
+Fragment: birnlex_6 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_6, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-UBERON-Bridge.owl]
+-> equivalentClass http://purl.obolibrary.org/obo/UBERON_0001062 (label is anatomical entity), label is anatomical entity (NIF_GrossAnatomy)
+
+
+Fragment: birnlex_4 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_4, http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl]
+-> label is Anatomical entity 
+Fragment: birnlex_4 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_4, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-UBERON-Bridge.owl]
+-> label is organ (NIF_GrossAnatomy), equivalentClass http://purl.obolibrary.org/obo/UBERON_0000062
+
+
+Fragment: Class_2 IRI: [http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Resource.owl#Class_2, http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Resource.owl]
+-> label is Core facility, 
+Fragment: Class_2 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#Class_2, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-UBERON-Bridge.owl]
+-> label is white matter (NIF_GrossAnatomy), equivalentClass http://purl.obolibrary.org/obo/UBERON_0002316 (label is white matter) 
+** This one is an issue, but could just update each Class with a real ID ** 
+
+
+Fragment: birnlex_2 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl#birnlex_2, http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Eagle-I-Bridge.owl]
+-> only mentioned in subClassOf statement within a equivalentClass statement 
+Fragment: birnlex_2 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_2, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl]
+-> isReplacedBy http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl#birnlex_2 
+
+
+Fragment: nlx_cell_10061313 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF_Neuron_MolecularConstituent_Bridge.owl#nlx_cell_10061313, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-MolecularConstituent-Inferred.owl]
+-> no information other than it is a subClassOf http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Cell.owl#sao1417703748 
+Fragment: nlx_cell_10061313 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-Brain-Bridge.owl#nlx_cell_10061313, http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Neuron-BrainRegion-Bridge.owl]
+-> label is Cerebellar nucleus neuron 
+
+
+Fragment: birnlex_2 IRI: [http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl#birnlex_2, http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Eagle-I-Bridge.owl]
+-> no information other than it is a parent of some NCBITaxon terms 
+Fragment: birnlex_2 IRI: [http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_2, http://ontology.neuinfo.org/NIF/Backend/nif_backend.owl]
+-> deprecated, no other information
+
+
+
+
