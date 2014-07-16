@@ -120,9 +120,13 @@ public class FollowImports {
 			    	// Key: birnlex_2 Value: http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBO-UBO.owl#birnlex_2
 			    	// Duplicate Key birnlex_2 Value: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl#birnlex_2
 			    	
-			    	// Check if values are the same, if yes then there is no issue
-			    	if (!mapAll.get(key).equals(value)) {
-			    		System.out.println("Duplicate Found in existing HashMap -> Key: "+key+" Value: "+mapAll.get(key));
+			    	// Check if values *for term IRI* are the same, if yes then there is no issue
+			    	ArrayList<String> termIRIFromMap = mapAll.get(key);
+			    	//System.out.println("Term IRI From Map: "+termIRIFromMap.get(0));
+			    	
+			    	//if (!mapAll.get(key).equals(value)) {  //Need to get first element in value ArrayList
+			    	if (!termIRIFromMap.get(0).equals(value.get(0))) {
+			    	System.out.println("Duplicate Found in existing HashMap -> Key: "+key+" Value: "+mapAll.get(key));
 			    		System.out.println("From new HashMap -> Key: "+key+" Value: "+value);
 			    		System.out.println("-- Values do not match\n");
 			    		
