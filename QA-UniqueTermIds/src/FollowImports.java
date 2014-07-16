@@ -82,15 +82,15 @@ public class FollowImports {
 		for (OWLOntology importedOntology : ontology.getImportsClosure()) {  //previously used getImportsClosure() but timed out vs. getImports() 
 			System.out.println("Imports: ");
 			IRI documentIRI = manager.getOntologyDocumentIRI(importedOntology);
-			bw.write("Imports: "+importedOntology+"From: "+documentIRI.toQuotedString()+"\n");
+			bw.write("Imports: "+importedOntology+"\nFrom: "+documentIRI.toQuotedString()+"\n");
 			printOntology(manager, importedOntology);
 			
 			Map<String,String> map = getAllClasses(manager, importedOntology);
 			//Copy all keys and values to mapAll since map will be cleared when method called again
 			
 			// Iterate through returned map 
+			System.out.println("Analyzing returned map in ** printOntologyAndImports method **");
 			for (Entry<String, String> entry : map.entrySet()) {
-				System.out.println("Analyzing returned map in ** printOntologyAndImports method **");
 				String key = entry.getKey();
 			    String value = entry.getValue();
 			    //System.out.println("From new HashMap -> Key: "+key+" Value: "+value);
