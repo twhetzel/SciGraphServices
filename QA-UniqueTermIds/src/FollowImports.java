@@ -1,3 +1,16 @@
+/**
+ * FollowImports.java within QA-UniqueTermIds
+ * 
+ * Purpose: Iterate through NIFSTD import closure and all classes in these ontologies
+ * to get the term IRI, IRI fragment, and ontology document IRI to identify IF an
+ * IRI fragment is used more than once with a different ontology URL prefix. This is a
+ * review step before globally updating all NIF ontology URL prefixes to http://uri.neuinfo.org/nif/nifstd/....
+ * 
+ * @author Trish Whetzel 
+ * @date Tue Jul 15 21:20:20 PDT 2014 
+ */
+
+
 import java.io.File;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -47,6 +60,7 @@ public class FollowImports {
 	public static void shouldUseIRIMappers() throws OWLOntologyCreationException, IOException {
 		IRI NIFSTD_IRI = IRI.create("http://ontology.neuinfo.org/NIF/nif.owl");
 		//IRI NIF_Resource = IRI.create("http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Resource.owl"); // Debug
+		//IRI NIF_Investigation = IRI.create("http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Investigation.owl"); //Debug 
 		
 		// Create a manager to work with
 		OWLOntologyManager manager = OWLManager.createOWLOntologyManager();
@@ -58,7 +72,10 @@ public class FollowImports {
 
 	
 	/**
-	 * Print information from ontology
+	 * Print ontology URL and where it is loaded from
+	 * Add term IRI fragment, term IRI, and document IRI to HashMap if unique, 
+	 * otherwise writes message to file about duplicate values found
+	 * 
 	 * @param manager
 	 * @param ontology
 	 * @throws IOException 
@@ -73,26 +90,24 @@ public class FollowImports {
 		}
 		FileWriter fw = new FileWriter(file.getAbsoluteFile());
 		BufferedWriter bw = new BufferedWriter(fw);
-		
-		
-		Map<String,String> mapAll = getAllClasses(manager, ontology);
+			
+		Map<String,ArrayList<String>> mapAll = getAllClasses(manager, ontology);
 		System.out.println("** Returned HashMap Size: "+mapAll.size());
 		
 		// List the imported ontologies, follows entire import chain for all ontologies
 		for (OWLOntology importedOntology : ontology.getImportsClosure()) {  //previously used getImportsClosure() but timed out vs. getImports() 
 			System.out.println("Imports: ");
 			IRI documentIRI = manager.getOntologyDocumentIRI(importedOntology);
-			bw.write("Imports: "+importedOntology+"\nFrom: "+documentIRI.toQuotedString()+"\n");
+			bw.write("IMPORTS: "+importedOntology+"\nFROM: "+documentIRI.toQuotedString()+"\n");
 			printOntology(manager, importedOntology);
 			
-			Map<String,String> map = getAllClasses(manager, importedOntology);
-			//Copy all keys and values to mapAll since map will be cleared when method called again
+			Map<String,ArrayList<String>> map = getAllClasses(manager, importedOntology); // map contains key=fragment and value=(term IRI, documentIRI)
 			
 			// Iterate through returned map 
 			System.out.println("Analyzing returned map in ** printOntologyAndImports method **");
-			for (Entry<String, String> entry : map.entrySet()) {
+			for (Entry<String, ArrayList<String>> entry : map.entrySet()) {
 				String key = entry.getKey();
-			    String value = entry.getValue();
+			    ArrayList<String> value = entry.getValue();
 			    //System.out.println("From new HashMap -> Key: "+key+" Value: "+value);
 			    // If unique key, add to mapAll
 			    if (!mapAll.containsKey(key)) {
@@ -143,17 +158,19 @@ public class FollowImports {
 	 * create a HashMap of the term Id (key) and URI, OntologyIRI (values) 
 	 * @return 
 	 */
-	private static Map<String, String> getAllClasses(OWLOntologyManager manager, OWLOntology ontology) {
+	private static Map<String, ArrayList<String>> getAllClasses(OWLOntologyManager manager, OWLOntology ontology) {
 		System.out.println("\n** getAllClasses method **"); //Debug  
 		IRI ontologyIRI = ontology.getOntologyID().getOntologyIRI();
 		IRI documentIRI = manager.getOntologyDocumentIRI(ontology);
 		System.out.println("Gettting all classes for: "+ontologyIRI+" From: "+documentIRI);
 	    
-	 	Map<String, String> map = new HashMap<String, String>();
+	 	Map<String, ArrayList<String>> map = new HashMap<String, ArrayList<String>>();
 	 	// Test to confirm that existing Keys are found in HashMap
-	 	/* String seedString = "http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBI-proxy.owl#birnlex_11012";
+	 	/*ArrayList<String> seedStringValues = new ArrayList<String>();
+	 	seedStringValues.add("http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBI-proxy.owl#birnlex_11012");
+	 	seedStringValues.add("http://ontology.neuinfo.org/NIF/Backend/BIRNLex-OBI-proxy.owl");
 	 	String seedIRIFragment = "birnlex_11012";
-	 	map.put(seedIRIFragment, seedString);
+	 	map.put(seedIRIFragment, seedStringValues);
 	 	*/
 	 	
 		//TODO Check that Bridge files are properly traversed to get all classes
@@ -169,7 +186,10 @@ public class FollowImports {
 	  			//System.out.println("IRI is in NIFSTD namespace: "+iriString+"\n");
 	  			// check if key exists in HashMap. This case should not exist within a single ontology since Protege prevents this
 	  			if (!map.containsKey(fragment)) {
-	  				map.put(fragment, iriString);
+	  				ArrayList<String> iriValues = new ArrayList<String>();
+	  				iriValues.add(iriString);
+	  				iriValues.add(documentIRI.toString());
+	  				map.put(fragment, iriValues);
 	  			}
 	  			else {
 	  				System.err.println("Key exists: "+fragment);
