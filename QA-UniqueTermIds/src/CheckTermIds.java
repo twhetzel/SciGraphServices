@@ -1,5 +1,5 @@
 /**
- * FollowImports.java within QA-UniqueTermIds
+ * CheckTermIds.java within QA-UniqueTermIds
  * 
  * Purpose: Iterate through NIFSTD import closure and all classes in these ontologies
  * to get the term IRI, IRI fragment, and ontology document IRI to identify IF an
@@ -37,7 +37,7 @@ import org.semanticweb.owlapi.util.SimpleIRIMapper;
 
 
 
-public class FollowImports {
+public class CheckTermIds {
 	public static void main(String[] args) throws IOException {
 		try {
 			// NOTE: Check that VM arguments (-DentityExpansionLimit=100000000 -Xmx2G) are added to Run Configuration
