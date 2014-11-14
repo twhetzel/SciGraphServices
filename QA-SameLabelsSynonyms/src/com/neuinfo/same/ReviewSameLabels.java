@@ -13,6 +13,11 @@ import com.google.common.collect.HashMultimap;
 import com.google.common.collect.Multimap;
 import com.neuinfo.same.QueryOntoquest;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+
 
 /*
  * Find term names that are the same across different ontologies 
@@ -24,53 +29,28 @@ public class ReviewSameLabels {
 
 	/**
 	 * @param args
+	 * @throws IOException 
 	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) throws IOException {
 		HashMap<java.lang.String, List<java.lang.String>> lines = getTerms();
-		//reviewSamePrefLabels();  //Can this be done with OQ since there is no notion of ontology only IDs?
+		//reviewSamePrefLabels();  //Can this be done with OQ since there is no notion of ontology only ID?
 		HashMap<String, String> itemsToCheckForDuplicates = reviewSamePrefLabelSynonym(lines);
 		checkForDuplicateSynonyms(itemsToCheckForDuplicates);
 	}
 
+	
 	/*
-	 * Check for duplicate synonym values across different terms
+	 * Query Ontoquest to get all rows that have synonyms 
 	 */
-	private static void checkForDuplicateSynonyms(
-		HashMap<String, String> itemsToCheckForDuplicates) {
-		//http://stackoverflow.com/questions/12710494/java-how-to-get-set-of-keys-having-same-value-in-hashmap
-		//System.out.println("Original map: " + itemsToCheckForDuplicates);
-
-		Multimap<String, String> multiMap = HashMultimap.create();
-		for (Entry<String, String> entry : itemsToCheckForDuplicates.entrySet()) {
-		  multiMap.put(entry.getValue(), entry.getKey());
-		}
-		System.out.println();
-
-		for (Entry<String, Collection<String>> entry : multiMap.asMap().entrySet()) {
-		  //System.out.println("Original value: " + entry.getKey() + " was mapped to keys: "
-		  //    + entry.getValue());
-		  if (entry.getValue().size() > 1) {
-			  System.out.println("ISSUE: This synonym is mapped to multiple keys");
-			  System.out.println("Original value: " + entry.getKey() + " was mapped to keys: "
-				      + entry.getValue()+"\n");
-		  }
-		}	
-	}
-
-
 	private static HashMap<String, List<String>> getTerms() {
-		// Get list of terms from somewhere (prefLabel, synonym(s), termId, and ontology
-		
+		// Get list of terms from Ontoquest
 		HashMap<String, List<String>> resources = new HashMap();
-		List<String> valueList = new ArrayList<String>();
 		
 		try {
-			System.out.println("\n<-- Fetching Keys and corresponding Multiple Values -->");
-			// Query DISCO user database
-			//nt.term||'^^'||rtid||'^^'||rid as pk, nt.term, nt.tid, nt.synonyms
-			resources = QueryOntoquest.queryOQ(); //Disable for testing w/o internet
-			//System.out.println(resources);
+			System.out.println("\n<-- Querying Ontoquest -->");
+			// Query DISCO user database for these columns, 
+			// nt.term||'^^'||rtid||'^^'||rid as pk, nt.term, nt.tid, nt.synonyms
+			resources = QueryOntoquest.queryOQ(); 
 		} 
 			catch (SQLException e) {
 			e.printStackTrace();
@@ -85,7 +65,7 @@ public class ReviewSameLabels {
 
 
 	/*
-	 * Given a list of terms, get all synonyms and check if any are repeated for any terms
+	 * Given data from OQ, get all synonyms and unique identifier to check if any synonyms are repeated for different unique identifiers(terms) 
 	 */
 	private static HashMap<String, String> reviewSamePrefLabelSynonym(HashMap<String, List<String>> lines) {
 		Iterator it = lines.entrySet().iterator();
@@ -93,22 +73,64 @@ public class ReviewSameLabels {
 		
 	    while (it.hasNext()) {
 	        Map.Entry pairs = (Map.Entry)it.next();
-	        System.out.println("...");
+	        System.out.print("...");
 	        //System.out.println("KEY: "+pairs.getKey() + " \nVALUE: " + pairs.getValue());
 	        it.remove(); // avoids a ConcurrentModificationException
-	        String key = (String) pairs.getKey();
-	        ArrayList values = (ArrayList) pairs.getValue();
+	        //Order of data: nt.term||'^^'||rtid||'^^'||rid as pk, nt.term, nt.tid, nt.synonyms
+	        String key = (String) pairs.getKey(); //Primary key combination (nt.term||'^^'||rtid||'^^'||rid) 
+	        ArrayList values = (ArrayList) pairs.getValue(); //All other columns (nt.term, nt.tid, nt.synonyms)  
 	        
-	        String syn = (String) values.get(2);
-	        String[] synonyms = syn.split(",");
+	        String syn = (String) values.get(2); //Based on query, synonyms are index=2  
+	        String[] synonyms = syn.split(","); //Each row may contain >1 synonym in a comma-separated list
 	        int synLength = synonyms.length;
 	        for (int j= 0; j < synLength; j++) {
 	        	//System.out.println("syn-values: "+synonyms[j]);
-	        	listToReview.put(key, synonyms[j]);
+	        	//TODO Might need to append synonym to key to make key unique for HashMap and not overwrite values 
+	        	listToReview.put(key, synonyms[j]); //Populate HashMap with key and synonym values to review, 1 synonym per key 
 	        }
-	        //System.out.println("\n");
 	    }
+	    System.out.println("\n");
 	    return listToReview;
+	}
+	
+	
+	
+	/*
+	 * Check for duplicate synonym values across different terms
+	 */
+	private static void checkForDuplicateSynonyms(HashMap<String, String> itemsToCheckForDuplicates) throws IOException {
+		//http://stackoverflow.com/questions/12710494/java-how-to-get-set-of-keys-having-same-value-in-hashmap
+		//System.out.println("Original map: " + itemsToCheckForDuplicates);
+		System.out.println("Size of itemsToCheckForDuplicates: "+itemsToCheckForDuplicates.size());
+		
+		File file = new File("/Users/whetzel/git/OntologyQA/QA-SameLabelsSynonyms/sameSynonyms.txt");
+		// if file doesnt exists, then create it
+		if (!file.exists()) {
+			file.createNewFile();
+		}
+
+		FileWriter fw = new FileWriter(file.getAbsoluteFile());
+		BufferedWriter bw = new BufferedWriter(fw);
+
+
+		Multimap<String, String> multiMap = HashMultimap.create();
+		for (Entry<String, String> entry : itemsToCheckForDuplicates.entrySet()) {
+		  multiMap.put(entry.getValue(), entry.getKey());
+		}
+		System.out.println();
+
+		for (Entry<String, Collection<String>> entry : multiMap.asMap().entrySet()) {
+		  //System.out.println("Original value: " + entry.getKey() + " was mapped to keys: " + entry.getValue()); //Prints all items in multiMap 
+		  if (entry.getValue().size() > 1) { //Print lines that have >1 value
+			  System.out.println("ISSUE: This synonym is mapped to multiple keys");
+			  System.out.println("Original value: \'" + entry.getKey() + "\' was mapped to keys: "
+				      + entry.getValue()+"\n");
+		  
+			  bw.write("Original value: \'" + entry.getKey() + "\' was mapped to keys: "
+			      + entry.getValue()+"\n");
+		  }
+		}
+		bw.close();
 	}
 	
 }
