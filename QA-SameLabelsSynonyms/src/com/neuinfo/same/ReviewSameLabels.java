@@ -65,7 +65,8 @@ public class ReviewSameLabels {
 
 
 	/*
-	 * Given data from OQ, get all synonyms and unique identifier to check if any synonyms are repeated for different unique identifiers(terms) 
+	 * Given data from OQ, get all synonyms and unique identifier to check if any synonyms 
+	 * are repeated for different unique identifiers/terms(term||'^^'||rtid||'^^'||rid||'^^'||tid as pk)  
 	 */
 	private static HashMap<String, String> reviewSamePrefLabelSynonym(HashMap<String, List<String>> lines) {
 		Iterator it = lines.entrySet().iterator();
@@ -99,35 +100,34 @@ public class ReviewSameLabels {
 	 * Check for duplicate synonym values across different terms
 	 */
 	private static void checkForDuplicateSynonyms(HashMap<String, String> itemsToCheckForDuplicates) throws IOException {
-		//http://stackoverflow.com/questions/12710494/java-how-to-get-set-of-keys-having-same-value-in-hashmap
 		//System.out.println("Original map: " + itemsToCheckForDuplicates);
 		System.out.println("Size of itemsToCheckForDuplicates: "+itemsToCheckForDuplicates.size());
 		
-		File file = new File("/Users/whetzel/git/OntologyQA/QA-SameLabelsSynonyms/sameSynonyms.txt");
-		// if file doesnt exists, then create it
+		File file = new File("/Users/whetzel/git/OntologyQA/QA-SameLabelsSynonyms/sameSynonyms_11172014.txt");
+		// if file doesn't exists, then create it
 		if (!file.exists()) {
 			file.createNewFile();
 		}
 
 		FileWriter fw = new FileWriter(file.getAbsoluteFile());
 		BufferedWriter bw = new BufferedWriter(fw);
-
-
+		bw.write("SYNONYM\tKEY\n"); //Write file column headers 
+		
+		//http://stackoverflow.com/questions/12710494/java-how-to-get-set-of-keys-having-same-value-in-hashmap
+		// Data: term||'^^'||rtid||'^^'||rid||'^^'||tid as db KEY, 1 synonym as VALUE
 		Multimap<String, String> multiMap = HashMultimap.create();
 		for (Entry<String, String> entry : itemsToCheckForDuplicates.entrySet()) {
-		  multiMap.put(entry.getValue(), entry.getKey());
+			//Synonym value is now the key and all primary key combinations with that synonym are the value in multiMap
+			multiMap.put(entry.getValue(), entry.getKey());
 		}
-		System.out.println();
-
+		
 		for (Entry<String, Collection<String>> entry : multiMap.asMap().entrySet()) {
 		  //System.out.println("Original value: " + entry.getKey() + " was mapped to keys: " + entry.getValue()); //Prints all items in multiMap 
-		  if (entry.getValue().size() > 1) { //Print lines that have >1 value
-			  System.out.println("ISSUE: This synonym is mapped to multiple keys");
+		  if (entry.getValue().size() > 1) { //Print lines that have >1 value (db KEY) mapped to the same synonym 
+			  //System.out.println("ISSUE: This synonym is mapped to multiple keys");
 			  System.out.println("Original value: \'" + entry.getKey() + "\' was mapped to keys: "
-				      + entry.getValue()+"\n");
-		  
-			  bw.write("Original value: \'" + entry.getKey() + "\' was mapped to keys: "
-			      + entry.getValue()+"\n");
+				      + entry.getValue()+"\n");		  
+			  bw.write(entry.getKey()+"\t"+entry.getValue()+"\n");
 		  }
 		}
 		bw.close();

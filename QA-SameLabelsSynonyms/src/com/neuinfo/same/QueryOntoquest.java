@@ -24,7 +24,7 @@ public class QueryOntoquest {
 		HashMap<String,List<String>> termsToReview = new HashMap<String,List<String>>();
 
 		// Use to check for DUP Syns ONLY 
-		String selectTableSQL = "SELECT nt.term||'^^'||rtid||'^^'||rid as pk, nt.term, nt.tid, nt.synonyms " +
+		String selectTableSQL = "SELECT nt.term||'^^'||rtid||'^^'||rid||'^^'||tid as pk, nt.term, nt.tid, nt.synonyms " +
 				"FROM nif_term as nt " +
 				"WHERE nt.synonyms is not null "; // +
 				//"LIMIT 20 ";	
@@ -36,8 +36,8 @@ public class QueryOntoquest {
 			
 			while (rs.next())
 			{
-				String pk = rs.getString(1);
-				String term = rs.getString("term");
+				String pk = rs.getString(1); //get value by index position
+				String term = rs.getString("term"); //get value by column name
 				String tid = rs.getString("tid");
 				String synonyms = rs.getString("synonyms"); //status_date is the name of a column in the table
 				//LOG.info(tId+"\t"+rs.getString(2)+"\t"+statusDate);
