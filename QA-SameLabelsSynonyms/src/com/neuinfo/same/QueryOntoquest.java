@@ -24,10 +24,12 @@ public class QueryOntoquest {
 		HashMap<String,List<String>> termsToReview = new HashMap<String,List<String>>();
 
 		// Use to check for DUP Syns ONLY 
-		String selectTableSQL = "SELECT nt.term||'^^'||rtid||'^^'||rid||'^^'||tid as pk, nt.term, nt.tid, nt.synonyms " +
+		String selectTableSQL = "SELECT nt.term||'---'||rtid||'---'||rid||'---'||tid as pk, nt.term, nt.tid, nt.synonyms " +
 				"FROM nif_term as nt " +
-				"WHERE nt.synonyms is not null "; // +
-				//"LIMIT 20 ";	
+				"WHERE nt.synonyms is not null ";  //+
+				//"and nt.synonyms like '%SERPING%'";
+				//"WHERE nt.synonyms like '%hippocampus%' " +
+				//"LIMIT 50 ";	
 		try {
 			dbConnection = getDBConnection();
 			dbConnection.setAutoCommit(false);
@@ -47,6 +49,8 @@ public class QueryOntoquest {
 				values.add(term);
 				values.add(tid);
 				values.add(synonyms);
+				//TODO Add another item to split on later when processing values
+				values.add("XYZ");
 				
 				// Add to HashMap
 				termsToReview.put(pk, values);

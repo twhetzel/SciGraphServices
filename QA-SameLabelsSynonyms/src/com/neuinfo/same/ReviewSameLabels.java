@@ -2,6 +2,7 @@ package com.neuinfo.same;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -36,6 +37,7 @@ public class ReviewSameLabels {
 		//reviewSamePrefLabels();  //Can this be done with OQ since there is no notion of ontology only ID?
 		HashMap<String, String> itemsToCheckForDuplicates = reviewSamePrefLabelSynonym(lines);
 		checkForDuplicateSynonyms(itemsToCheckForDuplicates);
+		System.out.println("** Finished **");
 	}
 
 	
@@ -103,7 +105,7 @@ public class ReviewSameLabels {
 		//System.out.println("Original map: " + itemsToCheckForDuplicates);
 		System.out.println("Size of itemsToCheckForDuplicates: "+itemsToCheckForDuplicates.size());
 		
-		File file = new File("/Users/whetzel/git/OntologyQA/QA-SameLabelsSynonyms/sameSynonyms_11172014.txt");
+		File file = new File("/Users/whetzel/git/OntologyQA/QA-SameLabelsSynonyms/allSameSynonyms_11172014.txt");
 		// if file doesn't exists, then create it
 		if (!file.exists()) {
 			file.createNewFile();
@@ -111,7 +113,7 @@ public class ReviewSameLabels {
 
 		FileWriter fw = new FileWriter(file.getAbsoluteFile());
 		BufferedWriter bw = new BufferedWriter(fw);
-		bw.write("SYNONYM\tKEY\n"); //Write file column headers 
+		bw.write("SYNONYM\tKEY(TermID)\n"); //Write file column headers 
 		
 		//http://stackoverflow.com/questions/12710494/java-how-to-get-set-of-keys-having-same-value-in-hashmap
 		// Data: term||'^^'||rtid||'^^'||rid||'^^'||tid as db KEY, 1 synonym as VALUE
@@ -122,12 +124,51 @@ public class ReviewSameLabels {
 		}
 		
 		for (Entry<String, Collection<String>> entry : multiMap.asMap().entrySet()) {
-		  //System.out.println("Original value: " + entry.getKey() + " was mapped to keys: " + entry.getValue()); //Prints all items in multiMap 
+		  //System.out.println("Original synonym value: " + entry.getKey() + " was mapped to keys: " + entry.getValue()); //Prints all items in multiMap 
 		  if (entry.getValue().size() > 1) { //Print lines that have >1 value (db KEY) mapped to the same synonym 
 			  //System.out.println("ISSUE: This synonym is mapped to multiple keys");
-			  System.out.println("Original value: \'" + entry.getKey() + "\' was mapped to keys: "
-				      + entry.getValue()+"\n");		  
-			  bw.write(entry.getKey()+"\t"+entry.getValue()+"\n");
+			  //System.out.println("Original value: \'" + entry.getKey() + "\' was mapped to db keys: "
+			  //	      +entry.getValue());
+			  /*
+			   * Find only those entries where the tid in the db KEY are different. Example
+			   * formatting/contents of entry.getValue(), [Down-regulated in adenoma^^1^^1014116^^PR_000015038, protein DRA^^1^^1014116^^PR_000015038]
+			   */
+			  String[] eachEntry = null; 
+			  String each = null;
+			  String[] items = null;
+			  ArrayList<String> pkEntries = new ArrayList<String>();
+			  Collection<String> dbPrimaryKeyAggregate = entry.getValue();
+			  
+			  for (String dbPrimaryKeyEntries : dbPrimaryKeyAggregate) {
+				  //eachEntry = dbPrimaryKeyEntries.split(","); //TODO Some terms contain commas! 
+				  eachEntry = dbPrimaryKeyEntries.split("XYZ"); //TODO Some terms contain commas! 					  
+				  //System.out.println("Each Entry[0]: "+eachEntry[0]);
+				  
+				  for (int i=0; i < eachEntry.length ; i++) {
+					  //System.out.println("Each Entry: "+eachEntry[i]);
+					  each = eachEntry[i];
+					  //System.out.println("Each: "+each);
+					  items = each.split("---"); 
+					  // DEBUG
+					  for (int x =0; x<items.length; x++) {
+						  //System.err.println("Item[x]: "+items[x]);
+					  }
+					  
+					  //System.out.println("db PK: "+items[3]);
+					  if (!pkEntries.contains(items[3])) {  
+						  pkEntries.add(items[3]);
+					  }
+					  //System.out.println("PK Entries Size: "+pkEntries.size());
+				  }
+			  }
+			if (pkEntries.size() > 1) {
+				System.out.println("PK Entries with multiple IDs: "+ pkEntries+" for synonym value \'"+entry.getKey()+"\'");
+				System.out.println("Synonym value: \'" + entry.getKey() + "\' was mapped to db keys: "
+					      +entry.getValue());		  
+				//bw.write(entry.getKey()+"\t"+entry.getValue()+"\n");
+				bw.write(entry.getKey()+"\t"+pkEntries+"\n");
+			}
+			System.out.println();
 		  }
 		}
 		bw.close();
