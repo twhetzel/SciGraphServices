@@ -108,8 +108,9 @@ public class AnalyzeTerms {
 	private static String checkForEquivalentTerm(String nTerm,
 			ArrayList<String> nonNifTerms) throws ParserConfigurationException, IOException, SAXException {
 		String ontoquestConceptURL = "http://nif-services.neuinfo.org/ontoquest/concepts/";
-		String match = null;
-
+		String match = nTerm;
+		String matchingTermResponse = null;
+		
 		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 		DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 
@@ -143,7 +144,16 @@ public class AnalyzeTerms {
 						NodeList termName = firstSearchElement.getElementsByTagName("name");
 						Element termNameValue = (Element)termName.item(0);	
 						NodeList textOVIDList = termNameValue.getChildNodes();					
-						System.out.print("Term Name: "+((Node)textOVIDList.item(0)).getNodeValue().trim());
+						System.out.println("Term Name: "+((Node)textOVIDList.item(0)).getNodeValue().trim());
+						String nameValue = ((Node)textOVIDList.item(0)).getNodeValue().trim();
+						if (match.equals(nameValue)) {
+							System.out.println("Terms Match");
+							matchingTermResponse = "Match";
+						}
+						else {
+							System.out.println("Terms Do Not match");
+							matchingTermResponse = "Do Not match";
+						}
 					}
 				}
 			}
@@ -153,7 +163,7 @@ public class AnalyzeTerms {
 
 
 		}
-		return match;
+		return matchingTermResponse;
 	}
 
 
