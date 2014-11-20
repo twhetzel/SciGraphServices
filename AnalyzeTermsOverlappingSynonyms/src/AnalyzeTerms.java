@@ -1,5 +1,8 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -45,7 +48,11 @@ public class AnalyzeTerms {
 		ArrayList<String> nifTerms = new ArrayList<String>();
 		ArrayList<String> nonNifTerms = new ArrayList<String>();
 		String eqTermCheck = null;
-
+		
+		File outputFile = new File ("./sameSynomymsAnalysis.txt");
+		FileWriter fw = new FileWriter(outputFile.getAbsoluteFile());
+		BufferedWriter bw = new BufferedWriter(fw); 
+		
 		Iterator it = synTermMap.entrySet().iterator();
 		while (it.hasNext()) {
 			Map.Entry pairs = (Map.Entry)it.next();
@@ -59,16 +66,20 @@ public class AnalyzeTerms {
 			String leftFormat = termIdValues.replace("[", "");
 			String rightFormat = leftFormat.replace("]", "");
 			String[] termsToCheck = rightFormat.split(",");
-
+			
+			bw.write(synonymKey+"\t"+termIdValues+"\t");
+			
 			// Analyze termIds, "nif" terms include "nifext", "birnlex", "nlx_inv", "sao" 
 			if (termIdValues.contains("nifext") || termIdValues.contains("birnlex") 
-					|| termIdValues.contains("nlx_inv") || termIdValues.contains("sao") || termIdValues.contains("nlx_res") || termIdValues.contains("nlx_anat")) {
+					|| termIdValues.contains("nlx_inv") || termIdValues.contains("sao") || termIdValues.contains("nlx_res") 
+					|| termIdValues.contains("nlx_anat") || termIdValues.contains("nlx_dys")) {
 				System.out.println("** ID VALUES CONTAINS NIF TERM ID ** ");
 
 				for (int x=0; x<termsToCheck.length; x++) {
 					if (termsToCheck[x].contains("nifext") || termsToCheck[x].contains("birnlex") 
 							|| termsToCheck[x].contains("nlx_inv") || termsToCheck[x].contains("sao") 
-							|| termsToCheck[x].contains("nlx_res") || termsToCheck[x].contains("nlx_anat")) {
+							|| termsToCheck[x].contains("nlx_res") || termsToCheck[x].contains("nlx_anat")
+							|| termsToCheck[x].contains("nlx_dys")) {
 						nifTerms.add(termsToCheck[x]);
 						//System.err.println("NIF Term(s): "+nifTerms);
 					}
@@ -84,11 +95,15 @@ public class AnalyzeTerms {
 					}
 					// Call Ontoquest Web service with all other IDs and check that it returns the NIF ID
 					eqTermCheck = checkForEquivalentTerm(nTerm, nonNifTerms);
+					System.out.println(eqTermCheck);
 					System.out.println();
+					bw.write(eqTermCheck+"\n");
 				}
 				else {
 					System.out.println("More than 1 NIF Term found "+nifTerms);
 					eqTermCheck = "** Review Manually **";
+					System.out.println(eqTermCheck);
+					bw.write("** Review Manually ** \n");
 				}		
 				nifTerms.clear();
 				nonNifTerms.clear();
@@ -96,6 +111,7 @@ public class AnalyzeTerms {
 			}
 			else {
 				System.out.println("No NIF Term ID "+termIdValues+"\n");
+				bw.write("No NIF Term ID values in: "+termIdValues+"\n");
 			} 
 		}
 	}	
