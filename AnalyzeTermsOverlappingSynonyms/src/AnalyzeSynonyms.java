@@ -23,7 +23,7 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 
-public class AnalyzeTerms {
+public class AnalyzeSynonyms {
 
 	/**
 	 * @param args
@@ -49,7 +49,7 @@ public class AnalyzeTerms {
 		ArrayList<String> nonNifTerms = new ArrayList<String>();
 		String eqTermCheck = null;
 		
-		File outputFile = new File ("./sameSynomymsAnalysis.txt");
+		File outputFile = new File ("./sameSynomymsAnalysis-TEST.txt");
 		FileWriter fw = new FileWriter(outputFile.getAbsoluteFile());
 		BufferedWriter bw = new BufferedWriter(fw); 
 		
