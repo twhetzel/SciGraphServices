@@ -1,0 +1,2066 @@
+Adie Syndrome	[DOID_11549, birnlex_12581]	Match
+pyriform area	[birnlex_1097, UBERON_0002590, UBERON_0004725]	Match
+Golls nucleus	[UBERON_0002161, birnlex_2643]	Match
+TNF-alpha	[sao220868685, PR_000000134]	Match
+raphe nuclei of medulla	[UBERON_0002692, birnlex_1420]	Match
+Blattoptera	[NCBITaxon_85823, birnlex_409]	Match
+2-dioxygenase activity	[GO_0018628, GO_0018689, GO_0050240, GO_0018626, GO_0043898, GO_0018559]	No NIF Term ID values in: [GO_0018628, GO_0018689, GO_0050240, GO_0018626, GO_0043898, GO_0018559]
+kH2	[PR_000000787, nifext_2755]	Match
+physiological process	[GO_0008150, NEMO_0000319, NEMO_2878000]	No NIF Term ID values in: [GO_0008150, NEMO_0000319, NEMO_2878000]
+c elegans	[birnlex_420, NCBITaxon_6239]	Match
+lobule IV of cerebellum vermis	[UBERON_0004077, nlx_anat_20081227]	Match
+Gnrhr	[nifext_7541, nifext_7544]	** Review Manually ** 
+pontine reticular nucleus	[UBERON_0002573, birnlex_1050]	Match
+t11 segment	[birnlex_1596, UBERON_0006467]	Match
+QRFP	[nifext_6993, PR_000013568]	Do Not match
+ presubicular	[birnlex_1758, UBERON_0013558]	Match
+segmenta cervicalia medullae spinalis [1-8	[UBERON_0002726, birnlex_1499]	Match
+Cystoid Macular Edema	[DOID_4447, birnlex_12814, DOID_14245]	Match
+sixth thoracic dorsal root ganglion	[UBERON_0002849, birnlex_2616]	Match
+passive immune evasion	[GO_0051809, GO_0042782]	No NIF Term ID values in: [GO_0051809, GO_0042782]
+Area retrolimbica granularis	[UBERON_0004717, birnlex_1763]	Match
+commissure of inferior colliculi	[UBERON_0003028, birnlex_935]	Match
+segment part of sacral spinal cord	[birnlex_1512, UBERON_0007717]	Match
+PKR1	[PR_000013228, nifext_6941]	Do Not match
+PKR2	[PR_000001654, PR_000013230, nifext_6911]	Do Not match
+necrosis	[GO_0001906, GO_0070265, GO_0008219]	No NIF Term ID values in: [GO_0001906, GO_0070265, GO_0008219]
+parahippocampal gyrus (amaral)	[UBERON_0002657, birnlex_1295]	Match
+Kanner's syndrome	[DOID_12849, birnlex_12501]	Match
+manganese homeostasis	[GO_0055071, GO_0030026]	No NIF Term ID values in: [GO_0055071, GO_0030026]
+peroneal muscular atrophy	[nlx_dys_100316, DOID_10595]	Match
+fissure of Sylvius	[UBERON_0002721, birnlex_1487]	Match
+D	[SO_0001228, PR_000001072]	No NIF Term ID values in: [SO_0001228, PR_000001072]
+ASH	[PR_000004327, PR_000008224]	No NIF Term ID values in: [PR_000004327, PR_000008224]
+cytokinetic ring	[GO_0070938, GO_0032157]	No NIF Term ID values in: [GO_0070938, GO_0032157]
+septin assembly and septum formation	[GO_0000921, GO_0000918]	No NIF Term ID values in: [GO_0000921, GO_0000918]
+polypeptide deformylase	[PR_000022424, PR_000012489]	No NIF Term ID values in: [PR_000022424, PR_000012489]
+subbrachial nucleus	[nlx_anat_1005003, UBERON_0006119]	Match
+Gangliocytoma	[DOID_2426, birnlex_12617]	Match
+electrophysiological_artefact	[NEMO_5891000, NEMO_3390000, NEMO_0335000, NEMO_1314000, NEMO_1709000, NEMO_8727000]	No NIF Term ID values in: [NEMO_5891000, NEMO_3390000, NEMO_0335000, NEMO_1314000, NEMO_1709000, NEMO_8727000]
+microtubuli	[GO_0005874, sao1846835077]	Match
+ unspecified	[birnlex_12655, DOID_8529, DOID_11030, DOID_11664, DOID_9283, DOID_6195, DOID_1498, DOID_1824, DOID_1468, DOID_13790, DOID_2456, DOID_13223, DOID_1325, DOID_3426, DOID_11782, birnlex_12750, DOID_543, DOID_1844, DOID_869]	** Review Manually ** 
+cingulate area	[birnlex_798, UBERON_0002967]	Match
+Anterior hypothalamic area	[birnlex_1226, UBERON_0002634]	Match
+caspase activity	[GO_0004197, GO_0097153]	No NIF Term ID values in: [GO_0004197, GO_0097153]
+telencephalon segment	[UBERON_0002791, birnlex_1700]	Match
+neuroblastoma (morphologic abnormality)	[DOID_769, birnlex_12631]	Match
+calcium-independent cell adhesion molecule activity	[GO_0016338, GO_0007161]	No NIF Term ID values in: [GO_0016338, GO_0007161]
+T	[birnlex_2019, PR_000016001]	Do Not match
+euchromatin	[sao445485807, GO_0000791]	Match
+thoracic neural root	[UBERON_0009630, birnlex_836]	Match
+MDC(1-69)	[PR_000001994, nifext_5050]	Match
+P	[PATO_0001346, PR_000011590]	No NIF Term ID values in: [PATO_0001346, PR_000011590]
+helix	[SO_0001114, SO_0001117]	No NIF Term ID values in: [SO_0001114, SO_0001117]
+Panic Attack	[birnlex_12676, DOID_594]	Match
+spinothalamic tract	[UBERON_0002944, birnlex_741]	Match
+arcualia	[UBERON_2001060, UBERON_2001361]	No NIF Term ID values in: [UBERON_2001060, UBERON_2001361]
+mitochondrial RNA editing	[GO_1900864, GO_0080156]	No NIF Term ID values in: [GO_1900864, GO_0080156]
+SNOMEDCT 116250002 	[NEMO_7699000, NEMO_3603000]	No NIF Term ID values in: [NEMO_7699000, NEMO_3603000]
+ phospholipase C activating pathway	[GO_0007206, GO_0071882]	No NIF Term ID values in: [GO_0007206, GO_0071882]
+forming face	[GO_0005801, sao632188024]	Match
+Flg22:Fls2:Bak1 complex	[PR_000028504, PR_000028502]	No NIF Term ID values in: [PR_000028504, PR_000028502]
+tone	[NEMO_0000427, PATO_0001439]	No NIF Term ID values in: [NEMO_0000427, PATO_0001439]
+ microtubule-mediated	[GO_0030473, GO_0034643]	No NIF Term ID values in: [GO_0030473, GO_0034643]
+intercalated nucleus of the amygdala	[birnlex_2683, UBERON_0002884]	Match
+ATR	[PR_000004499, PR_000004068]	No NIF Term ID values in: [PR_000004499, PR_000004068]
+Nomarski optical imaging protocol	[birnlex_2261, ERO_0001637]	Match
+fimbria of the fornix	[UBERON_0002310, birnlex_1502]	Match
+monocyte chemotactic protein 3	[nifext_5039, PR_000002125]	Match
+Extrapontine Myelinoclasis	[DOID_636, birnlex_12552]	Match
+nematode	[NCBITaxon_6231, birnlex_578]	Match
+fumarate hydratase isoform cytoplasmic	[PR_000025759, PR_000025758]	No NIF Term ID values in: [PR_000025759, PR_000025758]
+cranial colliculus	[UBERON_0001945, birnlex_1040]	Match
+genital development	[GO_0007484, GO_0048806]	No NIF Term ID values in: [GO_0007484, GO_0048806]
+commissure	[UBERON_0001020, nlx_anat_20090513]	Match
+prerolandic gyrus	[birnlex_1455, UBERON_0002703]	Match
+mesencephalic nucleus	[UBERON_0001718, birnlex_1010]	Match
+Golgi vesicle	[sao819927218, GO_0005798, sao138219748]	** Review Manually ** 
+T200	[PR_000025816, PR_000001017, PR_000001006]	No NIF Term ID values in: [PR_000025816, PR_000001017, PR_000001006]
+planned_comparison	[NEMO_1576000, NEMO_0561000, NEMO_6454000, NEMO_6640000]	No NIF Term ID values in: [NEMO_1576000, NEMO_0561000, NEMO_6454000, NEMO_6640000]
+first cervical spinal cord segment	[UBERON_0006469, birnlex_1694]	Match
+extremity	[UBERON_0000026, UBERON_0002101]	No NIF Term ID values in: [UBERON_0000026, UBERON_0002101]
+Endosomal Sorting Complex Required for Transport	[GO_0000813, GO_0000814, GO_0000815]	No NIF Term ID values in: [GO_0000813, GO_0000814, GO_0000815]
+sixth cervical spinal ganglion	[UBERON_0007711, birnlex_2608]	Match
+ADMR	[PR_000001419, nifext_6184]	Do Not match
+retinoid isomerohydrolase activity	[GO_0052885, GO_0052884]	No NIF Term ID values in: [GO_0052885, GO_0052884]
+perirenal fat pad	[UBERON_0005406, UBERON_0014464]	No NIF Term ID values in: [UBERON_0005406, UBERON_0014464]
+polymorphic layer of the hippocampus	[UBERON_0005371, birnlex_4113]	Match
+SMAP1	[PR_000017090, PR_000015258]	No NIF Term ID values in: [PR_000017090, PR_000015258]
+Cantareus aspersus	[birnlex_7241, NCBITaxon_6535, birnlex_7292]	** Review Manually ** 
+glutamic dehydrogenase activity	[GO_0004353, GO_0004354]	No NIF Term ID values in: [GO_0004353, GO_0004354]
+segment of cerebellum	[UBERON_0002946, birnlex_748]	Match
+cerebellar peduncles set	[birnlex_970, UBERON_0002474]	Match
+Sulcus rostralis inferior	[UBERON_0002767, birnlex_1642]	Match
+cerebellar mossy fibre	[nlx_subcell_20090209, GO_0044300]	No NIF Term ID values in: [nlx_subcell_20090209, GO_0044300]
+laminated inclusion body	[GO_1990011, sao506721981]	Match
+central part of glossopharyngeal nerve	[UBERON_0006090, birnlex_1274]	Match
+inferior temporal sulcus (Roberts)	[UBERON_0002693, birnlex_1422]	Match
+GIP	[GO_0005095, PR_000004883]	No NIF Term ID values in: [GO_0005095, PR_000004883]
+pretectum	[UBERON_0001944, nlx_59721, birnlex_703]	Match
+Muscarinic cholinergic receptor	[sao2062447305, PR_000001488]	Match
+nucleus dorsolateralis thalami	[UBERON_0002984, birnlex_838]	Match
+nucleus amygdalae	[UBERON_0001876, birnlex_1241]	Match
+latrophilin	[GO_0016524, PR_000001124]	No NIF Term ID values in: [GO_0016524, PR_000001124]
+basement lamina	[GO_0005605, sao1397492660]	Match
+Subependymal Gliosis	[birnlex_12623, DOID_4843]	Match
+USP21	[PR_000017163, PR_000017160]	No NIF Term ID values in: [PR_000017163, PR_000017160]
+olfactory bulb main mitral cell body layer	[UBERON_0004186, nlx_anat_100201]	Match
+mesenteron	[UBERON_0001045, UBERON_0004735]	No NIF Term ID values in: [UBERON_0001045, UBERON_0004735]
+AMP-dependent synthetase and ligase	[GO_0043956, GO_0043955]	No NIF Term ID values in: [GO_0043956, GO_0043955]
+axon growth cone	[GO_0044295, sao203987954]	Match
+ malignant (morphologic abnormality)	[DOID_5758, DOID_5208, DOID_4489, DOID_3284, DOID_0001816]	No NIF Term ID values in: [DOID_5758, DOID_5208, DOID_4489, DOID_3284, DOID_0001816]
+CatSper3	[PR_000000671, nifext_3202]	Match
+paraolfactory sulci	[birnlex_4039, UBERON_0002919]	Match
+AVd	[sao8444068431, GO_0044754]	Match
+monocyte chemoattractant protein 4	[PR_000002121, nifext_5042]	Match
+Medial preoptic area	[birnlex_1208, birnlex_706, UBERON_0002035, UBERON_0002625]	** Review Manually ** 
+PKD2	[PR_000013237, nifext_3169]	Do Not match
+2-dicarboxamide	[GO_0072737, GO_0072738]	No NIF Term ID values in: [GO_0072737, GO_0072738]
+segment part of thoracic spinal cord	[UBERON_0007715, birnlex_892]	Match
+microfilament	[GO_0005884, UBERON_0003003, sao1588493326]	Do Not match
+ sensory detection of electrical stimulus	[GO_0050970, GO_0050964]	No NIF Term ID values in: [GO_0050970, GO_0050964]
+pyruvate dehydrogenase complex (lipoamide)	[GO_0005967, GO_0045254, GO_0045250]	No NIF Term ID values in: [GO_0005967, GO_0045254, GO_0045250]
+SPT complex	[PR_000026130, PR_000026132, PR_000026169]	No NIF Term ID values in: [PR_000026130, PR_000026132, PR_000026169]
+MIP-3-beta	[PR_000001991, nifext_5047]	Match
+Combat Neurosis	[birnlex_12678, DOID_6950]	Match
+midline thalamic group	[UBERON_0002705, birnlex_1462]	Match
+main sensory nucleus	[UBERON_0002597, birnlex_1120]	Match
+CA2 bistratified cell	[nlx_cell_091004, nlx_cell_091209]	No NIF Term ID values in: [nlx_cell_091004, nlx_cell_091209]
+arginine tRNA	[GO_0033431, GO_0033430, GO_0033447, GO_0033448, GO_0033429, GO_0033432]	No NIF Term ID values in: [GO_0033431, GO_0033430, GO_0033447, GO_0033448, GO_0033429, GO_0033432]
+Nervous system disorder	[birnlex_12796, DOID_863]	Match
+Schwann cell paranodal termination	[GO_0043219, sao-1067215520, sao1354781919]	** Review Manually ** 
+S1 spinal cord segment	[UBERON_0006460, birnlex_1532]	Match
+UMLS C0041740	[University, NEMO_0569000]	No NIF Term ID values in: [University, NEMO_0569000]
+L1 segment	[UBERON_0006448, birnlex_1336]	Match
+cuneus gyrus	[birnlex_1396, UBERON_0006092]	Match
+ice nucleation inhibitor activity	[GO_0071497, GO_0050826]	No NIF Term ID values in: [GO_0071497, GO_0050826]
+Pelizaeus-Merzbacher disease (disorder)	[birnlex_12546, DOID_3210]	Match
+ no ICD-O subtype (morphologic abnormality)	[DOID_8692, DOID_5138, DOID_2683]	No NIF Term ID values in: [DOID_8692, DOID_5138, DOID_2683]
+mammillary level of hypothalamus	[UBERON_0002770, birnlex_1651]	Match
+layer 1 of piriform cortex	[nlx_anat_091003, UBERON_0014277]	Match
+ production of siRNA	[GO_0070919, GO_0090065, GO_0070921]	No NIF Term ID values in: [GO_0070919, GO_0090065, GO_0070921]
+purinergic receptor	[PR_000012189, PR_000012194, PR_000012191, PR_000012188]	No NIF Term ID values in: [PR_000012189, PR_000012194, PR_000012191, PR_000012188]
+sulcus limitans	[UBERON_0009573, UBERON_0005478]	No NIF Term ID values in: [UBERON_0009573, UBERON_0005478]
+iron homeostasis	[GO_0055072, GO_0006879]	No NIF Term ID values in: [GO_0055072, GO_0006879]
+nucleus lateralis intermedius lateralis	[birnlex_918, UBERON_0003019]	Match
+axon microtubule fascicle	[GO_1901589, sao707332678]	Match
+pinocytic vesicle	[sao1925368674, GO_0044352]	Match
+response to biotic stress	[GO_0006950, GO_0009607]	No NIF Term ID values in: [GO_0006950, GO_0009607]
+Area opercularis	[birnlex_1776, UBERON_0006481]	Match
+GALR2	[PR_000001586, nifext_6775]	Do Not match
+Manic bipolar I disorder	[birnlex_12754, DOID_3312]	Match
+first sacral spinal ganglion	[UBERON_0002860, birnlex_2628]	Match
+lateral hypothalamic region segment	[UBERON_0002785, birnlex_1687]	Match
+TRAM	[PR_000001745, PR_000001744]	No NIF Term ID values in: [PR_000001745, PR_000001744]
+paleodentate of dentate nucleus	[UBERON_0006743, birnlex_1490]	Match
+Alpers' disease or gray-matter degeneration	[DOID_1442, birnlex_12509]	Match
+NET1	[PR_000015190, PR_000011142, PR_000015186]	No NIF Term ID values in: [PR_000015190, PR_000011142, PR_000015186]
+Folium	[UBERON_0005345, nlx_anat_20081231]	Match
+root of abducens nerve	[birnlex_1689, UBERON_0002786]	Match
+hemi-adherens junction	[GO_0005924, GO_0030056]	No NIF Term ID values in: [GO_0005924, GO_0030056]
+vitamin A binding	[GO_0016918, GO_0005503, GO_0005502]	No NIF Term ID values in: [GO_0016918, GO_0005503, GO_0005502]
+Mtnr1b	[nifext_6976, nifext_6979]	** Review Manually ** 
+midbrain tectum segment	[UBERON_0002966, birnlex_795]	Match
+ xanthine and their nucleoside salvage	[GO_0006178, GO_0006179]	No NIF Term ID values in: [GO_0006178, GO_0006179]
+GZMB/iso:1/UnMod	[PR_000003501, PR_000003498]	No NIF Term ID values in: [PR_000003501, PR_000003498]
+lateral pyramidal tract	[UBERON_0002589, birnlex_1095]	Match
+AGTR1B	[PR_000001251, PR_000001252]	No NIF Term ID values in: [PR_000001251, PR_000001252]
+larval salivary gland determination	[GO_0007433, GO_0007434]	No NIF Term ID values in: [GO_0007433, GO_0007434]
+Gpr173	[nifext_6570, nifext_6567]	** Review Manually ** 
+Gpr176	[nifext_7676, nifext_7679]	** Review Manually ** 
+Retinopathy (disorder)	[DOID_5679, birnlex_12798]	Match
+CRISP Thesaurus ID 1001-3058	[OBI_0000816, NEMO_8875000, ERO_0000870]	No NIF Term ID values in: [OBI_0000816, NEMO_8875000, ERO_0000870]
+diencephalon segment	[UBERON_0002784, birnlex_1685]	Match
+LBHI	[GO_0097416, nlx_subcell_20090105]	No NIF Term ID values in: [GO_0097416, nlx_subcell_20090105]
+area 31 of Brodmann-1909	[UBERON_0006475, birnlex_1765]	Match
+lateral fillet	[birnlex_976, UBERON_0002953]	Match
+ADORA2B	[nifext_6027, PR_000001577]	Do Not match
+6-hexachlorocyclohexane metabolism	[GO_0018877, GO_0018919, GO_0018878]	No NIF Term ID values in: [GO_0018877, GO_0018919, GO_0018878]
+ADORA2A	[nifext_7729, PR_000001576]	Do Not match
+plate-like	[PATO_0000407, PATO_0002253]	No NIF Term ID values in: [PATO_0000407, PATO_0002253]
+GRIP-1	[PR_000008254, PR_000011041]	No NIF Term ID values in: [PR_000008254, PR_000011041]
+Neuromyelitis optica (disorder)	[birnlex_12519, DOID_8869]	Match
+cell cycle transition	[GO_0044770, GO_0044771]	No NIF Term ID values in: [GO_0044770, GO_0044771]
+rodent perirhinal cortex	[nlx_anat_1005014, nlx_anat_1005017]	** Review Manually ** 
+primosome	[GO_0005658, GO_1990077]	No NIF Term ID values in: [GO_0005658, GO_1990077]
+cortex cerebellaris	[UBERON_0002129, birnlex_1566]	Match
+peroxisome vesicle	[GO_0019824, GO_0019820, GO_0019822, GO_0019821, GO_0019819, GO_0019823]	No NIF Term ID values in: [GO_0019824, GO_0019820, GO_0019822, GO_0019821, GO_0019819, GO_0019823]
+heparinase activity	[GO_0047488, GO_0030305]	No NIF Term ID values in: [GO_0047488, GO_0030305]
+N-formylpeptide chemoattractant receptor	[PR_000001580, nifext_5301]	Match
+Central Lobule	[UBERON_0004076, nlx_anat_20081226]	Match
+RCK5	[PR_000000810, nifext_2678]	Match
+peri-cellular basket	[GO_1990030, sao413722576]	Match
+ mitochondrial	[GO_0005761, PR_000005754, PR_000005751, PR_000010626, GO_0005762]	No NIF Term ID values in: [GO_0005761, PR_000005754, PR_000005751, PR_000010626, GO_0005762]
+choline oxidase activity	[GO_0033713, GO_0008812]	No NIF Term ID values in: [GO_0033713, GO_0008812]
+ meta-cleavage	[GO_0019617, GO_0019616]	No NIF Term ID values in: [GO_0019617, GO_0019616]
+Granule layer of main olfactory bulb	[nlx_anat_20090404, UBERON_0005378]	Match
+ benign (morphologic abnormality)	[DOID_2658, DOID_2667, DOID_2616]	No NIF Term ID values in: [DOID_2658, DOID_2667, DOID_2616]
+O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase	[PR_000009765, PR_000013912]	No NIF Term ID values in: [PR_000009765, PR_000013912]
+paratenial nucleus of thalamus	[birnlex_860, UBERON_0002992]	Match
+posterior central gyrus	[UBERON_0002581, birnlex_1070]	Match
+Lemniscus medial	[birnlex_887, UBERON_0003002]	Match
+nucleus anteroventralis	[UBERON_0002685, birnlex_1372]	Match
+dura mater of neuraxis	[nlx_anat_090206, UBERON_0002363]	Match
+ and incorporation of one atom of oxygen	[GO_0016713, GO_0016709]	No NIF Term ID values in: [GO_0016713, GO_0016709]
+PACAP	[PR_000003761, PR_000012212]	No NIF Term ID values in: [PR_000003761, PR_000012212]
+TBXA2R	[nifext_6803, nifext_6805, PR_000001676]	** Review Manually ** 
+ADRA1A	[PR_000001185, nifext_7253]	Do Not match
+pons of varolius spinothalamic tract	[UBERON_0002798, birnlex_1719]	Match
+fifth lumbar spinal ganglion	[UBERON_0002859, birnlex_2627]	Match
+nose	[UBERON_0000004, UBERON_0007827]	No NIF Term ID values in: [UBERON_0000004, UBERON_0007827]
+division of cochlear canal	[birnlex_2554, birnlex_2565]	** Review Manually ** 
+crus cerebri	[birnlex_1218, UBERON_0002631]	Match
+Cisterna lamina terminalis	[birnlex_4002, UBERON_0002897]	Match
+posterior commissure nucleus	[birnlex_1470, UBERON_0002711]	Match
+inferior parietal cortex	[birnlex_1194, UBERON_0006088]	Match
+fumarase	[PR_000022735, PR_000007511, PR_000022734]	No NIF Term ID values in: [PR_000022735, PR_000007511, PR_000022734]
+medulla spinalis	[birnlex_1709, UBERON_0002240]	Match
+CAD	[PR_000004959, PR_000004974]	No NIF Term ID values in: [PR_000004959, PR_000004974]
+Posterior cingulate area	[UBERON_0013554, birnlex_1754]	Match
+hippocampus CA1	[UBERON_0003881, birnlex_1197]	Match
+NMDA receptor	[nifext_5250, GO_0004972]	Do Not match
+fifth thoracic spinal ganglion	[birnlex_2615, UBERON_0002848]	Match
+NCC-2	[PR_000001986, nifext_5044]	Match
+nodulus of cerebellum	[UBERON_0004083, nlx_anat_20081235, birnlex_1165]	** Review Manually ** 
+neocortex multiform layer	[UBERON_0005395, nlx_anat_090812]	Match
+Golgi component	[sao1546288504, GO_0044431, sao624292949]	** Review Manually ** 
+nucleus pulvinaris lateralis	[birnlex_1228, UBERON_0002636]	Match
+6-bisphosphate metabolism	[GO_0030388, GO_0006003]	No NIF Term ID values in: [GO_0030388, GO_0006003]
+CB2	[PR_000001126, nifext_7999]	Do Not match
+CB1	[nifext_6905, nifext_6899]	** Review Manually ** 
+zygote formation	[GO_0000755, GO_0007338]	No NIF Term ID values in: [GO_0000755, GO_0007338]
+Pinealocytoma	[birnlex_12634, DOID_1664]	Match
+Area temporalis inferior	[UBERON_0013551, birnlex_1751]	Match
+ mating-type specific	[GO_0045894, GO_0045895, GO_0001197, GO_0001198]	No NIF Term ID values in: [GO_0045894, GO_0045895, GO_0001197, GO_0001198]
+Macaca irus	[birnlex_291, NCBITaxon_9541]	Match
+Gpr135	[nifext_5790, nifext_5794]	** Review Manually ** 
+gyrus temporalis medius	[UBERON_0002771, birnlex_1653]	Match
+trunk	[GO_0043198, sao1078172392, sao2034472720]	** Review Manually ** 
+semilunar lobule-1 (anterior)	[UBERON_0003015, birnlex_913]	Match
+UBC	[PR_000016963, PR_000003288]	No NIF Term ID values in: [PR_000016963, PR_000003288]
+prefrontal association cortex	[nlx_anat_090801, UBERON_0000451]	Match
+supraoptic crest	[nlx_anat_100313, UBERON_0002689, birnlex_1400]	** Review Manually ** 
+terminal stria	[UBERON_0003029, birnlex_937]	Match
+ventral supraoptic commissure (of Meynert)	[UBERON_0002676, birnlex_1347]	Match
+sulcus occipitalis transversus	[UBERON_0002900, birnlex_4013]	Match
+carotene beta-ring hydroxylase activity	[GO_0052611, GO_0052608]	No NIF Term ID values in: [GO_0052611, GO_0052608]
+nucleus lateralis posterior	[UBERON_0002983, birnlex_835]	Match
+lobulus ansiform crus II	[UBERON_0005976, nlx_anat_20081209]	Match
+Gpr73l1	[nifext_6919, nifext_6916]	** Review Manually ** 
+Tuber	[UBERON_0005346, nlx_anat_20081232]	Match
+false fonts	[NEMO_2911000, NEMO_6581000]	No NIF Term ID values in: [NEMO_2911000, NEMO_6581000]
+stereophones	[NEMO_2556000, ERO_0001432]	No NIF Term ID values in: [NEMO_2556000, ERO_0001432]
+APLNR	[PR_000001120, nifext_5967]	Match
+CobB	[GO_0042242, GO_0043802]	No NIF Term ID values in: [GO_0042242, GO_0043802]
+ medial part	[UBERON_0002782, birnlex_2686, UBERON_0002614, birnlex_1682, UBERON_0002885, birnlex_1159]	** Review Manually ** 
+mShal	[PR_000000784, nifext_2736]	Match
+Gpr142	[nifext_7303, nifext_7300]	** Review Manually ** 
+recurrent collateral	[sao1642494436, GO_1990020]	Match
+pallidotegmental tract	[birnlex_1331, UBERON_0002671]	Match
+mShab	[PR_000000722, nifext_2708]	Match
+Gpr141	[nifext_7803, nifext_7806]	** Review Manually ** 
+channel-forming toxin activity	[GO_0009405, GO_0015267, GO_0046930]	No NIF Term ID values in: [GO_0009405, GO_0015267, GO_0046930]
+interleukin-1	[sao950082944, PR_000001091]	Match
+barb ramus	[UBERON_0011785, UBERON_0011786]	No NIF Term ID values in: [UBERON_0011785, UBERON_0011786]
+Ltb4r	[nifext_6607, nifext_6610]	** Review Manually ** 
+upregulation of eye pigmentation	[GO_0048075, GO_0048078]	No NIF Term ID values in: [GO_0048075, GO_0048078]
+neurotrophin	[GO_0005163, GO_0005165]	No NIF Term ID values in: [GO_0005163, GO_0005165]
+retina degeneration	[DOID_8466, birnlex_12799]	Match
+segment of midbrain tegmentum	[UBERON_0002635, birnlex_1227]	Match
+paranode	[GO_0033270, sao936144858]	Match
+seventh cervical spinal ganglion	[birnlex_2609, UBERON_0002843]	Match
+male genital morphogenesis	[GO_0048808, GO_0048803]	No NIF Term ID values in: [GO_0048808, GO_0048803]
+pars parvicellularis nuclei ventralis posteromedialis thalami	[UBERON_0003018, birnlex_917]	Match
+http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Organism.owl#birnlex_683	[NEMO_9596000, NEMO_0421000, NEMO_3513000]	No NIF Term ID values in: [NEMO_9596000, NEMO_0421000, NEMO_3513000]
+medulla arcuate nucleus of hypothalamus	[UBERON_0002865, birnlex_2635]	Match
+gyrus occipitalis primus	[UBERON_0002948, birnlex_758]	Match
+6-trinitrotoluene breakdown	[GO_0046258, GO_0046256]	No NIF Term ID values in: [GO_0046258, GO_0046256]
+anterior lobe of cerebellum	[UBERON_0002131, birnlex_1118]	Match
+epithalamus	[birnlex_1710, UBERON_0001899]	Match
+bed nucleus stria terminalis (johnson)	[UBERON_0001880, birnlex_724]	Match
+lobule II	[UBERON_0004075, nlx_anat_20081225]	Match
+parafascicular nucleus (Vogt)	[UBERON_0001922, birnlex_952]	Match
+cosmid vector	[ERO_0000289, SO_0000156]	No NIF Term ID values in: [ERO_0000289, SO_0000156]
+seventh cervical spinal cord segment	[UBERON_0006493, birnlex_773]	Match
+lobus limbicus	[UBERON_0002600, birnlex_1128]	Match
+intermediate postcentral	[NEMO_2703000, UBERON_0006099, birnlex_1732]	Match
+Ptafr	[nifext_7533, nifext_7528]	** Review Manually ** 
+intraparietal fissure	[UBERON_0002913, birnlex_4031]	Match
+UMLS C0683757	[NEMO_3240000, Company]	No NIF Term ID values in: [NEMO_3240000, Company]
+peptidyl-aspartic acid/asparagine hydroxylation	[GO_0042265, GO_0042264]	No NIF Term ID values in: [GO_0042265, GO_0042264]
+radiate layer of hippocampus	[birnlex_1298, UBERON_0005372]	Match
+segment of cerebral cortex	[birnlex_922, UBERON_0003022]	Match
+Calorimeter	[birnlex_2421, OBI_0000930]	Match
+transcription factor activity	[GO_0001070, GO_0003700, GO_0001071, GO_0000988]	No NIF Term ID values in: [GO_0001070, GO_0003700, GO_0001071, GO_0000988]
+Prelimbic area	[birnlex_1760, UBERON_0013560]	Match
+dentate nuclear hilum	[UBERON_0002744, birnlex_1561]	Match
+ post-mating	[GO_0045434, GO_0046009, GO_0048042]	No NIF Term ID values in: [GO_0045434, GO_0046009, GO_0048042]
+sulcus subcentralis posterior	[birnlex_4027, UBERON_0002909]	Match
+GPR135	[PR_000001505, nifext_5787]	Do Not match
+EF-Ts	[PR_000016718, PR_000024132]	No NIF Term ID values in: [PR_000016718, PR_000024132]
+ translocation	[GO_0033159, GO_0000060, GO_0033160, GO_0033158]	No NIF Term ID values in: [GO_0033159, GO_0000060, GO_0033160, GO_0033158]
+GPR132	[PR_000001504, nifext_6686]	Do Not match
+http://purl.obolibrary.org/obo/OBI_0000679	[NEMO_3768000, NEMO_8955000]	No NIF Term ID values in: [NEMO_3768000, NEMO_8955000]
+multimodal_area	[NEMO_2109000, NEMO_0339000]	No NIF Term ID values in: [NEMO_2109000, NEMO_0339000]
+Ptger2	[nifext_6445, nifext_6448]	** Review Manually ** 
+hypolemmal cisternae	[sao1634374950, GO_1990039]	Match
+Middle Cerebral Artery Stroke	[birnlex_12793, DOID_3525]	Match
+Purkinje cell layer	[UBERON_0002979, birnlex_818]	Match
+CCR9	[nifext_6371, nifext_6076, nifext_6078]	** Review Manually ** 
+CCR8	[PR_000001204, nifext_6279, nifext_6277]	** Review Manually ** 
+system	[UBERON_0000467, birnlex_14]	Match
+CCR7	[nifext_7906, nifext_7908]	** Review Manually ** 
+CCR6	[nifext_6300, nifext_6302]	** Review Manually ** 
+CCR5	[nifext_5912, nifext_5914]	** Review Manually ** 
+myosin phosphatase myosin binding	[GO_0017022, GO_0017018]	No NIF Term ID values in: [GO_0017022, GO_0017018]
+2'-O-dimethylcytidine	[SO_0001291, SO_0001287]	No NIF Term ID values in: [SO_0001291, SO_0001287]
+CCR4	[nifext_7747, nifext_7749]	** Review Manually ** 
+CCR3	[nifext_5924, nifext_5922]	** Review Manually ** 
+CCR2	[nifext_6055, PR_000001199, nifext_6057]	** Review Manually ** 
+ chromosome segregation	[GO_0045144, GO_0045143]	No NIF Term ID values in: [GO_0045144, GO_0045143]
+4-beta-xylanase activity	[GO_0051423, GO_0051422]	No NIF Term ID values in: [GO_0051423, GO_0051422]
+cadmium homeostasis	[GO_0055073, GO_0006876]	No NIF Term ID values in: [GO_0055073, GO_0006876]
+RubisCO complex	[GO_0048492, GO_0048494]	No NIF Term ID values in: [GO_0048492, GO_0048494]
+glomerulus capillary development	[GO_0072012, GO_0072239]	No NIF Term ID values in: [GO_0072012, GO_0072239]
+C-C motif chemokine 11	[PR_000002139, nifext_5041]	Match
+ mitotic	[GO_0046022, GO_0045896, GO_0007070]	No NIF Term ID values in: [GO_0046022, GO_0045896, GO_0007070]
+Training service	[ERO_0000393, nlx_res_20090444]	Match
+PLAT	[PR_000012825, DOID_6203]	No NIF Term ID values in: [PR_000012825, DOID_6203]
+vicq d'azyr's bundle	[UBERON_0006696, nlx_anat_1010016]	Match
+field CA4 of hippocampal formation	[UBERON_0002136, birnlex_1482]	Match
+Medulloblastoma (morphologic abnormality)	[DOID_3858, birnlex_12626]	Match
+peptide	[PR_000018264, PR_000018263, SO_0001064]	No NIF Term ID values in: [PR_000018264, PR_000018263, SO_0001064]
+inter-Golgi transport constitutive secretory pathway transport vesicle	[GO_0030143, sao1382918459]	Match
+GPR150	[nifext_5505, PR_000001512]	Do Not match
+Alexander's disease (disorder)	[DOID_4252, birnlex_12528]	Match
+GPR152	[nifext_5438, PR_000001514]	Do Not match
+Sulcus orbitalis transversus	[UBERON_0002612, birnlex_1155]	Match
+GPR153	[PR_000001637, nifext_5756]	Do Not match
+Gems	[GO_0015030, nlx_subcell_090901]	No NIF Term ID values in: [GO_0015030, nlx_subcell_090901]
+HPCN1	[PR_000000812, nifext_2691]	Match
+supratemporal	[UBERON_2000663, UBERON_0011629]	No NIF Term ID values in: [UBERON_2000663, UBERON_0011629]
+SAP130	[PR_000014737, PR_000014445]	No NIF Term ID values in: [PR_000014737, PR_000014445]
+ventral trigeminothalamic tract	[UBERON_0002549, birnlex_1001]	Match
+posterior complex of thalamus	[UBERON_0002709, birnlex_1467]	Match
+female genital development	[GO_0030540, GO_0007486]	No NIF Term ID values in: [GO_0030540, GO_0007486]
+ NAD or NADP as acceptor	[GO_1900058, GO_0016668, GO_0000103, GO_0016652, GO_1990042]	No NIF Term ID values in: [GO_1900058, GO_0016668, GO_0000103, GO_0016652, GO_1990042]
+ ortho-cleavage	[GO_0019615, GO_0019618]	No NIF Term ID values in: [GO_0019615, GO_0019618]
+hypoplasia	[PATO_0000587, PATO_0000645]	No NIF Term ID values in: [PATO_0000587, PATO_0000645]
+midbrain medial lemniscus	[UBERON_0002658, birnlex_1296]	Match
+regio ii hippocampi proprii	[UBERON_0003882, birnlex_1362]	Match
+Area frontalis media	[birnlex_1778, UBERON_0006483]	Match
+p94	[PR_000004801, PR_000005686]	No NIF Term ID values in: [PR_000004801, PR_000005686]
+association_area	[NEMO_3111000, NEMO_9293000, NEMO_4836000]	No NIF Term ID values in: [NEMO_3111000, NEMO_9293000, NEMO_4836000]
+GPR162	[PR_000001638, nifext_5696]	Do Not match
+nerve ending	[GO_0043679, UBERON_0012453, sao2007137787]	Do Not match
+threonine deaminase	[PR_000024038, PR_000023001]	No NIF Term ID values in: [PR_000024038, PR_000023001]
+glycine receptor	[GO_0016934, GO_0016933]	No NIF Term ID values in: [GO_0016934, GO_0016933]
+ATP5A	[PR_000004453, PR_000004461]	No NIF Term ID values in: [PR_000004453, PR_000004461]
+GPR161	[PR_000001517, nifext_7720]	Do Not match
+fasciculus medialis telencephali	[UBERON_0001910, birnlex_908]	Match
+Schwann cell compact myelin	[GO_0043218, sao1186642361, sao-1123256993]	** Review Manually ** 
+13-dienoate E-isomerase activity	[GO_2000361, GO_2000363]	No NIF Term ID values in: [GO_2000361, GO_2000363]
+nuclei trigemini	[birnlex_4096, UBERON_0007641]	Match
+CYP39A1	[GO_0033782, PR_000006129]	No NIF Term ID values in: [GO_0033782, PR_000006129]
+area X of Olszewski	[UBERON_0002687, birnlex_1379]	Match
+dorsal thalamus	[birnlex_954, UBERON_0001897]	Match
+APT1	[PR_000001962, PR_000010005]	No NIF Term ID values in: [PR_000001962, PR_000010005]
+Colloid bodies in retina	[birnlex_12819, DOID_2569]	Match
+ DNA damage recognition	[GO_0000715, GO_0000716]	No NIF Term ID values in: [GO_0000715, GO_0000716]
+facial nerve fibers	[birnlex_1513, UBERON_0004674]	Match
+body fluid	[UBERON_0006314, birnlex_20]	Match
+Hrh1	[nifext_6338, nifext_6341]	** Review Manually ** 
+neural lumen	[UBERON_0003842, UBERON_0002291, birnlex_1409]	Match
+GPR174	[PR_000001640, nifext_5329]	Do Not match
+Seizure Disorder	[birnlex_12718, DOID_1826]	Match
+oocyte cell differentiation	[GO_0009994, GO_0030706]	No NIF Term ID values in: [GO_0009994, GO_0030706]
+ initiator methionine removed form	[PR_000026561, PR_000020725, PR_000020726]	No NIF Term ID values in: [PR_000026561, PR_000020725, PR_000020726]
+substantia grisea centralis	[UBERON_0003040, birnlex_973]	Match
+nucleus of the diagonal band of broca	[UBERON_0001879, birnlex_719]	Match
+Maternity blues (disorder)	[DOID_9478, birnlex_12757]	Match
+isthmus of fornicate gyrus	[birnlex_1541, UBERON_0002738]	Match
+marginal ramus of cingulate sulcus	[UBERON_0002912, birnlex_4030]	Match
+dorsal grey horn	[birnlex_2667, UBERON_0002256]	Match
+hypoglossal nerve nucleus	[UBERON_0002871, birnlex_2644]	Match
+ muscle isoform	[PR_000005386, PR_000005836]	No NIF Term ID values in: [PR_000005386, PR_000005836]
+operculum temporale	[UBERON_0002560, birnlex_1025]	Match
+Polyneuropathy unspecified (disorder)	[DOID_1389, DOID_4308, birnlex_12553]	Match
+PTGDR	[nifext_7098, PR_000001656]	Do Not match
+Unspecified peripheral retinal degeneration (disorder)	[birnlex_12806, DOID_12161]	Match
+Boder-Sedgwick syndrome	[birnlex_12649, DOID_12704]	Match
+BIR1	[PR_000002003, PR_000028489]	No NIF Term ID values in: [PR_000002003, PR_000028489]
+superior central nucleus raphe	[birnlex_889, UBERON_0003004]	Match
+temporal neocortex	[UBERON_0001871, birnlex_1160]	Match
+anatomical objects	[birnlex_6, UBERON_0001062]	Match
+vertical limb of diagonal band	[UBERON_0006124, nlx_anat_20090304]	Match
+NAD(P)H:oxygen oxidoreductase activity	[GO_0052601, GO_0052663]	No NIF Term ID values in: [GO_0052601, GO_0052663]
+pre-synaptic active zone	[GO_0048786, sao1911631652]	Match
+Alcoholic psychoses	[DOID_252, birnlex_12707]	Match
+Dataset	[nlx_res_090918, birnlex_11006]	** Review Manually ** 
+Defb41	[PR_000006800, PR_000006816]	No NIF Term ID values in: [PR_000006800, PR_000006816]
+carotid artery	[UBERON_0005396, UBERON_0001530]	No NIF Term ID values in: [UBERON_0005396, UBERON_0001530]
+CCR1	[nifext_8019, nifext_8021]	** Review Manually ** 
+PTH2	[PR_000013484, PR_000013431]	No NIF Term ID values in: [PR_000013484, PR_000013431]
+ intrinsic catalyst activity	[GO_0016534, GO_0004723]	No NIF Term ID values in: [GO_0016534, GO_0004723]
+p67	[PR_000010337, PR_000003317]	No NIF Term ID values in: [PR_000010337, PR_000003317]
+Pongidae	[birnlex_110, NCBITaxon_314295, birnlex_529]	** Review Manually ** 
+p63	[PR_000005511, PR_000017214]	No NIF Term ID values in: [PR_000005511, PR_000017214]
+C4 spinal cord segment	[UBERON_0006490, birnlex_753]	Match
+gyrus occipitalis medius (mai)	[UBERON_0006114, birnlex_735]	Match
+perinuclear membrane	[GO_0005640, sao1617136075]	Match
+submedial nucleus thalamus	[UBERON_0003031, birnlex_946]	Match
+SMN-containing protein complex	[GO_0034719, GO_0034730, GO_0034731]	No NIF Term ID values in: [GO_0034719, GO_0034730, GO_0034731]
+TER	[PR_000008207, GO_0097047]	No NIF Term ID values in: [PR_000008207, GO_0097047]
+D11BWG0517E	[PR_000028839, PR_000028848]	No NIF Term ID values in: [PR_000028839, PR_000028848]
+lobulus paramedianus	[UBERON_0005349, nlx_anat_20081210]	Match
+adult ganglioglioma	[DOID_5078, birnlex_12624]	Match
+pretectal region segment	[birnlex_993, UBERON_0003047]	Match
+protocol	[birnlex_11010, nlx_res_20090412, OBI_0000272]	** Review Manually ** 
+mesocoracoideum	[UBERON_2001537, UBERON_2000239]	No NIF Term ID values in: [UBERON_2001537, UBERON_2000239]
+fifth cervical spinal ganglion	[UBERON_0002842, birnlex_2607]	Match
+stria cochlearis posterior	[UBERON_0002790, birnlex_1698]	Match
+anterior lobe of pituitary	[UBERON_0002196, birnlex_1581]	Match
+anterior nucleus of trapezoid body	[UBERON_0002832, birnlex_2576]	Match
+TFIIIA activity	[GO_0001152, GO_0001005]	No NIF Term ID values in: [GO_0001152, GO_0001005]
+SCYA2	[PR_000002122, nifext_5035]	Match
+BRS3	[nifext_5650, PR_000001196]	Do Not match
+prevacuolar compartment	[GO_0005770, nlx_subcell_20090702]	No NIF Term ID values in: [GO_0005770, nlx_subcell_20090702]
+ epigenetic	[GO_0045858, GO_0045814, GO_0045857, GO_0045815, GO_0040030]	No NIF Term ID values in: [GO_0045858, GO_0045814, GO_0045857, GO_0045815, GO_0040030]
+olfactory part of anterior commissure	[UBERON_0003039, birnlex_969]	Match
+anterior root of spinal nerve	[UBERON_0002260, nlx_anat_20090209]	Match
+Korsakov's psychosis	[DOID_10915, birnlex_12701]	Match
+CVA - Cerebral infarction	[DOID_3526, birnlex_12791]	Match
+globus pallidus externus	[birnlex_1610, UBERON_0002476]	Match
+phytochrome signaling pathway	[GO_0009585, GO_0010017]	No NIF Term ID values in: [GO_0009585, GO_0010017]
+orbital cartilage	[UBERON_2001515, UBERON_2001505]	No NIF Term ID values in: [UBERON_2001515, UBERON_2001505]
+pan-neural process	[GO_0050877, GO_0007399]	No NIF Term ID values in: [GO_0050877, GO_0007399]
+insular sclerosis	[DOID_2377, birnlex_12514]	Match
+Lou Gehrig Disease	[DOID_332, birnlex_12566]	Match
+tuba uterina	[UBERON_0003889, UBERON_0000993]	No NIF Term ID values in: [UBERON_0003889, UBERON_0000993]
+ansa lenticularis in thalamo	[UBERON_0009641, nlx_anat_1010011]	Match
+area 15 of Brodmann-1909	[UBERON_0013546, birnlex_1746]	Match
+area 42 of Brodmann	[UBERON_0006096, birnlex_1775, birnlex_1589]	** Review Manually ** 
+Biventer 1 (HVIII)	[UBERON_0006121, nlx_anat_20081211]	Match
+ PDGF stimulated	[GO_0070718, GO_0070719, GO_0070720]	No NIF Term ID values in: [GO_0070718, GO_0070719, GO_0070720]
+auris interna	[UBERON_0001846, birnlex_1196]	Match
+between brain	[UBERON_0001894, birnlex_1503]	Match
+CNGB1	[PR_000005632, nifext_3054]	Do Not match
+stratum griseum superficiale colliculi superioris	[UBERON_0006120, nlx_anat_1005034]	Match
+regio frontalis	[UBERON_0001870, birnlex_928, nlx_anat_20090601]	** Review Manually ** 
+auricular region	[UBERON_0001691, birnlex_1705]	Match
+middle ramus of lateral fissure	[UBERON_0002670, birnlex_1330]	Match
+AIP	[PR_000004516, DOID_2800]	No NIF Term ID values in: [PR_000004516, DOID_2800]
+MCOLN3	[nifext_3190, PR_000010254]	Do Not match
+circumventricular organ	[UBERON_0005408, nlx_anat_20090312]	Match
+foliate papilla of tongue	[UBERON_0002468, birnlex_4105]	Match
+MCOLN2	[PR_000010253, nifext_3186]	Do Not match
+nuclei raphes	[UBERON_0004684, nlx_anat_20090205]	Match
+5-HT-4	[PR_000001100, nifext_6151]	Do Not match
+Tourette syndrome	[nlx_dys_100303, DOID_11119]	Match
+Scintillation counter	[birnlex_2453, OBI_0001070]	Match
+ethanol dehydrogenase (cytochrome c) activity	[GO_0052931, GO_0052935]	No NIF Term ID values in: [GO_0052931, GO_0052935]
+dentatothalamic fibers	[UBERON_0002594, birnlex_1104]	Match
+tuberomammillary nucleus	[birnlex_1271, UBERON_0001936]	Match
+VGCNL1	[PR_000000678, nifext_2668, nifext_2669]	** Review Manually ** 
+GZMB/iso:1	[PR_000003500, PR_000003497]	No NIF Term ID values in: [PR_000003500, PR_000003497]
+Causalgia NOS	[DOID_3222, birnlex_12584]	Match
+sulcus frontalis superior	[birnlex_1030, UBERON_0002562]	Match
+GTP:GTP guanylyltransferase activity	[GO_0052621, GO_0047351]	No NIF Term ID values in: [GO_0052621, GO_0047351]
+auris media	[UBERON_0001756, birnlex_1695]	Match
+Structured data resource	[birnlex_2334, birnlex_2334_1]	** Review Manually ** 
+scattered nucleus of the septum	[UBERON_0001878, birnlex_730]	Match
+TRH	[nifext_7546, PR_000016635]	Do Not match
+segment part of lumbar spinal cord	[UBERON_0007716, birnlex_1652]	Match
+Lewy body disease	[birnlex_12502, DOID_12217]	Match
+macrophage receptor activity	[GO_0008329, GO_0005044]	No NIF Term ID values in: [GO_0008329, GO_0005044]
+transforming growth factor beta 1 dimer	[PR_000025925, PR_000025926]	No NIF Term ID values in: [PR_000025925, PR_000025926]
+dihydric alcohol metabolic process	[GO_0042844, GO_0034311]	No NIF Term ID values in: [GO_0042844, GO_0034311]
+prpD	[PR_000023608, GO_0047547]	No NIF Term ID values in: [PR_000023608, GO_0047547]
+acyl-activating enzyme	[PR_000003672, PR_000022052]	No NIF Term ID values in: [PR_000003672, PR_000022052]
+Severe obesity	[DOID_11981, nlx_dys_20090303]	Match
+MMR complex	[GO_0032301, GO_0032389]	No NIF Term ID values in: [GO_0032301, GO_0032389]
+ REM sleep	[GO_0042322, GO_0046005]	No NIF Term ID values in: [GO_0042322, GO_0046005]
+forkhead-related transcription factor 1	[PR_000007621, PR_000007643]	No NIF Term ID values in: [PR_000007621, PR_000007643]
+FLG	[PR_000007551, PR_000001448]	No NIF Term ID values in: [PR_000007551, PR_000001448]
+nuclei ventrales thalami	[UBERON_0002776, birnlex_1669]	Match
+twelfth thoracic spinal cord segment	[UBERON_0006468, birnlex_1598]	Match
+fibrae arcuatae internae	[birnlex_1091, UBERON_0006087]	Match
+hippocampus layer	[UBERON_0002305, birnlex_1192]	Match
+t10 segment	[birnlex_1591, UBERON_0006466]	Match
+male genital development	[GO_0007485, GO_0030539]	No NIF Term ID values in: [GO_0007485, GO_0030539]
+P3b	[NEMO_0000101, NEMO_5828000]	No NIF Term ID values in: [NEMO_0000101, NEMO_5828000]
+3-aminomutase activity	[GO_0050066, GO_0050047]	No NIF Term ID values in: [GO_0050066, GO_0050047]
+Electromyography	[ERO_0000499, nlx_inv_20090501]	Match
+in situ hybridization	[nlx_inv_20090610, ERO_0000771]	Match
+olfactory membrane	[birnlex_2703, UBERON_0001997]	Match
+cytoskeleton component	[GO_0044430, sao1635329413]	Match
+Anterior hypothalamic decussation of Ganser	[UBERON_0002694, birnlex_1424]	Match
+CXCR3	[nifext_6502, nifext_6504]	** Review Manually ** 
+eighth cervical dorsal root ganglion	[UBERON_0002844, birnlex_2610]	Match
+nucleus accumbens core	[nlx_anat_20090306, UBERON_0012170]	Match
+Golgi ribbon	[GO_0005794, sao451912436]	Match
+fourth cervical spinal ganglion	[UBERON_0002841, birnlex_2606]	Match
+CXCR4	[nifext_6653, nifext_6655, GO_0038147]	** Review Manually ** 
+optic nerve root	[UBERON_0009906, birnlex_1328]	Match
+SCPP	[birnlex_1726, UBERON_0007709]	Match
+lingual gustatory epithelium	[UBERON_0014452, birnlex_4099]	Match
+chordamesoderm	[UBERON_0003068, UBERON_0006268]	No NIF Term ID values in: [UBERON_0003068, UBERON_0006268]
+commissura rostralis	[birnlex_1557, UBERON_0000935]	Match
+hypogonadotropin-1	[PR_000001426, nifext_5598]	Match
+cerebrocerebellum	[UBERON_0004002, UBERON_0014644, birnlex_911]	Do Not match
+inner nuclear membrane	[GO_0005637, sao1612527463]	Match
+Tobacco Use Disorder	[DOID_0050742, birnlex_12716]	Match
+nucleolus component	[GO_0044452, sao113580911]	Match
+capsula corporis geniculati medialis	[UBERON_0002627, birnlex_1214]	Match
+Cavia aperea porcellus	[birnlex_297, NCBITaxon_10141]	Match
+ninth thoracic spinal ganglion	[UBERON_0002852, birnlex_2619]	Match
+ DNA-dependent	[GO_2000143, GO_0060566, GO_0006354, GO_0006353, GO_0060567]	No NIF Term ID values in: [GO_2000143, GO_0060566, GO_0006354, GO_0006353, GO_0060567]
+ alpha-beta regulatory T cell differentiation during immune response	[GO_0032834, GO_0032833, GO_0002298]	No NIF Term ID values in: [GO_0032834, GO_0032833, GO_0002298]
+nucleus accumbens septi	[UBERON_0001882, birnlex_727]	Match
+spinal cord part	[UBERON_0001948, birnlex_1496]	Match
+cerebrospinal axis	[UBERON_0001017, birnlex_1099]	Match
+Drug Usage	[birnlex_12698, DOID_303]	Match
+paraflocculus of cerebellum 	[UBERON_0005351, nlx_anat_20081212]	Match
+parabigeminal area (mai)	[UBERON_0002696, birnlex_1430]	Match
+pedunculopontine nucleus	[birnlex_1437, UBERON_0002142]	Match
+fissura postlingualis cerebelli	[UBERON_0014473, nlx_anat_20081251]	Match
+inferior salivary nucleus	[UBERON_0002872, birnlex_2645]	Match
+papillae fungiformes	[UBERON_0002448, birnlex_4106]	Match
+ischiatic nerve	[birnlex_1133, UBERON_0001322]	Match
+lplA	[PR_000023103, PR_000023110]	No NIF Term ID values in: [PR_000023103, PR_000023110]
+ lectin pathway	[GO_0001870, GO_0001867, GO_0001869, GO_0001868]	No NIF Term ID values in: [GO_0001870, GO_0001867, GO_0001869, GO_0001868]
+LysRS	[PR_000009241, PR_000023141]	No NIF Term ID values in: [PR_000009241, PR_000023141]
+nucleus parabrachialis medialis	[UBERON_0002918, birnlex_4038]	Match
+intermediate hypothalamic region segment	[UBERON_0002951, birnlex_767]	Match
+Cyprinus chapalio	[birnlex_363, NCBITaxon_7955]	Do Not match
+APJ	[nifext_5973, nifext_5968]	** Review Manually ** 
+lateral tuberal nuclear complex	[UBERON_0000435, birnlex_1206]	Match
+localised	[NEMO_9859000, NEMO_2114000]	No NIF Term ID values in: [NEMO_9859000, NEMO_2114000]
+coated tip	[sao1570660411, sao694815499, GO_0097422]	** Review Manually ** 
+threonine tRNA	[GO_0033440, GO_0033439, GO_0033438]	No NIF Term ID values in: [GO_0033440, GO_0033439, GO_0033438]
+caudality_axis	[NEMO_2410000, NEMO_6663000]	No NIF Term ID values in: [NEMO_2410000, NEMO_6663000]
+cortex of inferior colliculus	[UBERON_0002577, birnlex_1056]	Match
+GPR101	[PR_000001503, nifext_7398]	Do Not match
+first cranial nerve	[UBERON_0001579, birnlex_1319]	Match
+nucleus centralis lateralis of thalamus	[birnlex_961, UBERON_0003036]	Match
+APC	[PR_000004122, GO_0005680]	No NIF Term ID values in: [PR_000004122, GO_0005680]
+3-galactosyltransferase activity	[GO_0008918, GO_0047240]	No NIF Term ID values in: [GO_0008918, GO_0047240]
+GPR119	[PR_000001459, nifext_7643]	Do Not match
+first Weberian ossicle	[UBERON_2001592, UBERON_2000637]	No NIF Term ID values in: [UBERON_2001592, UBERON_2000637]
+17-dione secretion	[GO_2000837, GO_2000838, GO_0035941, GO_2000839]	No NIF Term ID values in: [GO_2000837, GO_2000838, GO_0035941, GO_2000839]
+2-oxoglutarate dehydrogenase complex	[GO_0045241, GO_0005947]	No NIF Term ID values in: [GO_0045241, GO_0005947]
+familial neonatal seizures (disorder)	[DOID_14777, birnlex_12735]	Match
+true crabs	[birnlex_396, NCBITaxon_6752]	Match
+calleja island	[UBERON_0001881, birnlex_1113]	Match
+nucleus geniculatus lateralis pars dorsalis	[UBERON_0002479, birnlex_1595]	Match
+Brodmann.45	[UBERON_0006482, birnlex_1777]	Match
+Left hemisphere	[UBERON_0002812, birnlex_1795]	Match
+nucleus mediodorsalis thalami	[birnlex_1543, UBERON_0002739]	Match
+dihydrolipoamide reduction	[GO_0022904, GO_0051068]	No NIF Term ID values in: [GO_0022904, GO_0051068]
+t8 segment	[UBERON_0006456, birnlex_1398]	Match
+nucleus of abducens nerve	[UBERON_0002682, birnlex_1366]	Match
+Area frontalis agranularis	[UBERON_0006472, birnlex_1737]	Match
+GnRH receptor	[nifext_5280, PR_000001588]	Match
+glycogen particle	[GO_0042587, sao1081228141]	Match
+gliosarcoma	[DOID_3071, birnlex_12625]	Match
+pars peripherica; systema nervosum periphericum	[birnlex_1111, UBERON_0000010]	Match
+Cervical spinal cord anterior commissure	[birnlex_1552, UBERON_0007836]	Match
+lobus posterior (glandula pituitaria)	[birnlex_1586, UBERON_0002198]	Match
+posterior periventricular hypothalamic nucleus	[UBERON_0002708, birnlex_1466]	Match
+RKShIIIA	[nifext_2723, PR_000000943]	Do Not match
+pattern formation	[GO_0003002, GO_0007389]	No NIF Term ID values in: [GO_0003002, GO_0007389]
+intralaminar thalamic nuclei	[UBERON_0002733, birnlex_1530]	Match
+gyrus occipitotemporalis lateralis	[UBERON_0002766, birnlex_1641]	Match
+subcutaneous tissue	[UBERON_0011818, UBERON_0002072]	No NIF Term ID values in: [UBERON_0011818, UBERON_0002072]
+ventral posterolateral nucleus of the thalamus	[birnlex_1681, UBERON_0002781]	Match
+twelfth thoracic dorsal root ganglion	[birnlex_2622, UBERON_0002855]	Match
+digitus manus	[UBERON_0002389, nlx_anat_20090602]	Match
+ GABAergic	[GO_0032230, GO_0032229]	No NIF Term ID values in: [GO_0032230, GO_0032229]
+third cervical spinal ganglion	[birnlex_2605, UBERON_0002840]	Match
+cuneate	[birnlex_2640, UBERON_0002045]	Match
+synaptic vesicle fusion	[GO_0048489, GO_0031629, GO_0016189]	No NIF Term ID values in: [GO_0048489, GO_0031629, GO_0016189]
+central nucleus-1	[UBERON_0002972, birnlex_805]	Match
+Lateral septum	[birnlex_1321, UBERON_0002667]	Match
+2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating) activity	[GO_0033763, GO_0045486, GO_0052860]	No NIF Term ID values in: [GO_0033763, GO_0045486, GO_0052860]
+thoracic spinal cord anterior commissure	[UBERON_0007837, birnlex_1556]	Match
+microtubule of dendrite	[sao110773650, GO_1901588]	Match
+third lumbar spinal ganglion	[birnlex_2625, UBERON_0002858]	Match
+Mammalia	[NCBITaxon_40674, birnlex_252]	Match
+sub-surface cisternae	[GO_1990040, sao128470897]	Match
+active zone pre-synaptic plasma membrane	[GO_0048787, sao2038461087]	Match
+peduncle of mammillary body	[UBERON_0002720, birnlex_1486]	Match
+cytochrome c oxidase complex	[GO_0045278, GO_0045277]	No NIF Term ID values in: [GO_0045278, GO_0045277]
+brain stem infarction (disorder)	[DOID_3523, birnlex_12785]	Match
+sense of sight	[birnlex_1909, GO_0007601]	Do Not match
+cell wall assembly	[GO_0009832, GO_0042546]	No NIF Term ID values in: [GO_0009832, GO_0042546]
+HIR	[nifext_2905, PR_000002057]	Do Not match
+second temporal sulcus	[UBERON_0002969, birnlex_800]	Match
+constitutive secretory pathway transport vesicle	[GO_0030133, sao885490876]	Match
+gyrus cinguli	[UBERON_0003027, birnlex_934]	Match
+segment of medullary reticular formation	[birnlex_1060, UBERON_0002579]	Match
+Central Neurocytoma	[birnlex_12628, DOID_14174]	Match
+tegmentum	[UBERON_0001943, birnlex_1200]	Match
+RNA chaperone	[GO_0034337, GO_0034336]	No NIF Term ID values in: [GO_0034337, GO_0034336]
+orbito-frontal sulcus	[birnlex_1724, UBERON_0002799]	Match
+Reflex epilepsy (disorder)	[birnlex_12746, DOID_2548]	Match
+ during protein splicing	[GO_0019802, GO_0019801]	No NIF Term ID values in: [GO_0019802, GO_0019801]
+Da Costa's syndrome	[birnlex_12673, DOID_11569]	Match
+fosmid vector	[ERO_0000290, SO_0000158]	No NIF Term ID values in: [ERO_0000290, SO_0000158]
+mixed synapse	[GO_0045202, sao914572699]	Match
+synovium	[UBERON_0002018, UBERON_0011233]	No NIF Term ID values in: [UBERON_0002018, UBERON_0011233]
+basal nuclei of the forebrain	[birnlex_1629, UBERON_0006098]	Match
+rhombencephalic vesicle	[UBERON_0002422, birnlex_1256, UBERON_0013149]	Do Not match
+Ebi2	[nifext_7192, nifext_7189]	** Review Manually ** 
+cuneocerebellar fibers	[UBERON_0002640, birnlex_1238]	Match
+ mevalonate pathway	[GO_1900486, GO_2001211, GO_0010142]	No NIF Term ID values in: [GO_1900486, GO_2001211, GO_0010142]
+middle temporal area	[nlx_anat_20090308, UBERON_0004685]	Match
+interrenal gland	[UBERON_0006856, GO_0030325]	No NIF Term ID values in: [UBERON_0006856, GO_0030325]
+Fissura parieto-occipitalis	[UBERON_0002695, birnlex_1428]	Match
+phloem loading	[GO_0090408, GO_0009915]	No NIF Term ID values in: [GO_0090408, GO_0009915]
+C1281209	[UBERON_0002828, birnlex_2567]	Match
+ signal transduction by p53 class mediator resulting in transcription of p21 class mediator	[GO_1902164, GO_1902163]	No NIF Term ID values in: [GO_1902164, GO_1902163]
+Kv1.10	[nifext_2703, PR_000000809]	Match
+lycopene cyclase	[GO_0045435, GO_0045436]	No NIF Term ID values in: [GO_0045435, GO_0045436]
+ATase	[PR_000013061, PR_000022785]	No NIF Term ID values in: [PR_000013061, PR_000022785]
+cerebellar granule cell layer	[birnlex_779, UBERON_0002956]	Match
+Area 22 of Brodmann	[UBERON_0013553, birnlex_1753]	Match
+sulcus praecentralis inferior	[birnlex_1627, UBERON_0002764]	Match
+cerebral uncinate fasciculus	[UBERON_0003044, birnlex_983]	Match
+portion of tissue	[birnlex_19, UBERON_0000479]	Do Not match
+insula limen	[birnlex_1493, UBERON_0002724]	Match
+motilin	[nifext_5276, PR_000001240]	Match
+KCNK17	[nifext_3025, nifext_3026]	** Review Manually ** 
+body	[UBERON_0000468, UBERON_0013702, birnlex_18]	Do Not match
+KCNK15	[nifext_3015, nifext_3016]	** Review Manually ** 
+post-clival fissure	[UBERON_0002814, nlx_anat_20081254]	Match
+oligodendroglioma	[DOID_3181, birnlex_12627, DOID_7912]	Match
+ alpha-beta regulatory T cell differentiation	[GO_0032831, GO_0032830]	No NIF Term ID values in: [GO_0032831, GO_0032830]
+GPR82	[PR_000001538, nifext_5456]	Do Not match
+ non-REM sleep	[GO_0046010, GO_0042323]	No NIF Term ID values in: [GO_0046010, GO_0042323]
+QARS	[PR_000007144, PR_000013561]	No NIF Term ID values in: [PR_000007144, PR_000013561]
+KCNK13	[nifext_3011, nifext_3010]	** Review Manually ** 
+GPR88	[PR_000001541, nifext_6143]	Do Not match
+KCNK12	[PR_000002072, nifext_3006]	Do Not match
+KCNK10	[nifext_3000, nifext_3001]	** Review Manually ** 
+ actomyosin contractile ring assembly	[GO_2000689, GO_2000708]	No NIF Term ID values in: [GO_2000689, GO_2000708]
+Cerebrovascular accident (disorder) [Ambiguous]	[birnlex_12783, DOID_3455]	Match
+cristae	[GO_0030061, sao333328131]	Match
+paraventricular nuclei	[UBERON_0001920, birnlex_764]	Match
+Darkshevich's nucleus	[birnlex_896, UBERON_0002044]	Match
+ 5'-splice site cleavage	[GO_0000386, GO_0000384]	No NIF Term ID values in: [GO_0000386, GO_0000384]
+glutamine tRNA	[GO_0033427, GO_0033428]	No NIF Term ID values in: [GO_0033427, GO_0033428]
+gyrus occipitotemporalis medialis	[UBERON_0002943, birnlex_740]	Match
+ ectosplenial	[UBERON_0004718, birnlex_1757]	Match
+Lafora Body Disease	[birnlex_12723, DOID_3534]	Match
+posterior longitudinal fasciculus of midbrain	[UBERON_0003005, birnlex_893]	Match
+MAST1	[PR_000005520, PR_000010195]	No NIF Term ID values in: [PR_000005520, PR_000010195]
+neuroepithelium	[UBERON_0006934, UBERON_0004022]	No NIF Term ID values in: [UBERON_0006934, UBERON_0004022]
+ pars prinicipalis	[UBERON_0003024, birnlex_927]	Match
+internal medullary lamina of lentiform nucleus	[UBERON_0002727, birnlex_1501]	Match
+heat shock protein activity	[GO_0006986, GO_0034620, GO_0042026]	No NIF Term ID values in: [GO_0006986, GO_0034620, GO_0042026]
+ alternative pathway in other organism	[GO_0044633, GO_0044642]	No NIF Term ID values in: [GO_0044633, GO_0044642]
+polus temporalis	[birnlex_1055, UBERON_0002576]	Match
+perillyl-CoA synthetase activity	[GO_0052685, GO_0052686]	No NIF Term ID values in: [GO_0052685, GO_0052686]
+ventriculus diencephali	[UBERON_0002286, birnlex_714]	Match
+basal ganglia	[UBERON_0010011, UBERON_0002420, birnlex_826]	Do Not match
+CA1 part of stratum radiatum	[birnlex_4119, UBERON_0014554]	Do Not match
+neck	[GO_0044326, sao1642908940]	Match
+GPR62	[PR_000001536, nifext_5379]	Do Not match
+FFAR2	[PR_000001583, nifext_7832]	Do Not match
+FFAR1	[PR_000001582, nifext_7684]	Do Not match
+Cervical spinal cord posterior column	[birnlex_736, UBERON_0005841]	Match
+GPR65	[PR_000001665, nifext_6472]	Do Not match
+PML	[birnlex_12551, DOID_643]	Match
+Felis domesticus	[birnlex_113, NCBITaxon_9685]	Do Not match
+GPR68	[nifext_8031, PR_000001675]	Do Not match
+Cranial nerve V	[UBERON_0001645, birnlex_869]	Match
+phosphohexomutase activity	[GO_0004476, GO_0004347]	No NIF Term ID values in: [GO_0004476, GO_0004347]
+Smstr2	[nifext_6327, nifext_6330]	** Review Manually ** 
+CCNC1	[PR_000000696, nifext_3044]	Match
+Smstr4	[nifext_7901, nifext_7904, PR_000001671]	** Review Manually ** 
+sulcus subparietalis	[birnlex_4026, UBERON_0002908]	Match
+anterior amygaloid area	[birnlex_2698, UBERON_0002890]	Match
+PMN	[NEMO_3725000, GO_0034727]	No NIF Term ID values in: [NEMO_3725000, GO_0034727]
+neocortex layer 4	[UBERON_0005393, nlx_anat_090810]	Match
+pTAU	[PR_000027634, PR_000027632, PR_000027655]	No NIF Term ID values in: [PR_000027634, PR_000027632, PR_000027655]
+ peristriate	[birnlex_1750, UBERON_0013550]	Match
+uCD14	[PR_000002147, PR_000002146]	No NIF Term ID values in: [PR_000002147, PR_000002146]
+GPR75	[nifext_5472, PR_000001537]	Do Not match
+Type III Spinal Muscular Atrophy	[DOID_12376, birnlex_12572]	Match
+GPR78	[nifext_5324, PR_000001648]	Do Not match
+Algodystrophy	[birnlex_12585, DOID_1811]	Match
+NPY1R	[PR_000001622, nifext_7569]	Do Not match
+GPR77	[nifext_6247, PR_000001174]	Do Not match
+Anancastic neurosis	[birnlex_12674, DOID_10933]	Match
+segment of epithalamus	[UBERON_0002757, birnlex_1607]	Match
+velum	[UBERON_0012121, UBERON_0001733]	No NIF Term ID values in: [UBERON_0012121, UBERON_0001733]
+Lateral Bulbar syndrome	[birnlex_12790, DOID_3522]	Match
+paraolfactory sulcus	[birnlex_4043, UBERON_0002923]	Match
+Dorsal supraoptic decussation (of Ganser)	[UBERON_0002697, birnlex_1433]	Match
+layer 2 of piriform cortex	[UBERON_0014280, nlx_anat_091006]	Match
+CYC	[PR_000002321, PR_000025635]	No NIF Term ID values in: [PR_000002321, PR_000025635]
+preolivary nuclei	[UBERON_0002976, birnlex_814]	Match
+sugar/polyol channel activity	[GO_0051119, GO_0015166]	No NIF Term ID values in: [GO_0051119, GO_0015166]
+cilia	[UBERON_0010168, UBERON_0001702]	No NIF Term ID values in: [UBERON_0010168, UBERON_0001702]
+axon spine	[GO_0044308, sao18239917]	Match
+Syrian hamsters	[birnlex_678, NCBITaxon_10036]	Match
+Htr2c	[nifext_7422, nifext_7419]	** Review Manually ** 
+ tonic-clonic	[birnlex_12743, DOID_7725]	Match
+tectorial membrane of spiral organ of cochlea	[UBERON_0002233, birnlex_2531]	Match
+gap junction plaque	[GO_0005921, sao-17780464455, sao700839054]	** Review Manually ** 
+GZMB/SigPep-	[PR_000026712, PR_000026610]	No NIF Term ID values in: [PR_000026712, PR_000026610]
+response to gravitational stimulus	[GO_0009629, GO_0033642]	No NIF Term ID values in: [GO_0009629, GO_0033642]
+sigma transcription factor	[GO_0016987, GO_0001053]	No NIF Term ID values in: [GO_0016987, GO_0001053]
+Habituation Spasm	[nlx_dys_100301, birnlex_12663, DOID_2769]	** Review Manually ** 
+dorsolateral fissure of cerebellum	[UBERON_0002818, nlx_anat_20081259]	Match
+memory_related_P600	[NEMO_4551000, NEMO_7015000]	No NIF Term ID values in: [NEMO_4551000, NEMO_7015000]
+Chromatin immunoprecipitation	[OBI_0000716, ERO_0000926]	No NIF Term ID values in: [OBI_0000716, ERO_0000926]
+optic tectum commissure	[UBERON_0002583, birnlex_1073]	Match
+intermediate nucleus of oculomotor nuclear complex	[birnlex_803, UBERON_0002970]	Match
+Schizophrenic Disorder	[DOID_5419, birnlex_2104]	Match
+protein sequestering	[GO_0045185, GO_0050821]	No NIF Term ID values in: [GO_0045185, GO_0050821]
+high affinity Fc receptor activity	[GO_0019768, GO_0019771]	No NIF Term ID values in: [GO_0019768, GO_0019771]
+nucleus accumbens shell	[UBERON_0012171, nlx_anat_20090307]	Match
+TECK	[nifext_5253, PR_000001801]	Match
+pedunculus cerebellaris medius	[birnlex_1529, UBERON_0002152]	Match
+ with other acceptors	[GO_0046992, GO_0030613]	No NIF Term ID values in: [GO_0046992, GO_0030613]
+Complex partial epileptic seizure	[DOID_12382, birnlex_12728]	Match
+posterior crescentic lobule of cerebellum	[UBERON_0005350, nlx_anat_20081206]	Match
+GPR41	[nifext_7510, PR_000001584]	Do Not match
+nucleus reticularis pontis caudalis	[UBERON_0002963, birnlex_792]	Match
+immune response-regulating cell surface receptor signalling pathway	[GO_0002430, GO_0002768]	No NIF Term ID values in: [GO_0002430, GO_0002768]
+anterior commissure nucleus	[UBERON_0002933, birnlex_712]	Match
+hydrogen/oligopeptide symporter	[GO_0005427, GO_0022897]	No NIF Term ID values in: [GO_0005427, GO_0022897]
+postcentral dimple	[birnlex_4025, UBERON_0002907]	Match
+post-synaptic density	[sao1196688972, GO_0014069]	Match
+cuticular attachment to epithelium	[GO_0040004, GO_0040005]	No NIF Term ID values in: [GO_0040004, GO_0040005]
+Htr1b	[nifext_6394, nifext_6391]	** Review Manually ** 
+Retinoschisis (disorder)	[birnlex_12827, DOID_8465]	Match
+regulation of eye photoreceptor development	[GO_0045314, GO_0042478]	No NIF Term ID values in: [GO_0045314, GO_0042478]
+non-membrane-enclosed organelle	[GO_0043228, sao1456184038]	Match
+accessory oculomotor nucleus	[birnlex_822, UBERON_0002141]	Match
+sulcus intralingualis	[UBERON_0002905, birnlex_4019]	Match
+progressive myoclonic epilepsy (disorder)	[DOID_891, birnlex_12722]	Match
+hypothalamus posterior longitudinal fasciculus	[birnlex_898, UBERON_0003008]	Match
+nucleus anterior thalami medialis	[UBERON_0002681, birnlex_1365]	Match
+pontine central gray	[birnlex_799, UBERON_0002968]	Match
+GPR55	[PR_000001534, nifext_5374]	Do Not match
+dorsal cap of kooy	[UBERON_0014286, nlx_anat_100307]	Match
+IKs producing slow voltage-gated potassium channel subunit alpha KvLQT1	[nifext_2773, PR_000000728]	Match
+subcuneiform area of midbrain	[UBERON_0002700, birnlex_1441]	Match
+lateral cuneate nucleus	[UBERON_0002864, birnlex_2634]	Match
+Kuru	[DOID_648, birnlex_12693]	Match
+GPR52	[PR_000001646, nifext_5319]	Do Not match
+hemispheric sulcus	[UBERON_0002921, birnlex_4041]	Match
+nucleus ventralis posterolateralis thalami	[UBERON_0002942, birnlex_737]	Match
+ endothelial cells	[GO_2000352, GO_2000351]	No NIF Term ID values in: [GO_2000352, GO_2000351]
+endonuclease G activity	[GO_0004520, GO_0004521]	No NIF Term ID values in: [GO_0004520, GO_0004521]
+Batten's Disease	[birnlex_12831, DOID_14503]	Match
+fissura prebiventralis cerebelli	[UBERON_0002816, nlx_anat_20081257]	Match
+DRD1	[PR_000001175, nifext_5847]	Do Not match
+PAP	[PR_000023500, GO_0043751]	No NIF Term ID values in: [PR_000023500, GO_0043751]
+capsula interna	[birnlex_1659, UBERON_0001887]	Match
+DRD3	[PR_000001178, nifext_6753]	Do Not match
+telo-diencephalic fissure	[birnlex_4001, UBERON_0002896]	Match
+ER exit site	[GO_0070971, sao124393998]	Match
+Thoracic spinal cord posterior column	[UBERON_0005839, birnlex_1442]	Match
+PAF	[PR_000012225, nifext_7523]	Do Not match
+regulation of fruiting body formation	[GO_0031156, GO_0031155]	No NIF Term ID values in: [GO_0031156, GO_0031155]
+voltage-gated potassium channel subunit Kv7.4	[nifext_2785, PR_000000731]	Match
+IPSP	[NEMO_8396000, GO_0060080]	No NIF Term ID values in: [NEMO_8396000, GO_0060080]
+FRAGILE X MENTAL RETARDATION SYNDROME	[nlx_dys_20090601, DOID_14261]	Match
+GPR22	[PR_000001523, nifext_5394]	Do Not match
+nuclei vestibulares in medulla oblongata	[UBERON_0002673, birnlex_1337]	Match
+GPR26	[PR_000001641, nifext_5731]	Do Not match
+GPR25	[PR_000001524, nifext_6176]	Do Not match
+nervus terminalis	[birnlex_4044, UBERON_0002924]	Match
+ heterochronic	[GO_0045961, GO_0045962]	No NIF Term ID values in: [GO_0045961, GO_0045962]
+dermosphenotic	[UBERON_2000495, UBERON_2001674]	No NIF Term ID values in: [UBERON_2000495, UBERON_2001674]
+eleventh thoracic dorsal root ganglion	[UBERON_0002854, birnlex_2621]	Match
+GPR20	[nifext_5980, PR_000001521]	Do Not match
+cytochrome	[GO_0045154, GO_0045157]	No NIF Term ID values in: [GO_0045154, GO_0045157]
+HCN2	[PR_000000706, nifext_3066]	Do Not match
+neuraxis culmen	[UBERON_0007763, birnlex_926]	Match
+Supradin	[DB00668, OBI_0000610]	No NIF Term ID values in: [DB00668, OBI_0000610]
+caudate nuclear tail	[UBERON_0002628, birnlex_1215]	Match
+preoptico-hypothalamic region	[birnlex_734, UBERON_0001898]	Match
+HuK(III)	[PR_000000811, nifext_2682]	Match
+voltage-gated potassium channel subunit Kv3.4	[nifext_2731, PR_000000783]	Match
+filiform nucleus	[UBERON_0001930, birnlex_1407]	Match
+GPR33	[nifext_7360, PR_000001529]	Do Not match
+claustrum	[UBERON_0002023, birnlex_1522]	Match
+GPR32	[PR_000001528, nifext_5370]	Do Not match
+GPR35	[PR_000001531, nifext_5555]	Do Not match
+GPR34	[PR_000001530, nifext_5529]	Do Not match
+ pars caudalis	[birnlex_1144, UBERON_0002608]	Match
+nephron epithelium formation	[GO_0072035, GO_0072033]	No NIF Term ID values in: [GO_0072035, GO_0072033]
+gyrus paraterminalis	[UBERON_0002603, birnlex_1138]	Match
+GPR39	[PR_000001532, nifext_5420]	Do Not match
+anterodorsal thalamic nucleus	[birnlex_1358, UBERON_0002679]	Match
+5-epimerase activity	[GO_0008830, GO_0047918]	No NIF Term ID values in: [GO_0008830, GO_0047918]
+corpus trapezoideum	[UBERON_0002932, birnlex_707]	Match
+proline tRNA	[GO_0033423, GO_0033421, GO_0033424, GO_0033422]	No NIF Term ID values in: [GO_0033423, GO_0033421, GO_0033424, GO_0033422]
+mossy fiber expansion	[nlx_subcell_1005002, GO_1990026]	No NIF Term ID values in: [nlx_subcell_1005002, GO_1990026]
+GPR31	[nifext_7067, PR_000001527]	Do Not match
+brodmann's area 48	[birnlex_1791, UBERON_0006485]	Match
+MTNR1A	[PR_000001609, nifext_6869]	Do Not match
+epibranchials	[UBERON_3000953, UBERON_2002102]	No NIF Term ID values in: [UBERON_3000953, UBERON_2002102]
+raphe of pons	[UBERON_0002047, birnlex_1110]	Match
+nuclei metathalami	[birnlex_1461, UBERON_0002704]	Match
+gerbils	[nlx_organ_20090401, NCBITaxon_10045]	No NIF Term ID values in: [nlx_organ_20090401, NCBITaxon_10045]
+Brodmann partition scheme	[birnlex_1731, UBERON_0013529]	Match
+ G-protein coupled	[GO_0008020, GO_0015057]	No NIF Term ID values in: [GO_0008020, GO_0015057]
+mitochondrial stroma	[sao1804523077, GO_0005759]	Match
+Kolloker-Fuse nucleus	[birnlex_2641, UBERON_0002869]	Match
+capital femoral epiphysis	[UBERON_0004412, UBERON_0006767]	No NIF Term ID values in: [UBERON_0004412, UBERON_0006767]
+cerebellar posterior vermis lobule IX	[UBERON_0004078, nlx_anat_20081234]	Match
+COMP/iso:1	[PR_000000397, sao2146594471, PR_000000230, PR_000000291]	Match
+hippocampal dentate gyrus	[birnlex_1178, UBERON_0001885]	Match
+GPR19	[PR_000001520, nifext_6452]	Do Not match
+S4 spinal cord segment	[birnlex_1548, UBERON_0006463]	Match
+pulvinar thalami	[UBERON_0002981, birnlex_824]	Match
+neuraxis cavity	[birnlex_1029, UBERON_0002561]	Match
+Eating related disorder	[nlx_dys_20090301, DOID_8670]	Match
+Sonography	[birnlex_2482, ERO_0001325]	Match
+lateral reticular nucleus (medulla)	[UBERON_0002154, nlx_anat_20081246]	Match
+GPR10	[PR_000001546, nifext_7819]	Match
+spermidine:(acceptor) oxidoreductase activity	[GO_0050289, GO_0052896]	No NIF Term ID values in: [GO_0050289, GO_0052896]
+cerebellum primordium	[UBERON_0013163, UBERON_0006215]	No NIF Term ID values in: [UBERON_0013163, UBERON_0006215]
+cerebellum white matter	[UBERON_0002317, birnlex_1562]	Match
+GPR12	[PR_000001636, nifext_7426]	Do Not match
+vanadium-iron nitrogenase activity	[GO_0016163, GO_0016613]	No NIF Term ID values in: [GO_0016163, GO_0016613]
+decussation of trochlear nerve (IV)	[UBERON_0002787, birnlex_1690]	Match
+HBP	[PR_000014916, PR_000022899]	No NIF Term ID values in: [PR_000014916, PR_000022899]
+parolfactory area	[UBERON_0003020, birnlex_919]	Match
+TA3	[nifext_7367, PR_000001718]	Do Not match
+Ganglioneuroblastoma (morphologic abnormality)	[DOID_4163, birnlex_12633]	Match
+TRPP8	[PR_000001719, nifext_3159]	Match
+OXTR	[nifext_5799, PR_000001635]	Do Not match
+synaptic transmission involved in urination	[GO_0060085, GO_0060084]	No NIF Term ID values in: [GO_0060085, GO_0060084]
+mitochondria	[GO_0005739, sao1860313010]	Match
+ via spliceosome	[GO_0000381, GO_0000365, GO_0048024]	No NIF Term ID values in: [GO_0000381, GO_0000365, GO_0048024]
+S1P3	[PR_000001708, nifext_7926]	Do Not match
+Basal Dendrite	[sao1079900774, GO_0097441]	Match
+phagemid vector	[SO_0000157, ERO_0001135]	No NIF Term ID values in: [SO_0000157, ERO_0001135]
+Homaridae	[birnlex_169, NCBITaxon_6704]	Match
+S1P5	[nifext_6617, nifext_6612]	** Review Manually ** 
+TSH1	[PR_000016725, PR_000016308]	No NIF Term ID values in: [PR_000016725, PR_000016308]
+confocal microscopy	[ERO_0000200, birnlex_2258]	Match
+claustrum diffusa	[birnlex_1515, UBERON_0002729]	Match
+neurofibrosarcoma	[birnlex_12609, DOID_3512]	Match
+fifth sacral spinal cord segment	[birnlex_1553, UBERON_0006464]	Match
+prepositus nucleus	[birnlex_2652, UBERON_0002160]	Match
+B09-8a	[birnlex_1762, UBERON_0013562]	Match
+operculum frontale	[UBERON_0002947, birnlex_751]	Match
+fertilization membrane	[GO_0060388, GO_0060387]	No NIF Term ID values in: [GO_0060388, GO_0060387]
+http://purl.org/obo/owl/PATO#PATO_0002202	[NEMO_5090000, NEMO_9944000, NEMO_5344000]	No NIF Term ID values in: [NEMO_5090000, NEMO_9944000, NEMO_5344000]
+stratum lacunosum-moleculare	[UBERON_0007640, birnlex_1359]	Match
+sulcus rostralis superior	[birnlex_1143, UBERON_0002607]	Match
+ salvage pathway	[GO_0042352, GO_0019358]	No NIF Term ID values in: [GO_0042352, GO_0019358]
+polus occipitalis	[UBERON_0002902, birnlex_4016]	Match
+pre-synaptic active zone dense projection	[sao494258938, GO_0097445]	Match
+habenular nucleus	[UBERON_0001904, birnlex_1611]	Match
+Schilder-Addison Complex	[DOID_10588, birnlex_12527]	Match
+hypothalamus segment	[UBERON_0003048, birnlex_995]	Match
+Postinfectious Encephalomyelitis	[DOID_639, birnlex_12510]	Match
+Hereditary Retinoblastoma	[birnlex_12636, DOID_4648]	Match
+Anthropoidea	[NCBITaxon_314293, birnlex_256]	Match
+pretectal olivary nucleus	[UBERON_0002565, birnlex_1037]	Match
+Macular degeneration (disorder)	[DOID_4448, birnlex_12811]	Match
+uKATP-1	[nifext_2946, PR_000001984]	Do Not match
+B09-40	[UBERON_0013573, birnlex_1773]	Match
+nucleus preopticus periventricularis	[birnlex_1201, UBERON_0002622]	Match
+cerebral aqueduct	[UBERON_0002289, birnlex_1261]	Match
+Tau 74	[PR_000027631, PR_000027656]	No NIF Term ID values in: [PR_000027631, PR_000027656]
+KNS2	[PR_000009349, PR_000009308]	No NIF Term ID values in: [PR_000009349, PR_000009308]
+B09-39	[birnlex_1772, UBERON_0006480]	Match
+chemosensory perception	[GO_0007606, birnlex_1889]	Do Not match
+cochlear organ	[UBERON_0001844, birnlex_1190]	Match
+gyrus parahippocampalis	[UBERON_0002973, birnlex_807]	Match
+glomerulus	[UBERON_0005325, UBERON_0001047]	No NIF Term ID values in: [UBERON_0005325, UBERON_0001047]
+14-diene metabolism	[GO_1900939, GO_1900878, GO_1900938]	No NIF Term ID values in: [GO_1900939, GO_1900878, GO_1900938]
+resistance	[NEMO_4603000, PATO_0001046]	No NIF Term ID values in: [NEMO_4603000, PATO_0001046]
+Bulbar paralysis	[DOID_681, birnlex_12567]	Match
+ involved in cerebral cortex glial-mediated radial migration	[GO_0021809, GO_0021810]	No NIF Term ID values in: [GO_0021809, GO_0021810]
+Intracranial Vascular Disorder	[DOID_6713, birnlex_12780]	Match
+eleventh cranial nerve fibers	[UBERON_0006117, birnlex_916]	Match
+B09-38	[UBERON_0006479, birnlex_1771]	Match
+ oxygen as acceptor	[GO_0050664, GO_0016670, GO_0016676]	No NIF Term ID values in: [GO_0050664, GO_0016670, GO_0016676]
+protein kinase A anchoring activity	[GO_0034237, GO_0051018]	No NIF Term ID values in: [GO_0034237, GO_0051018]
+Multisystem Atrophy	[birnlex_12573, DOID_4752]	Match
+tenth thoracic dorsal root ganglion	[UBERON_0002853, birnlex_2620]	Match
+TRPA1	[PR_000000699, nifext_3163]	Match
+riMLF	[UBERON_0002717, birnlex_1481]	Match
+3-isopropenyl-6-oxoheptanoyl-CoA synthetase activity	[GO_0052688, GO_0052687]	No NIF Term ID values in: [GO_0052688, GO_0052687]
+pre-synaptic grid	[GO_1990013, sao1730664005]	Match
+NAD(P)H:oxygen oxidoreductase (3-hydroxylating)	[GO_0018671, GO_0036191]	No NIF Term ID values in: [GO_0018671, GO_0036191]
+Mc5r	[nifext_6053, nifext_6050]	** Review Manually ** 
+succinyl coenzyme A synthetase	[GO_0004775, GO_0004776]	No NIF Term ID values in: [GO_0004775, GO_0004776]
+NMR instrument	[birnlex_2419, OBI_0000566]	Match
+B09-28	[birnlex_1759, UBERON_0013559]	Match
+ALBP	[PR_000007312, PR_000022088]	No NIF Term ID values in: [PR_000007312, PR_000022088]
+Cerebral Beriberi	[birnlex_12708, DOID_2384]	Match
+lumbar spinal cord anterior commissure	[UBERON_0007834, birnlex_1326]	Match
+SNAP	[PR_000015312, GO_0005483]	No NIF Term ID values in: [PR_000015312, GO_0005483]
+CX3CR1	[PR_000001206, nifext_7739, nifext_7737]	** Review Manually ** 
+Lateral preoptic hypothalamic nucleus	[UBERON_0001931, birnlex_1722]	Match
+neuron protrusion	[sao-867568886, GO_0043005, sao-250931889]	** Review Manually ** 
+lateral gray horn	[UBERON_0004676, birnlex_2666]	Match
+F2rl2	[nifext_6672, nifext_6669]	** Review Manually ** 
+Sympathetic Ocular-Ophthalmoplegia	[birnlex_12586, DOID_11486]	Match
+ hypoxanthine and their nucleoside salvage	[GO_0006169, GO_0006190, GO_0043103]	No NIF Term ID values in: [GO_0006169, GO_0006190, GO_0043103]
+SK2	[nifext_2863, PR_000000713]	Do Not match
+rostral intralaminar nuclei	[UBERON_0002965, birnlex_794]	Match
+TRHR	[PR_000001557, nifext_7548]	Do Not match
+http://ontology.neuinfo.org/NIF/Function/NIF-Function.owl#birnlex_1800	[NEMO_9771000, NEMO_8289000, NEMO_6707000, NEMO_3107000, NEMO_7855000, NEMO_4758000, NEMO_3076000, NEMO_4320000, NEMO_9643000, NEMO_5400000, NEMO_0994000, NEMO_9355000, NEMO_7436000, NEMO_7984000, NEMO_6641000]	No NIF Term ID values in: [NEMO_9771000, NEMO_8289000, NEMO_6707000, NEMO_3107000, NEMO_7855000, NEMO_4758000, NEMO_3076000, NEMO_4320000, NEMO_9643000, NEMO_5400000, NEMO_0994000, NEMO_9355000, NEMO_7436000, NEMO_7984000, NEMO_6641000]
+Grpr	[nifext_7656, nifext_7659]	** Review Manually ** 
+ascending limb of the inferior temporal sulcus	[birnlex_4023, UBERON_0002906]	Match
+BCNG1	[PR_000000705, nifext_3061]	Match
+mitochondrion component	[sao666410040, GO_0044429]	Match
+http://knoesis.wright.edu/provenir/provenir.owl#process	[OBI_0000011, birnlex_11021]	Match
+hypoglossal nerve fibers	[UBERON_0004675, birnlex_1588]	Match
+Hac3	[PR_000000707, nifext_3069]	Match
+brain stem	[UBERON_0002298, birnlex_1565]	Match
+SCYA26	[PR_000001997, nifext_5053]	Match
+BCNG3	[PR_000000708, nifext_3073]	Match
+SCYA24	[PR_000001996, nifext_5052]	Match
+mitochondrial adhaerens complex	[sao1933817066, GO_0097423]	Match
+segment of cerebellar cortex	[UBERON_0002749, birnlex_1571]	Match
+TRPC6	[PR_000016696, nifext_3098]	Do Not match
+ 1823	[birnlex_147, NCBITaxon_7215]	Match
+diazepam binding inhibitor activity	[GO_0050811, GO_0030156]	No NIF Term ID values in: [GO_0050811, GO_0030156]
+TRPC7	[PR_000001080, nifext_3101, nifext_3102]	** Review Manually ** 
+nucleus of trochlear nerve	[UBERON_0002722, birnlex_1488]	Match
+ activation of MAPKK activity	[GO_0000198, GO_0071509]	No NIF Term ID values in: [GO_0000198, GO_0071509]
+pars superior vestibularis	[UBERON_0002825, birnlex_2551]	Match
+TRIK	[nifext_3031, nifext_3030]	** Review Manually ** 
+CA2 basket cell	[nlx_cell_091207, nlx_cell_091208]	No NIF Term ID values in: [nlx_cell_091207, nlx_cell_091208]
+eighth thoracic dorsal root ganglion	[UBERON_0002851, birnlex_2618]	Match
+Differential scanning calorimeter	[birnlex_2426, ERO_0001805]	Match
+pontobulbar body	[birnlex_2656, UBERON_0002880]	Match
+commissure of forel	[UBERON_0002991, birnlex_859]	Match
+pcsA	[PR_000023719, PR_000022447]	No NIF Term ID values in: [PR_000023719, PR_000022447]
+fissura ansoparamedianis	[UBERON_0014468, nlx_anat_20081256]	Match
+ F1 sector	[GO_0045262, GO_0045261, GO_0000275]	No NIF Term ID values in: [GO_0045262, GO_0045261, GO_0000275]
+principle mamillary fasciculus	[birnlex_1492, UBERON_0002723]	Match
+Sulcus orbitalis	[birnlex_1112, UBERON_0002595]	Match
+B09-47	[UBERON_0006484, birnlex_1779]	Match
+juxtaparanodal region	[GO_0044224, sao1191319089]	Match
+neck portion	[GO_1990016, sao901230115]	Match
+4-hydroxyphenylpyruvate:oxygen oxidoreductase (decarboxylating)	[GO_0050585, GO_0018490]	No NIF Term ID values in: [GO_0050585, GO_0018490]
+autophagosome	[GO_0005776, sao8663416959]	Match
+anterior vermis of cerebellum	[UBERON_0003941, birnlex_1185]	Match
+commissure of Held	[UBERON_0002952, birnlex_768]	Match
+inner layer of eyeball	[birnlex_1153, UBERON_0000966]	Match
+star-shaped neurofibrillary tangle	[GO_0097418, sao2409833926]	Match
+collateral fissure	[UBERON_0002716, birnlex_1480]	Match
+Gpr2	[nifext_7592, nifext_7597]	** Review Manually ** 
+laterality_axis	[NEMO_8843000, NEMO_7078000]	No NIF Term ID values in: [NEMO_8843000, NEMO_7078000]
+Gpr4	[nifext_6208, nifext_6211]	** Review Manually ** 
+kidney anlage	[UBERON_0005095, UBERON_0007687]	No NIF Term ID values in: [UBERON_0005095, UBERON_0007687]
+post-traumatic stress disorder	[birnlex_12679, DOID_2055]	Match
+kinesthesia	[birnlex_2510, GO_0019232]	Do Not match
+mammillotegmental tract	[UBERON_0006698, birnlex_1497]	Match
+globus pallidus medialis	[birnlex_1555, UBERON_0002477]	Match
+http://purl.org/obo/owl/PATO#PATO_0000044	[NEMO_2322000, PATO_0000044, PATO_0000049]	No NIF Term ID values in: [NEMO_2322000, PATO_0000044, PATO_0000049]
+XCR1	[nifext_5933, nifext_5935]	** Review Manually ** 
+transverse pontine fibres	[UBERON_0002735, birnlex_1535]	Match
+RXFP4	[nifext_5563, nifext_5561]	** Review Manually ** 
+lateral subdivision of medial mammillary nucleus	[birnlex_1314, UBERON_0002664]	Match
+voltage-gated potassium channel subunit Kv8.2	[PR_000000726, nifext_2799]	Match
+RXFP1	[PR_000001666, nifext_5684, nifext_5682]	** Review Manually ** 
+RXFP3	[nifext_6933, nifext_6931]	** Review Manually ** 
+RXFP2	[nifext_6431, nifext_6429]	** Review Manually ** 
+cellular component	[GO_0005575, sao-1337158144, nlx_subcell_100315]	Match
+lunate fissure	[birnlex_4017, UBERON_0002903]	Match
+CDRK	[PR_000000723, nifext_2713]	Match
+sulcus of rolando	[UBERON_0002916, birnlex_4035]	Match
+thoracic spinal cord	[birnlex_966, UBERON_0003038]	Match
+CLB	[GO_1990012, nlx_151681]	No NIF Term ID values in: [GO_1990012, nlx_151681]
+PAR4	[nifext_6275, nifext_6267]	** Review Manually ** 
+isoform alpha	[PR_000001722, PR_000002299]	No NIF Term ID values in: [PR_000001722, PR_000002299]
+SCYA15	[PR_000001987, nifext_5045]	Match
+nucleus tegmentalis posterior	[UBERON_0002143, birnlex_992]	Match
+flocculus of cerebellum	[UBERON_0001063, birnlex_1329]	Match
+segment of posterior hypothalamic region	[UBERON_0002789, birnlex_1697]	Match
+superior parietal lobule	[birnlex_1450, UBERON_0006094]	Match
+MED1	[PR_000010218, PR_000010279]	No NIF Term ID values in: [PR_000010218, PR_000010279]
+3-dioxygenase activity	[GO_0018624, GO_0008687]	No NIF Term ID values in: [GO_0018624, GO_0008687]
+ carboxymethyl-forming)	[GO_0004474, GO_0050438]	No NIF Term ID values in: [GO_0004474, GO_0050438]
+premammillary nuclei	[birnlex_1473, UBERON_0002712]	Match
+anterior horizontal ramus of lateral fissure	[UBERON_0002669, birnlex_1327]	Match
+6-glucosidase activity	[GO_0008422, GO_0004135, GO_0010303]	No NIF Term ID values in: [GO_0008422, GO_0004135, GO_0010303]
+antibody	[GO_0003823, GO_0042571]	No NIF Term ID values in: [GO_0003823, GO_0042571]
+oculomotor nerve tree	[UBERON_0001643, birnlex_1646]	Match
+articular	[UBERON_0004744, UBERON_2001805]	No NIF Term ID values in: [UBERON_0004744, UBERON_2001805]
+ signal transduction resulting in induction of apoptosis	[GO_1902230, GO_1902231, GO_1902229, GO_0008630]	No NIF Term ID values in: [GO_1902230, GO_1902231, GO_1902229, GO_0008630]
+granule cell layer of cerebral cortex	[UBERON_0005391, nlx_anat_090808]	Match
+NK-1R	[nifext_7091, PR_000001247, nifext_7085]	** Review Manually ** 
+anterotemporal_scalp_region	[NEMO_0000009, NEMO_7018000]	No NIF Term ID values in: [NEMO_0000009, NEMO_7018000]
+anterior meningeal arteries	[UBERON_0012318, UBERON_0010251]	No NIF Term ID values in: [UBERON_0012318, UBERON_0010251]
+SER	[GO_0005790, sao710427438]	Match
+neural fasciculus	[birnlex_872, UBERON_0001019]	Match
+rubrospinal tract (Monakow)	[UBERON_0002714, birnlex_1476]	Match
+chiasmal zone	[UBERON_0002550, birnlex_1005]	Match
+motor endplate	[sao1124888485, GO_0031594]	Match
+intermediate frontal gyrus	[UBERON_0002702, birnlex_1451]	Match
+phosphatidylserine-specific phospholipase A1 activity	[GO_0052740, GO_0052739]	No NIF Term ID values in: [GO_0052740, GO_0052739]
+ signal transduction by p53 class mediator resulting in induction of apoptosis	[GO_1902165, GO_1902167, GO_1902166, GO_0042771]	No NIF Term ID values in: [GO_1902165, GO_1902167, GO_1902166, GO_0042771]
+4-alpha-D-glucan 4-alpha-D-glucosyltransferase activity	[GO_0033825, GO_0047669]	No NIF Term ID values in: [GO_0033825, GO_0047669]
+ central nucleus	[UBERON_0002563, birnlex_1035]	Match
+Soemmering's substance	[UBERON_0002038, birnlex_789]	Match
+PAP1	[PR_000027897, PR_000012449]	No NIF Term ID values in: [PR_000027897, PR_000012449]
+ central stalk	[GO_0045270, GO_0045269]	No NIF Term ID values in: [GO_0045270, GO_0045269]
+apex of dorsal gray column	[UBERON_0004678, birnlex_2670]	Match
+OPN5	[PR_000001180, nifext_5991]	Do Not match
+Pick's disease	[DOID_11870, nlx_dys_090801]	Match
+CNS PNET	[DOID_168, birnlex_12629]	Match
+rough ER	[sao1881364067, GO_0005791]	Match
+OPN3	[PR_000001220, nifext_5539]	Do Not match
+http://purl.org/obo/owl/PATO#PATO_0000011	[NEMO_3819000, NEMO_5252000, NEMO_2506000]	No NIF Term ID values in: [NEMO_3819000, NEMO_5252000, NEMO_2506000]
+house mouse	[NCBITaxon_10090, birnlex_167]	Match
+optic lobe	[UBERON_0006794, UBERON_0006796, UBERON_0006795]	No NIF Term ID values in: [UBERON_0006794, UBERON_0006796, UBERON_0006795]
+magnetoception	[GO_0050958, birnlex_1900]	Do Not match
+Neurotic Anxiety State	[birnlex_12671, DOID_2030]	Match
+neuronal cell soma	[GO_0043025, sao1044911821]	Match
+Data	[nlx_res_20090102, IAO_0000027, ERO_0001554, SWO_0000516]	Match
+tubulus renalis colligens	[UBERON_0001232, UBERON_0004100]	No NIF Term ID values in: [UBERON_0001232, UBERON_0004100]
+MRGPRX1	[PR_000001702, nifext_7108]	Do Not match
+pons of Varolius	[birnlex_733, UBERON_0000988]	Match
+MRGPRX2	[PR_000001703, nifext_5349]	Do Not match
+SerRS	[PR_000014459, PR_000023935]	No NIF Term ID values in: [PR_000014459, PR_000023935]
+T4 spinal cord segment	[UBERON_0006452, birnlex_1378]	Match
+SPT	[PR_000026126, GO_0004760]	No NIF Term ID values in: [PR_000026126, GO_0004760]
+SPS	[NEMO_7636000, GO_0046524]	No NIF Term ID values in: [NEMO_7636000, GO_0046524]
+ gigantopyramidal	[UBERON_0013535, birnlex_1735]	Match
+VROAC	[PR_000001068, nifext_3118]	Match
+fissura intercruralis cerebelli	[nlx_anat_20081255, UBERON_0002815]	Match
+aci-reductone dioxygenase	[GO_0010309, PR_000003775]	No NIF Term ID values in: [GO_0010309, PR_000003775]
+Ghsr	[nifext_7626, nifext_7629]	** Review Manually ** 
+ Thr 161) (human)	[PR_000027149, PR_000027145]	No NIF Term ID values in: [PR_000027149, PR_000027145]
+Spongy degeneration of central nervous system (disorder)	[birnlex_12529, DOID_3613]	Match
+radix motoria (Nervus trigeminus [V])	[UBERON_0002796, birnlex_1717]	Match
+sensory transduction of temperature stimulus	[GO_0050961, birnlex_15004]	Do Not match
+septal nucleus	[UBERON_0002663, birnlex_1313]	Match
+C3 spinal cord segment	[UBERON_0006488, birnlex_744]	Match
+T7 spinal cord segment	[UBERON_0006455, birnlex_1392]	Match
+pontine nuclei	[birnlex_1516, UBERON_0002151]	Match
+MRGPRX4	[nifext_5357, PR_000001705]	Do Not match
+cervical nerve tree	[UBERON_0000962, nlx_anat_20090207]	Match
+preclival fissure	[UBERON_0014471, nlx_anat_20081253]	Match
+Ntsr2	[nifext_6229, nifext_6232]	** Review Manually ** 
+nucleus reticularis tegmenti pontis	[UBERON_0002147, birnlex_882]	Match
+pars opercularis gyri frontalis inferioris	[UBERON_0002980, birnlex_823]	Match
+pre-replication complex	[GO_1990099, GO_0036387]	No NIF Term ID values in: [GO_1990099, GO_0036387]
+brachium conjunctivum	[birnlex_1711, UBERON_0002150]	Match
+CRP3	[PR_000005875, PR_000005961]	No NIF Term ID values in: [PR_000005875, PR_000005961]
+first thoracic dorsal root ganglion	[UBERON_0002845, birnlex_2611]	Match
+dopamine D2 receptor	[nifext_5843, PR_000001177]	Do Not match
+6-phosphomutase activity	[GO_0008966, GO_0004614, GO_0004615, GO_0008801]	No NIF Term ID values in: [GO_0008966, GO_0004614, GO_0004615, GO_0008801]
+entorhinal cortex	[birnlex_2705, UBERON_0002895, birnlex_1508, UBERON_0002728, birnlex_2709]	** Review Manually ** 
+polus frontalis	[UBERON_0002795, birnlex_1716]	Match
+vestibulocerebellar fibers	[birnlex_1009, UBERON_0002552]	Match
+lateral septum	[birnlex_1315, UBERON_0004714, UBERON_0007628]	Do Not match
+ RNA polymerase(A) coupled	[GO_2000805, GO_2000804]	No NIF Term ID values in: [GO_2000805, GO_2000804]
+basolateral nucleus (De Olmos)	[birnlex_2692, UBERON_0002887]	Match
+generation of action potential	[GO_0019228, GO_0086010]	No NIF Term ID values in: [GO_0019228, GO_0086010]
+organum spirale	[UBERON_0002227, birnlex_2526]	Match
+visceral nervous system	[birnlex_1123, UBERON_0002410]	Match
+owl monkey	[birnlex_365, NCBITaxon_9504]	Match
+SMC complex	[GO_0008278, GO_0000796]	No NIF Term ID values in: [GO_0008278, GO_0000796]
+sulcus of corpus callosum	[UBERON_0002920, birnlex_4040]	Match
+segment of cerebellar white matter	[UBERON_0003035, birnlex_959]	Match
+central gray matter	[UBERON_0002867, birnlex_2638]	Match
+spinal cord grey matter	[UBERON_0002315, nlx_anat_100204]	Match
+chronic inflammatory demyelinating polyradiculoneuropathy (disorder)	[birnlex_12563, DOID_5213]	Match
+Technology development	[nlx_inv_100615, ERO_0001610]	Match
+olfactory bulb accessory nucleus	[UBERON_0004069, nlx_anat_20090453]	Match
+membrane protein solubilization	[GO_0031293, GO_0006509]	No NIF Term ID values in: [GO_0031293, GO_0006509]
+nucleus of perlia	[UBERON_0002960, birnlex_786]	Match
+3-glucan anabolism	[GO_0070600, GO_0070598]	No NIF Term ID values in: [GO_0070600, GO_0070598]
+D001611	[NEMO_6120000, NEMO_2767000]	No NIF Term ID values in: [NEMO_6120000, NEMO_2767000]
+GMD	[PR_000008067, NEMO_6329000]	No NIF Term ID values in: [PR_000008067, NEMO_6329000]
+endothelial collagen	[PR_000005721, PR_000005720]	No NIF Term ID values in: [PR_000005721, PR_000005720]
+astrocyte sheath	[sao1279474730, GO_0043209, nlx_subcell_20090204, sao-593830697]	** Review Manually ** 
+3 glucan metabolic process	[GO_0034407, GO_0070605, GO_0070597, GO_0071969, GO_0006074, GO_0070599]	No NIF Term ID values in: [GO_0034407, GO_0070605, GO_0070597, GO_0071969, GO_0006074, GO_0070599]
+8L	[PR_000002418, PR_000002420]	No NIF Term ID values in: [PR_000002418, PR_000002420]
+ambiguus nucleus	[UBERON_0001719, birnlex_2650]	Match
+vermis	[UBERON_0004720, birnlex_1106, birnlex_1175]	** Review Manually ** 
+copper homeostasis	[GO_0006878, GO_0055070]	No NIF Term ID values in: [GO_0006878, GO_0055070]
+ quinone or similar compound as acceptor	[GO_0016672, GO_0016655]	No NIF Term ID values in: [GO_0016672, GO_0016655]
+ unspecified (disorder)	[DOID_3620, DOID_13034]	No NIF Term ID values in: [DOID_3620, DOID_13034]
+MIP-1-alpha	[nifext_5036, PR_000002123]	Match
+ neurotransmission	[GO_0060096, GO_0061529, GO_0061533]	No NIF Term ID values in: [GO_0060096, GO_0061529, GO_0061533]
+histidine tRNA	[GO_0033425, GO_0033426]	No NIF Term ID values in: [GO_0033425, GO_0033426]
+Fshr	[nifext_6830, nifext_6833]	** Review Manually ** 
+sulcus hippocampi	[UBERON_0002899, birnlex_4004]	Match
+ frontoplar	[UBERON_0013541, birnlex_1741]	Match
+Isothermal titration calorimeter	[birnlex_2427, ERO_0001590]	Match
+Mc2r	[nifext_6022, nifext_6018]	** Review Manually ** 
+membranous urethra	[UBERON_0001336, UBERON_0012302]	No NIF Term ID values in: [UBERON_0001336, UBERON_0012302]
+regio occipitalis	[birnlex_1136, UBERON_0002021]	Match
+glandula pituitaria	[UBERON_0000007, birnlex_1353]	Match
+PRI	[PR_000023806, PR_000014143]	No NIF Term ID values in: [PR_000023806, PR_000014143]
+CSB	[PR_000007168, UBERON_0004198]	No NIF Term ID values in: [PR_000007168, UBERON_0004198]
+TCA cycle enzyme complex	[GO_0045246, GO_0045239, GO_0030062]	No NIF Term ID values in: [GO_0045246, GO_0045239, GO_0030062]
+lateral nucleus of amygdala	[birnlex_2687, UBERON_0002886]	Match
+Ovis ovis	[birnlex_456, NCBITaxon_9940]	Do Not match
+isoform B	[PR_000003004, PR_000003397, PR_000000405, PR_000002173, PR_000000480]	No NIF Term ID values in: [PR_000003004, PR_000003397, PR_000000405, PR_000002173, PR_000000480]
+type IV intermediate filament	[GO_0005883, sao1316272517]	Match
+TRY1	[PR_000016707, PR_000013318]	No NIF Term ID values in: [PR_000016707, PR_000013318]
+nuclei periolivares	[UBERON_0002971, birnlex_804]	Match
+PTC	[PR_000016069, PR_000013412]	No NIF Term ID values in: [PR_000016069, PR_000013412]
+ pars magnocellularis	[UBERON_0002935, birnlex_716]	Match
+LRP	[PR_000010787, NEMO_9213000]	No NIF Term ID values in: [PR_000010787, NEMO_9213000]
+reticular part of substantia nigra	[birnlex_968, UBERON_0001966]	Match
+caudal nucleus	[UBERON_0002866, birnlex_2637]	Match
+Shal1	[PR_000000785, nifext_2740]	Match
+program	[birnlex_11012, Program]	Match
+fruit fly	[birnlex_535, NCBITaxon_7227]	Match
+anteroventral auditory nucleus	[UBERON_0002830, birnlex_2572]	Match
+CPO	[PR_000005826, PR_000005825]	No NIF Term ID values in: [PR_000005826, PR_000005825]
+hydrogen-donor:oxygen oxidoreductase (hydroxylating)	[GO_0000254, GO_0050214]	No NIF Term ID values in: [GO_0000254, GO_0050214]
+Mc4r	[nifext_7052, nifext_7049]	** Review Manually ** 
+sugar transporter	[GO_0015608, GO_0015144]	No NIF Term ID values in: [GO_0015608, GO_0015144]
+14Z-eicosatetraenoic acid binding	[GO_0050648, GO_0050646, GO_0050647]	No NIF Term ID values in: [GO_0050648, GO_0050646, GO_0050647]
+pars sympathica divisionis autonomici systematis nervosi	[UBERON_0000013, birnlex_2516]	Match
+bone	[UBERON_0001474, UBERON_0002481]	No NIF Term ID values in: [UBERON_0001474, UBERON_0002481]
+N400	[NEMO_0290000, NEMO_2938000, NEMO_2978000]	No NIF Term ID values in: [NEMO_0290000, NEMO_2938000, NEMO_2978000]
+tractus supraopticohypophysialis	[birnlex_1440, UBERON_0002699]	Match
+cervical spinal ganglion	[UBERON_0002834, birnlex_2599]	Match
+Gower's tract	[birnlex_848, UBERON_0002987]	Match
+tecto-bulbar tract	[UBERON_0002164, birnlex_750]	Match
+t. mesencephali	[UBERON_0002314, birnlex_1032]	Match
+Anterior Cerebral Artery Syndrome	[birnlex_12792, DOID_3528]	Match
+Ccr7	[nifext_7911, nifext_7914]	** Review Manually ** 
+plexiform layer	[nlx_anat_20090405, UBERON_0009950]	Match
+presubiculum (Cajal)	[birnlex_1108, UBERON_0001953]	Match
+phosphoserine/phosphothreonine binding	[GO_0050815, GO_0050816]	No NIF Term ID values in: [GO_0050815, GO_0050816]
+pretectal area nucleus	[birnlex_864, UBERON_0002994]	Match
+PPIase	[PR_000013088, PR_000013083]	No NIF Term ID values in: [PR_000013088, PR_000013083]
+Degenerative Neurologic Disease	[birnlex_2086, DOID_1289]	Match
+ACT2	[PR_000002124, nifext_5037]	Match
+murine IRF5p complex	[PR_000027537, PR_000027536]	No NIF Term ID values in: [PR_000027537, PR_000027536]
+clivus of macula lutea	[birnlex_2544, UBERON_0002823]	Match
+segment of metencephalon	[UBERON_0002680, birnlex_1361]	Match
+PAFr	[PR_000001501, nifext_7522]	Match
+polyribosome	[sao1038025871, GO_0005844]	Match
+hemispherium cerebelli	[UBERON_0002245, birnlex_1575]	Match
+CA3 part of stratum oriens	[UBERON_0014553, birnlex_4117]	Do Not match
+sodium:dicarboxylate/tricarboxylate symporter activity	[GO_0015142, GO_0005310]	No NIF Term ID values in: [GO_0015142, GO_0005310]
+ Child	[DOID_3846, birnlex_12614]	Match
+zinc efflux permease activity	[GO_0015341, GO_0022883]	No NIF Term ID values in: [GO_0015341, GO_0022883]
+intercellular junction	[GO_0005911, sao-3012335077, sao1395777368]	** Review Manually ** 
+vas sanguineum	[UBERON_0001981, nlx_anat_090901]	Match
+alae of central lobule	[UBERON_0003013, birnlex_907]	Match
+flippase	[GO_0034203, GO_0045332]	No NIF Term ID values in: [GO_0034203, GO_0045332]
+hippocampus fornix	[UBERON_0000052, birnlex_705]	Match
+filiform papillae	[UBERON_0002467, birnlex_4104]	Match
+cytidine aminohydrolase	[PR_000005180, PR_000003864]	No NIF Term ID values in: [PR_000005180, PR_000003864]
+ docking	[GO_0031203, GO_0016560, GO_0006615]	No NIF Term ID values in: [GO_0031203, GO_0016560, GO_0006615]
+Data storage service	[nlx_res_20090428, ERO_0001257]	Match
+DP	[PR_000006711, nifext_7096]	Do Not match
+medial oculomotor cell column	[UBERON_0002975, birnlex_813]	Match
+Rett's disorder	[DOID_1206, birnlex_12770]	Match
+CCR10	[nifext_7587, nifext_7589]	** Review Manually ** 
+ glucose uniporter activity	[GO_0050782, GO_0015304]	No NIF Term ID values in: [GO_0050782, GO_0015304]
+zona pellucida - vitelline membrane	[UBERON_0000086, UBERON_0003125]	No NIF Term ID values in: [UBERON_0000086, UBERON_0003125]
+Complex Partial Seizure Disorder	[birnlex_12729, DOID_3331]	Match
+ATP-dependent proteolysis	[GO_0006508, GO_0004176]	No NIF Term ID values in: [GO_0006508, GO_0004176]
+hERG2	[PR_000000795, nifext_2831]	Match
+acute hemorrhagic encephalomyelitis	[birnlex_12513, DOID_10992]	Match
+CUL1	[PR_000000092, PR_000027962]	No NIF Term ID values in: [PR_000000092, PR_000027962]
+Scanning electron microscopy	[nlx_82779, ERO_0000330]	No NIF Term ID values in: [nlx_82779, ERO_0000330]
+ soma encoded	[GO_0007313, GO_0008071]	No NIF Term ID values in: [GO_0007313, GO_0008071]
+Interior olive	[UBERON_0002127, birnlex_1164]	Match
+nucleus gigantocellularis	[nlx_anat_1005001, UBERON_0002155]	Match
+Area subgenualis	[UBERON_0013556, birnlex_1756]	Match
+superior salivary nucleus	[UBERON_0002149, birnlex_1131]	Match
+longitudinal pontine fibers	[UBERON_0002732, birnlex_1523]	Match
+nucleus posterior thalami	[UBERON_0003030, birnlex_939]	Match
+GlyRS	[PR_000007846, PR_000022818]	No NIF Term ID values in: [PR_000007846, PR_000022818]
+chiasma opticum	[UBERON_0000959, birnlex_1416]	Match
+SSTR3	[PR_000001670, nifext_7981]	Do Not match
+cell fusion	[GO_0045026, GO_0000747, GO_0000768]	No NIF Term ID values in: [GO_0045026, GO_0000747, GO_0000768]
+uracil/uridine permease activity	[GO_0015213, GO_0015210]	No NIF Term ID values in: [GO_0015213, GO_0015210]
+Striatonigral Atrophy	[DOID_4751, birnlex_12577]	Match
+SSTR1	[nifext_7266, PR_000001668]	Do Not match
+ER	[sao1036339110, GO_0005783]	Match
+nasal placode	[UBERON_0003050, UBERON_0009292]	No NIF Term ID values in: [UBERON_0003050, UBERON_0009292]
+mesencephalic trigeminal tract	[birnlex_1318, UBERON_0002666]	Match
+Isoform B	[PR_000002433, PR_000000206]	No NIF Term ID values in: [PR_000002433, PR_000000206]
+fN400	[NEMO_6713000, NEMO_8789000, NEMO_2289000]	No NIF Term ID values in: [NEMO_6713000, NEMO_8789000, NEMO_2289000]
+midbrain segment	[UBERON_0002950, birnlex_763]	Match
+membrane-enclosed organelle	[GO_0043227, sao414196390]	Match
+clathrin cage	[GO_0030118, sao879919129]	Match
+GC	[birnlex_2410, PR_000007883]	Do Not match
+mono-ubiquitinated smad4	[PR_000025955, PR_000025957]	No NIF Term ID values in: [PR_000025955, PR_000025957]
+5-dihydro-5-oxofuran-2-acetate lyase (decyclizing)	[GO_0018852, GO_0047768]	No NIF Term ID values in: [GO_0018852, GO_0047768]
+cranial neural tree organ	[birnlex_1623, UBERON_0001785]	Match
+Cocaine Abuse	[birnlex_12710, DOID_9975]	Match
+Sulcus postcentralis inferior	[birnlex_4032, UBERON_0002914]	Match
+L4 spinal cord segment	[birnlex_1352, UBERON_0006451]	Match
+MRI assay	[nlx_inv_090912, ERO_0001235]	Match
+set of nuclei of neuraxis	[UBERON_0010009, nlx_anat_20090509]	Match
+intermediate cell layer	[nlx_anat_1005031, UBERON_0001791]	Match
+ lateral part	[UBERON_0002995, UBERON_0007225, birnlex_866]	Do Not match
+pars compacta	[UBERON_0001965, birnlex_990]	Match
+Bovine spongiform encephalopathy (disorder)	[birnlex_12690, DOID_5435]	Match
+ total	[DOID_10866, DOID_9842]	No NIF Term ID values in: [DOID_10866, DOID_9842]
+pale body	[GO_0097412, nlx_subcell_20090104]	No NIF Term ID values in: [GO_0097412, nlx_subcell_20090104]
+delta fornicis	[birnlex_746, UBERON_0000908]	Match
+GMP-PDE gamma	[PR_000012483, PR_000012482]	No NIF Term ID values in: [PR_000012483, PR_000012482]
+Pia mater	[UBERON_0002361, nlx_anat_090209]	Match
+laminae septi pellucidi	[birnlex_1554, UBERON_0002742]	Match
+rostral migratory pathway	[UBERON_0008881, birnlex_1702]	Match
+14-diene anabolism	[GO_1900941, GO_1900879]	No NIF Term ID values in: [GO_1900941, GO_1900879]
+bird	[birnlex_142, NCBITaxon_8782]	Match
+Bulbospinal Neuronopathy	[nlx_dys_2011001, birnlex_12568, DOID_12377]	** Review Manually ** 
+retina ganglion layer	[UBERON_0001792, nlx_anat_1005030]	Match
+Declive	[UBERON_0004080, nlx_anat_20081229]	Match
+dorsal accessory olive	[UBERON_0014288, nlx_anat_100310]	Match
+archaeocortex	[UBERON_0002894, birnlex_2707]	Match
+second lumbar spinal cord segment	[UBERON_0006450, birnlex_1345]	Match
+Rodentia	[birnlex_263, NCBITaxon_9989]	Match
+Operculum parietale	[UBERON_0002911, birnlex_4029]	Match
+GH	[PR_000007957, PR_000007968]	No NIF Term ID values in: [PR_000007957, PR_000007968]
+PGR14	[PR_000001491, nifext_5575]	Match
+benign neonatal seizures [Ambiguous]	[birnlex_12734, DOID_14264]	Match
+Software	[nlx_res_20090103, ERO_0000071]	Match
+pars nervosa of posterior lobe of pituitary gland	[UBERON_0003217, birnlex_941]	Match
+marginal branch of cingulate sulcus of insula	[UBERON_0002713, birnlex_1475]	Match
+cerebral ventricle	[UBERON_0004086, birnlex_1356]	Match
+Material analysis service resource	[nlx_res_20090424, ERO_0000395]	Match
+microtubule-based flagellum	[GO_0031514, GO_0005929, sao787716553]	Match
+RUMT	[GO_0030698, GO_0030696]	No NIF Term ID values in: [GO_0030698, GO_0030696]
+contour feather	[UBERON_0011793, UBERON_0008297]	No NIF Term ID values in: [UBERON_0011793, UBERON_0008297]
+ classical pathway	[GO_0030450, GO_0045960, GO_0045959, GO_0006958]	No NIF Term ID values in: [GO_0030450, GO_0045960, GO_0045959, GO_0006958]
+basal nucleus	[birnlex_1107, UBERON_0010010]	Match
+MC5R	[nifext_6047, PR_000001238]	Do Not match
+cupula of cochlea	[UBERON_0002819, birnlex_2523]	Match
+nucleus anteromedialis	[UBERON_0002701, birnlex_1445]	Match
+thalamus ventralis	[UBERON_0001900, birnlex_708]	Match
+ coupled to IP3 second messenger (phospholipase C activating)	[GO_1900738, GO_0051482]	No NIF Term ID values in: [GO_1900738, GO_0051482]
+IL-17	[PR_000001092, PR_000001138, GO_0030367]	No NIF Term ID values in: [PR_000001092, PR_000001138, GO_0030367]
+galactose/glucose (methylgalactoside) porter activity	[GO_0015592, GO_0015291, GO_0005354]	No NIF Term ID values in: [GO_0015592, GO_0015291, GO_0005354]
+NPBWR1	[PR_000001625, nifext_5636]	Do Not match
+ pars medialis	[birnlex_1233, UBERON_0002638]	Match
+vitamin or cofactor transporter activity	[GO_0051184, GO_0051183]	No NIF Term ID values in: [GO_0051184, GO_0051183]
+(S)-selective hydroxynitrile lyase activity	[GO_0052891, GO_0052892]	No NIF Term ID values in: [GO_0052891, GO_0052892]
+anterior perforated substance	[nlx_anat_1005037, UBERON_0001883, UBERON_0013201, birnlex_1096]	** Review Manually ** 
+AD	[DOID_10652, birnlex_2092]	Match
+Myoclonus with epilepsy and with Ragged Red Fibers (MERRF syndrome)	[birnlex_12724, DOID_310]	Match
+ prefrontal	[UBERON_0013543, birnlex_1743]	Match
+layer 1 of neocortex	[UBERON_0005390, nlx_anat_090807]	Match
+substantia innominata of Reichert	[UBERON_0003017, birnlex_915]	Match
+female genital morphogenesis	[GO_0048807, GO_0048804]	No NIF Term ID values in: [GO_0048807, GO_0048804]
+lumbar spinal nerve root	[UBERON_0009631, birnlex_1613]	Match
+Acute Stress Disorder	[birnlex_12680, DOID_6088]	Match
+predorsal fasciculus	[birnlex_1590, UBERON_0002754]	Match
+IL-10	[PR_000001471, GO_0005141]	No NIF Term ID values in: [PR_000001471, GO_0005141]
+B1	[nifext_7512, nifext_7876]	** Review Manually ** 
+ production of guide RNA	[GO_0070920, GO_0070918]	No NIF Term ID values in: [GO_0070920, GO_0070918]
+C7	[PR_000012097, PR_000004907]	No NIF Term ID values in: [PR_000012097, PR_000004907]
+external granule layer	[UBERON_0008829, birnlex_797]	Match
+medial mammillary nucleus (carpenter)	[birnlex_1220, UBERON_0002632]	Match
+maturing face	[GO_0005802, sao1039242387, sao9456487]	** Review Manually ** 
+posterior hypothalamic area	[birnlex_1463, UBERON_0002706]	Match
+immature otoliths	[UBERON_0002280, UBERON_2000139]	No NIF Term ID values in: [UBERON_0002280, UBERON_2000139]
+fourth lumbar spinal ganglion	[UBERON_0003943, birnlex_2626]	Match
+trapezoid nuclei	[UBERON_0007633, birnlex_745]	Match
+fifth lumbar spinal cord segment	[birnlex_1251, UBERON_0006447]	Match
+ exonucleolytic	[GO_0034415, GO_0000291]	No NIF Term ID values in: [GO_0034415, GO_0000291]
+right hemisphere	[UBERON_0002813, birnlex_1797]	Match
+retrorubal field	[UBERON_0011172, nlx_anat_20090301]	Match
+ stator stalk	[GO_0045265, GO_0045266]	No NIF Term ID values in: [GO_0045265, GO_0045266]
+MC3R	[nifext_6037, PR_000001236]	Do Not match
+L-arabinose/beta-D-thiogalactopyranoside:hydrogen antiporter activity	[GO_0015299, GO_0015147]	No NIF Term ID values in: [GO_0015299, GO_0015147]
+dorsal root ganglion of thorax	[UBERON_0002835, birnlex_2600]	Match
+ pars parvicellularis	[UBERON_0002937, birnlex_722]	Match
+Lobulus Semilunaris Superior	[UBERON_0005977, nlx_anat_20081208]	Match
+mesencephalon	[birnlex_1667, UBERON_0001891]	Match
+corpus mamillare	[UBERON_0002206, birnlex_865]	Match
+T-bar ribbon	[sao1470121605, sao1111202255, GO_0048788, sao-1488888179]	** Review Manually ** 
+Fugu rubripes	[birnlex_609, NCBITaxon_31033]	Match
+http://purl.org/obo/owl/PATO#PATO_0001018	[NEMO_8791000, NEMO_5336000]	No NIF Term ID values in: [NEMO_8791000, NEMO_5336000]
+capsula externa	[nlx_anat_1010013, UBERON_0004545]	Match
+6-aminomutase activity	[GO_0047702, GO_0047826]	No NIF Term ID values in: [GO_0047702, GO_0047826]
+ disulphide as acceptor	[GO_0016648, GO_0016728, GO_0016671, GO_0016900, GO_0016624, GO_0016642]	No NIF Term ID values in: [GO_0016648, GO_0016728, GO_0016671, GO_0016900, GO_0016624, GO_0016642]
+outer mitochondrial membrane	[GO_0005741, sao1289741256]	Match
+central artery of retina	[UBERON_0002270, UBERON_0001620]	No NIF Term ID values in: [UBERON_0002270, UBERON_0001620]
+statoacoustic (VIII) ganglion	[UBERON_0002827, birnlex_2564]	Match
+LPA1	[PR_000001684, nifext_6087]	Do Not match
+rhomboid thalamic nucleus	[birnlex_778, UBERON_0002955]	Match
+initial segment	[GO_0043194, sao256000789]	Match
+ventral nucleus of oculomotor nuclear complex	[birnlex_713, UBERON_0002934]	Match
+prosencephalon	[birnlex_1509, UBERON_0001890]	Match
+epithelial calcium channel 1	[nifext_3122, PR_000000776]	Match
+3-oxidoreductase (decyclizing)	[GO_0047719, GO_0050169]	No NIF Term ID values in: [GO_0047719, GO_0050169]
+sulcus subcentralis medialis	[birnlex_1121, UBERON_0002598]	Match
+SBO_0000477	[NEMO_6341000, NEMO_2406001]	No NIF Term ID values in: [NEMO_6341000, NEMO_2406001]
+pTau	[PR_000027446, PR_000027651, PR_000027652]	No NIF Term ID values in: [PR_000027446, PR_000027651, PR_000027652]
+Organismal object	[nlx_organ_110506, birnlex_2]	Match
+EBI2	[nifext_7186, PR_000001109]	Do Not match
+Median eminence of neurohypophysis	[birnlex_925, UBERON_0002197]	Match
+stratum lucidum	[UBERON_0007637, birnlex_4108]	Match
+Auberbach plexus	[nlx_anat_100306, UBERON_0002439]	Match
+N3	[NEMO_5608000, NEMO_3056000, NEMO_6379000]	No NIF Term ID values in: [NEMO_5608000, NEMO_3056000, NEMO_6379000]
+ARP1	[PR_000004214, PR_000003693, PR_000004026]	No NIF Term ID values in: [PR_000004214, PR_000003693, PR_000004026]
+N2	[NEMO_3948000, NEMO_8528000]	No NIF Term ID values in: [NEMO_3948000, NEMO_8528000]
+4-lactone lactonohydrolase activity	[GO_0050033, GO_0050021, GO_0047815]	No NIF Term ID values in: [GO_0050033, GO_0050021, GO_0047815]
+posterior transverse temporal convolution of heschl	[UBERON_0002774, birnlex_1661]	Match
+asparagine tRNA	[GO_0033442, GO_0033441]	No NIF Term ID values in: [GO_0033442, GO_0033441]
+frontal horn of lateral ventricle	[UBERON_0002651, birnlex_1279]	Match
+MGE	[UBERON_0004024, SO_0001037]	No NIF Term ID values in: [UBERON_0004024, SO_0001037]
+Parkinson's disease (disorder)	[birnlex_2098, DOID_14330]	Match
+Cyslt1	[nifext_7765, nifext_7762]	** Review Manually ** 
+MGB	[UBERON_0001927, birnlex_1670]	Match
+sulcus frontalis inferior	[birnlex_1619, UBERON_0002761]	Match
+rough ER membrane	[GO_0030867, sao3089754107]	Match
+dysthymia	[DOID_12139, birnlex_12759]	Match
+NA	[PR_000027734, UBERON_2005085]	No NIF Term ID values in: [PR_000027734, UBERON_2005085]
+anterior pillar of fornix	[UBERON_0002940, birnlex_731]	Match
+Rathke Pouch Tumor	[birnlex_12613, DOID_3840]	Match
+dense material	[GO_0097444, sao725931194]	Match
+terminal loop of Schwann cell	[GO_0097456, sao924713546]	Match
+anterior acoustic stria	[birnlex_991, UBERON_0003046]	Match
+neurofibromatosis type 1	[DOID_8712, birnlex_12605]	Match
+seventh thoracic spinal ganglion	[UBERON_0002850, birnlex_2617]	Match
+Phase contrast microscopy	[birnlex_2262, ERO_0001636]	Match
+zea-epoxidase activity	[GO_0052662, GO_0009540]	No NIF Term ID values in: [GO_0052662, GO_0009540]
+third lumbar spinal cord segment	[UBERON_0006449, birnlex_1340]	Match
+nucleus reticularis pontis oralis	[UBERON_0002999, birnlex_875]	Match
+incomplete medullary lamina of globus pallidus	[UBERON_0002763, birnlex_1626]	Match
+Cochlear nucleus	[UBERON_0002610, birnlex_1151]	Match
+DRP-1	[PR_000017209, PR_000006277]	No NIF Term ID values in: [PR_000017209, PR_000006277]
+P2RY8	[PR_000001542, nifext_5362]	Do Not match
+short	[PATO_0000574, PATO_0000569]	No NIF Term ID values in: [PATO_0000574, PATO_0000569]
+hDBB	[nlx_anat_20090303, UBERON_0006123]	Match
+isoleucine tRNA	[GO_0033433, GO_0033434]	No NIF Term ID values in: [GO_0033433, GO_0033434]
+glutamic acid tRNA	[GO_0033460, GO_0033459]	No NIF Term ID values in: [GO_0033460, GO_0033459]
+ sleep	[GO_0042321, GO_0045938]	No NIF Term ID values in: [GO_0042321, GO_0045938]
+straight gyrus	[birnlex_1103, UBERON_0004671]	Match
+large-celled nucleus of optic tract	[UBERON_0002996, birnlex_868]	Match
+P2RY1	[PR_000001568, nifext_6524]	Do Not match
+stria olfactoria lateralis	[UBERON_0001888, birnlex_1559]	Match
+synganglion	[UBERON_0000955, birnlex_796]	Match
+Cyclothymic personality	[birnlex_12755, DOID_845]	Match
+RILP	[PR_000014001, PR_000013211]	No NIF Term ID values in: [PR_000014001, PR_000013211]
+pars basalis telencephali	[UBERON_0002743, birnlex_1560]	Match
+medullary raphe nuclear complex segment	[birnlex_1349, UBERON_0002677]	Match
+organum subfornicale	[nlx_anat_100314, UBERON_0002219]	Match
+pars parvocellularis lateralis nuclei mediodorsalis thalami	[birnlex_1283, UBERON_0002654]	Match
+anterior transverse convolution of Heschl	[birnlex_1657, UBERON_0002773]	Match
+sacral spinal ganglion	[UBERON_0002837, birnlex_2602]	Match
+TPC2	[PR_000001966, nifext_3215]	Match
+BA24	[UBERON_0006101, birnlex_1755]	Match
+P1	[SO_0000154, NEMO_0000094]	No NIF Term ID values in: [SO_0000154, NEMO_0000094]
+motif	[SO_0100017, SO_0001067]	No NIF Term ID values in: [SO_0100017, SO_0001067]
+PL	[PR_000008687, UBERON_0001425]	No NIF Term ID values in: [PR_000008687, UBERON_0001425]
+gamma-H2A (fission yeast)	[PR_000027564, PR_000027551]	No NIF Term ID values in: [PR_000027564, PR_000027551]
+mustached bat	[birnlex_303, birnlex_296]	** Review Manually ** 
+MEC	[PR_000001803, nifext_5055]	Match
+ intrinsic regulator activity	[GO_0008597, GO_0008607, GO_0030359, GO_0008601, GO_0016536, GO_0017020, GO_0019909, GO_0030362, GO_0019914, GO_0008599]	No NIF Term ID values in: [GO_0008597, GO_0008607, GO_0030359, GO_0008601, GO_0016536, GO_0017020, GO_0019909, GO_0030362, GO_0019914, GO_0008599]
+BA33	[UBERON_0006476, birnlex_1766]	Match
+tractus opticus	[UBERON_0001908, birnlex_1684]	Match
+S100D	[PR_000014420, PR_000014412]	No NIF Term ID values in: [PR_000014420, PR_000014412]
+cochlear nuclear complex segment	[UBERON_0002621, birnlex_1195]	Match
+dense core vesicle	[GO_0031045, sao772007592]	Match
+ alpha beta T lymphocyte differentiation	[GO_0043377, GO_0043378]	No NIF Term ID values in: [GO_0043377, GO_0043378]
+benzoyl-CoA:anthranilate N-benzoyltransferase	[GO_0030771, GO_0047672]	No NIF Term ID values in: [GO_0030771, GO_0047672]
+nucleus amygdalae basalis medialis	[UBERON_0002889, birnlex_2696]	Match
+second thoracic dorsal root ganglion	[UBERON_0002846, birnlex_2612]	Match
+periamygdaloid cortex	[UBERON_0002656, UBERON_0014537, birnlex_1291]	Do Not match
+proline-rich protein 5	[PR_000015299, PR_000013271]	No NIF Term ID values in: [PR_000015299, PR_000013271]
+TALK-1	[PR_000001913, nifext_3020]	Do Not match
+scrapie	[birnlex_12694, DOID_5434]	Match
+hypoglossal nerve tree	[UBERON_0001650, birnlex_820]	Match
+HR	[GO_0009626, PR_000008744]	No NIF Term ID values in: [GO_0009626, PR_000008744]
+pyramidal layer of hippocampus	[UBERON_0002313, birnlex_1444]	Match
+olfactory groove	[UBERON_0002772, birnlex_1655]	Match
+MC1	[PR_000004493, nifext_6962]	Do Not match
+nucleus of eminentia teres	[UBERON_0002997, birnlex_870]	Match
+ imaginal disc	[GO_0007451, GO_0007450]	No NIF Term ID values in: [GO_0007451, GO_0007450]
+olivocochlear bundle of Rasmussen	[UBERON_0002775, birnlex_1666]	Match
+Down's syndrome NOS	[nlx_dys_20090502, DOID_14250]	Match
+ meiotic	[GO_0010672, GO_0051037, GO_0010674, GO_0010673]	No NIF Term ID values in: [GO_0010672, GO_0051037, GO_0010674, GO_0010673]
+nucleus reticularis thalami	[UBERON_0001903, birnlex_1721]	Match
+GZMB/iso:1/SigPep-	[PR_000026611, PR_000026713]	No NIF Term ID values in: [PR_000026611, PR_000026713]
+FMAID 242644	[NEMO_9417000, NEMO_9784000]	No NIF Term ID values in: [NEMO_9417000, NEMO_9784000]
+meningiomas (morphologic abnormality)	[DOID_3565, birnlex_12601]	Match
+coronal sulcus	[UBERON_0001299, UBERON_0013596]	No NIF Term ID values in: [UBERON_0001299, UBERON_0013596]
+nucleus juxtasolitarius	[UBERON_0002877, birnlex_2653]	Match
+secretory vesicle membrane	[GO_0030658, GO_0030667]	No NIF Term ID values in: [GO_0030658, GO_0030667]
+isoform Bcl-X(beta)	[PR_000002387, PR_000002388]	No NIF Term ID values in: [PR_000002387, PR_000002388]
+calloso-marginal sulcus	[UBERON_0002710, birnlex_1468]	Match
+MCP	[PR_000005008, PR_000001401]	No NIF Term ID values in: [PR_000005008, PR_000001401]
+FMA_226221	[NEMO_1873000, NEMO_1657000]	No NIF Term ID values in: [NEMO_1873000, NEMO_1657000]
+ peptide formation	[GO_0019539, GO_1900706, GO_1900679, GO_0031169]	No NIF Term ID values in: [GO_0019539, GO_1900706, GO_1900679, GO_0031169]
+sacral segments of spinal cord [1-5]	[UBERON_0005843, birnlex_1275]	Match
+branchial arch	[UBERON_0008896, UBERON_0002539]	No NIF Term ID values in: [UBERON_0008896, UBERON_0002539]
+IAP	[PR_000003964, PR_000010088]	No NIF Term ID values in: [PR_000003964, PR_000010088]
+lingual papilla	[UBERON_0001726, birnlex_4102]	Match
+rabbit	[birnlex_226, NCBITaxon_9986]	Match
+epithelial ependymoma	[DOID_4844, birnlex_12622]	Match
+C5 spinal cord segment	[UBERON_0006491, birnlex_760]	Match
+nucleus putamen	[birnlex_809, UBERON_0001874]	Match
+Joseph Azorean Disease	[birnlex_12650, DOID_1440]	Match
+fifth sacral spinal ganglion	[UBERON_0002863, birnlex_2632]	Match
+glycine betaine/proline porter activity	[GO_0015193, GO_0015199]	No NIF Term ID values in: [GO_0015193, GO_0015199]
+nucleus olfactorius anterior	[UBERON_0002266, birnlex_1085]	Match
+XC chemokine ligand 2	[PR_000002138, nifext_5067]	Match
+posterior interposed nucleus	[birnlex_1158, UBERON_0002613]	Match
+velum medullare superius	[UBERON_0002659, birnlex_1300]	Match
+ lead-efflux ATPase activity	[GO_0015662, GO_0015086, GO_0015099, GO_0005385, GO_0015094]	No NIF Term ID values in: [GO_0015662, GO_0015086, GO_0015099, GO_0005385, GO_0015094]
+low affinity Fc receptor activity	[GO_0019772, GO_0019769]	No NIF Term ID values in: [GO_0019772, GO_0019769]
+ICA	[NEMO_0000161, UBERON_0001532]	No NIF Term ID values in: [NEMO_0000161, UBERON_0001532]
+ganglion ciliare	[nlx_anat_100304, UBERON_0002058]	Match
+brainstem Lewy body	[sao4749542545, GO_0097414]	Match
+amine/amide/polyamine channel activity	[GO_0015203, GO_0042887]	No NIF Term ID values in: [GO_0015203, GO_0042887]
+lateral medulary stria	[birnlex_1634, UBERON_0002765]	Match
+Paraneoplastic Polyneuropathy	[DOID_8681, birnlex_12646]	Match
+third thoracic spinal cord segment	[UBERON_0006459, birnlex_1458]	Match
+deep cerebellar nuclei	[UBERON_0002130, birnlex_1568]	Match
+cytoplasmic inclusion	[sao4933778419, GO_0097413]	Match
+ICG	[sao1049471211, GO_0035061]	Match
+nigrostriatal tract	[UBERON_0014169, birnlex_4107]	Match
+ECaC2	[PR_000000777, nifext_3126]	Match
+operculum	[UBERON_2000555, UBERON_0010262]	No NIF Term ID values in: [UBERON_2000555, UBERON_0010262]
+active immune evasion	[GO_0051810, GO_0042783]	No NIF Term ID values in: [GO_0051810, GO_0042783]
+Acquired Neuromyotonia	[birnlex_12588, DOID_963]	Match
+C motif chemokine 1	[PR_000002140, nifext_5066]	Match
+stirnorgan	[UBERON_0001905, birnlex_1184, nlx_anat_1010009]	** Review Manually ** 
+ventrobasal complex	[birnlex_1116, UBERON_0002596]	Match
+supracommissural hippocampus	[UBERON_0002665, birnlex_1316]	Match
+(Drosophila)eTp	[SO_1000159, SO_1000157]	No NIF Term ID values in: [SO_1000159, SO_1000157]
+dendrite terminal	[GO_0044292, sao28175134]	Match
+ alpha beta T cell costimulation	[GO_1900281, GO_1900280]	No NIF Term ID values in: [GO_1900281, GO_1900280]
+agmatine ureohydrolase	[PR_000003833, PR_000023972]	No NIF Term ID values in: [PR_000003833, PR_000023972]
+Oprk1	[nifext_5668, nifext_5665]	** Review Manually ** 
+parietal cortex	[birnlex_1148, UBERON_0001872]	Match
+L-idonate/D-gluconate:hydrogen symporter activity	[GO_0015568, GO_0015128]	No NIF Term ID values in: [GO_0015568, GO_0015128]
+ mevalonate) uptake/efflux porter activity	[GO_0015130, GO_0050833, GO_0015129]	No NIF Term ID values in: [GO_0015130, GO_0050833, GO_0015129]
+leucine tRNA	[GO_0033417, GO_0033404]	No NIF Term ID values in: [GO_0033417, GO_0033404]
+ parastriate	[birnlex_1749, UBERON_0006473]	Match
+regulation of cell cycle transition	[GO_1901993, GO_1901987]	No NIF Term ID values in: [GO_1901993, GO_1901987]
+dendrite tuft	[sao1340260079, GO_0044296]	Match
+ensheathing process of Schwann cell	[GO_1990015, sao1376748732]	Match
+Brodmann area 34	[UBERON_0006477, birnlex_1767]	Match
+Brodmann area 36	[UBERON_0006104, birnlex_1769]	Match
+ mevalonate-independent	[GO_0019288, GO_0051483]	No NIF Term ID values in: [GO_0019288, GO_0051483]
+corticomedial nuclear group	[UBERON_0006108, birnlex_2680]	Match
+coenzyme and prosthetic group metabolic process	[GO_0051189, GO_0006732]	No NIF Term ID values in: [GO_0051189, GO_0006732]
+retinal inner plexiform layer	[UBERON_0001795, nlx_anat_1005032]	Match
+lobe of cerebellum	[UBERON_0005293, birnlex_1076]	Match
+subceruleus nucleus	[birnlex_1088, UBERON_0002587]	Match
+striatum of neuraxis	[UBERON_0002435, birnlex_1672]	Match
+neuronal potassium channel alpha subunit HNKA	[nifext_2795, PR_000000725]	Match
+T lymphocyte-secreted protein I-309	[PR_000001985, nifext_5034]	Match
+first cervical dorsal root ganglion	[birnlex_2603, UBERON_0002838]	Match
+transmembrane chemokine CXCL16	[nifext_5062, PR_000001804]	Match
+lymphocyte homing	[GO_0097021, GO_0097022]	No NIF Term ID values in: [GO_0097021, GO_0097022]
+maxi K+ channel	[nifext_2853, PR_000001849]	Match
+allantoin/allantoate transport	[GO_0015720, GO_0015719]	No NIF Term ID values in: [GO_0015720, GO_0015719]
+CATSPER2	[nifext_3198, PR_000000670, nifext_3199]	** Review Manually ** 
+DLF	[UBERON_0003045, birnlex_986]	Match
+(Drosophila)iTp	[SO_1000156, SO_1000158]	No NIF Term ID values in: [SO_1000156, SO_1000158]
+voltage-gated potassium channel subunit Kv9.2	[PR_000000799, nifext_2808]	Match
+experiment_control_software	[NEMO_2158000, NEMO_1752000, NEMO_1448000]	No NIF Term ID values in: [NEMO_2158000, NEMO_1752000, NEMO_1448000]
+dorsal superficial arcuate fibers	[UBERON_0006089, birnlex_1250]	Match
+VMN	[NEMO_4811000, NEMO_9501000]	No NIF Term ID values in: [NEMO_4811000, NEMO_9501000]
+de novo DNA methylation	[GO_0043046, GO_0043045]	No NIF Term ID values in: [GO_0043046, GO_0043045]
+Y1	[PR_000016052, nifext_7567]	Do Not match
+Y2	[nifext_7600, PR_000013376]	Do Not match
+BDKRB1	[PR_000001171, nifext_7514]	Do Not match
+delayed-rectifier K(+) channel alpha subunit 1	[nifext_2804, PR_000000798]	Match
+ flowering	[GO_2000028, GO_0048573, GO_0048575, GO_0048579, GO_0048574, GO_0048578, GO_0048577, GO_0048576]	No NIF Term ID values in: [GO_2000028, GO_0048573, GO_0048575, GO_0048579, GO_0048574, GO_0048578, GO_0048577, GO_0048576]
+preparietal area 5	[birnlex_1736, UBERON_0006471]	Match
+Scarpas ganglion	[birnlex_2549, UBERON_0002824]	Match
+Metachromatic leucodystrophy (disorder)	[birnlex_12542, DOID_10581]	Match
+ Thr 161)	[PR_000027135, PR_000027139]	No NIF Term ID values in: [PR_000027135, PR_000027139]
+layer IV of piriform cortex	[nlx_anat_091033, UBERON_0014284]	Match
+cerebral hemisphere white matter	[UBERON_0002437, birnlex_711]	Match
+C-fibre	[GO_0044299, nlx_subcell_20090210]	No NIF Term ID values in: [GO_0044299, nlx_subcell_20090210]
+habenulointerpeduncular tract	[birnlex_1504, UBERON_0002138]	Match
+Brodmann area 13	[UBERON_0013544, birnlex_1744]	Match
+segment of medulla oblongata	[birnlex_1355, UBERON_0002678]	Match
+arcuate nucleus-2	[UBERON_0001932, birnlex_1638]	Match
+site	[SO_0000839, SO_0000409]	No NIF Term ID values in: [SO_0000839, SO_0000409]
+Ccl21b	[PR_000001993, nifext_5049]	Match
+ parvocellular part	[UBERON_0002938, birnlex_725]	Match
+cerebellum molecular cell layer	[UBERON_0002974, birnlex_810]	Match
+ nucleotide and nucleic acid metabolic process	[GO_0045935, GO_0045934, GO_0006139]	No NIF Term ID values in: [GO_0045935, GO_0045934, GO_0006139]
+orbital region	[UBERON_0000019, birnlex_1169]	Match
+T5 spinal cord segment	[birnlex_1383, UBERON_0006453]	Match
+4-dioxygenase activity	[GO_0047078, GO_0050586]	No NIF Term ID values in: [GO_0047078, GO_0050586]
+peripheral astrocyte process	[GO_0097449, sao1630537580]	Match
+stage IV nephron	[UBERON_0007654, UBERON_0005322]	No NIF Term ID values in: [UBERON_0007654, UBERON_0005322]
+epencephalon-2	[UBERON_0001895, birnlex_965]	Match
+epencephalon-1	[UBERON_0002037, birnlex_1489]	Match
+Psychosis	[birnlex_12763, DOID_2468, birnlex_12761]	** Review Manually ** 
+Nervensystem	[UBERON_0001016, birnlex_844]	Match
+locus coeruleus	[UBERON_0002148, birnlex_905]	Match
+phosphoenolpyruvate carboxylase	[PR_000023498, PR_000012416]	No NIF Term ID values in: [PR_000023498, PR_000012416]
+ampulla	[UBERON_0009474, UBERON_0008252]	No NIF Term ID values in: [UBERON_0009474, UBERON_0008252]
+cognition	[NEMO_6688000, NEMO_1036000, NEMO_8992000, NEMO_2869000, NEMO_1518000, NEMO_8705000, NEMO_6301000, NEMO_0715000, NEMO_5853000, NEMO_6940000]	No NIF Term ID values in: [NEMO_6688000, NEMO_1036000, NEMO_8992000, NEMO_2869000, NEMO_1518000, NEMO_8705000, NEMO_6301000, NEMO_0715000, NEMO_5853000, NEMO_6940000]
+sulcus postcentralis	[UBERON_0002915, birnlex_4033]	Match
+VIIIth cranial nerve	[UBERON_0001648, birnlex_890]	Match
+serine tRNA	[GO_0033407, GO_0033406, GO_0033445, GO_0033446]	No NIF Term ID values in: [GO_0033407, GO_0033406, GO_0033445, GO_0033446]
+Cervical spinal cord anterior column	[UBERON_0005854, birnlex_1660]	Match
+parasubicular area	[UBERON_0004683, nlx_anat_091002]	Match
+2-monooxygenase activity	[GO_0018635, GO_0047799, GO_0018667]	No NIF Term ID values in: [GO_0018635, GO_0047799, GO_0018667]
+Dentate gyrus mossy fiber	[nlx_subcell_100312, GO_0097457]	No NIF Term ID values in: [nlx_subcell_100312, GO_0097457]
+cow	[birnlex_673, NCBITaxon_9913]	Match
+RP	[birnlex_12820, DOID_10584]	Match
+GPI/GSI anchor metabolic process	[GO_0042081, GO_0006505]	No NIF Term ID values in: [GO_0042081, GO_0006505]
+KCNJ12	[PR_000001981, nifext_2902]	Do Not match
+KCNJ14	[PR_000001983, nifext_2910]	Do Not match
+KCNJ13	[PR_000002054, nifext_2956]	Do Not match
+leucine/valine/isoleucine permease activity	[GO_0015190, GO_0015188]	No NIF Term ID values in: [GO_0015190, GO_0015188]
+tractus solitarius medullae oblongatae	[UBERON_0002718, birnlex_1483]	Match
+held's bundle	[birnlex_759, UBERON_0002949]	Match
+pars fibrosa	[sao1841764412, GO_0001651]	Match
+ganglion parasympathicum	[UBERON_0001808, nlx_anat_100303]	Match
+PRG3	[PR_000013207, PR_000009903]	No NIF Term ID values in: [PR_000013207, PR_000009903]
+sensitivity	[NEMO_3162000, PATO_0000085]	No NIF Term ID values in: [NEMO_3162000, PATO_0000085]
+cavity	[birnlex_1011, UBERON_0002553]	Match
+Sulcus praecentralis superior	[UBERON_0002566, birnlex_1038]	Match
+glucocorticoid receptor activity	[GO_0038051, GO_0038050]	No NIF Term ID values in: [GO_0038051, GO_0038050]
+ catalytic core	[GO_0045267, GO_0045268]	No NIF Term ID values in: [GO_0045267, GO_0045268]
+PP	[PR_000013164, UBERON_0003142]	No NIF Term ID values in: [PR_000013164, UBERON_0003142]
+posterolateral fasciculus	[birnlex_1267, UBERON_0002649]	Match
+MK4	[nifext_2686, PR_000000683]	Match
+multivesicular endosome	[GO_0005771, sao2045955158]	Match
+somatic portion	[sao401910342, GO_1990017]	Match
+GRM6	[nlx_mol_20090509, PR_000008268]	No NIF Term ID values in: [nlx_mol_20090509, PR_000008268]
+Database resource	[nlx_res_20090405, ERO_0001716]	Match
+Capgras delusion theory	[DOID_6680, birnlex_12762]	Match
+fibrae tectopontinae	[UBERON_0002930, birnlex_701]	Match
+F-actin cross-linking protein	[PR_000003688, PR_000003689, PR_000003690]	No NIF Term ID values in: [PR_000003688, PR_000003689, PR_000003690]
+posterior trigeminothalamic tract	[UBERON_0002797, birnlex_1718]	Match
+DHS	[PR_000006461, SO_0000685]	No NIF Term ID values in: [PR_000006461, SO_0000685]
+TPCN1	[nifext_3212, PR_000016570]	Do Not match
+RAB41	[PR_000013630, PR_000013629]	No NIF Term ID values in: [PR_000013630, PR_000013629]
+Memapsin-2	[nlx_mol_20090203, nlx_mol_090905]	No NIF Term ID values in: [nlx_mol_20090203, nlx_mol_090905]
+3-alpha-glucan anabolism	[GO_0070596, GO_0070608]	No NIF Term ID values in: [GO_0070596, GO_0070608]
+sensory systems	[UBERON_0001032, nlx_anat_090816]	Match
+thin dendritic spine	[GO_0043197, sao1799103720]	Match
+cytoarchitectural part of olfactory bulb	[UBERON_0004001, nlx_anat_20090402]	Match
+ pars multiformis	[UBERON_0002650, birnlex_1276]	Match
+lateral nuclear group of thalamus	[UBERON_0002736, birnlex_1537]	Match
+(Drosophila)uTp	[SO_1000161, SO_1000162]	No NIF Term ID values in: [SO_1000161, SO_1000162]
+ventral tegmental decussation of forel	[UBERON_0002615, birnlex_1163]	Match
+gametogenesis	[GO_0007276, GO_0048229]	No NIF Term ID values in: [GO_0007276, GO_0048229]
+nucleus raphe posterior	[birnlex_982, UBERON_0002043]	Match
+Schwannoma	[DOID_3192, birnlex_12603]	Match
+heterochromatin	[sao581845896, GO_0000792]	Match
+posterior part of middle frontal gyrus	[UBERON_0006445, birnlex_1083]	Match
+Cxcr3	[nifext_6507, nifext_6510]	** Review Manually ** 
+valine tRNA	[GO_0033451, GO_0033449]	No NIF Term ID values in: [GO_0033451, GO_0033449]
+poison gland	[UBERON_3010602, UBERON_0008976]	No NIF Term ID values in: [UBERON_3010602, UBERON_0008976]
+cranial nerve VII	[UBERON_0001647, birnlex_827]	Match
+dorsal cochlear nucleus	[birnlex_2569, UBERON_0002829]	Match
+protein E	[PR_000023715, PR_000023782]	No NIF Term ID values in: [PR_000023715, PR_000023782]
+Taenopygia guttata	[birnlex_476, NCBITaxon_59729]	Match
+inferior colliculus segment	[birnlex_4036, UBERON_0002917]	Match
+Kuhnt-Junius degeneration	[birnlex_12815, DOID_10873]	Match
+non-specific polyamine oxidase activity	[GO_0052904, GO_0052902]	No NIF Term ID values in: [GO_0052904, GO_0052902]
+ Generalized	[DOID_437, birnlex_12593]	Match
+Sulcus calcarinus posterior	[birnlex_4015, UBERON_0002901]	Match
+Cxcr4	[nifext_6662, nifext_6659]	** Review Manually ** 
+ iron-sulphur protein as acceptor	[GO_0016643, GO_0016699, GO_0016636, GO_0016625, GO_0016673, GO_0016664]	No NIF Term ID values in: [GO_0016643, GO_0016699, GO_0016636, GO_0016625, GO_0016673, GO_0016664]
+Paving stone degeneration of retina	[birnlex_12800, DOID_12166]	Match
+motor nucleus of trigeminal nerve	[UBERON_0002633, birnlex_1222]	Match
+dorsal nucleus of trapezoid body	[UBERON_0009053, birnlex_2575]	Match
+Premammillary nuclei	[birnlex_1479, UBERON_0001940]	Match
+nucleus ruber	[UBERON_0001947, birnlex_1478]	Match
+fibrae corticotectales	[UBERON_0002556, birnlex_1016]	Match
+pars parasympathica divisionis autonomici systematis nervosi	[UBERON_0000011, birnlex_2517]	Match
+brodmann (1909) area 30	[UBERON_0006474, birnlex_1764]	Match
+mu-opioid receptor activity	[GO_0004979, GO_0038047]	No NIF Term ID values in: [GO_0004979, GO_0038047]
+folium-tuber vermis (VII)	[UBERON_0004081, nlx_anat_20081230]	Match
+cell soma	[UBERON_0001022, GO_0044297]	No NIF Term ID values in: [UBERON_0001022, GO_0044297]
+brain tract	[UBERON_0007702, birnlex_1649]	Match
+beta-carotene hydroxylase activity	[GO_0052613, GO_0052612, GO_0052610, GO_0010291]	No NIF Term ID values in: [GO_0052613, GO_0052612, GO_0052610, GO_0010291]
+tRNA sulfurtransferase activity	[GO_0016783, GO_0034227]	No NIF Term ID values in: [GO_0016783, GO_0034227]
+hadjikhani et al. (1998) visuotopic area v2d	[UBERON_0006487, birnlex_4055]	Match
+MIP3A	[PR_000001992, nifext_5048]	Match
+DTI	[nlx_inv_090915, birnlex_2197]	** Review Manually ** 
+Chrm5	[nifext_7346, nifext_7343]	** Review Manually ** 
+Trhr	[nifext_7551, nifext_7554]	** Review Manually ** 
+ARP11	[PR_000004307, PR_000003692]	No NIF Term ID values in: [PR_000004307, PR_000003692]
+Chrm1	[nifext_7353, nifext_7356]	** Review Manually ** 
+Chrm2	[nifext_7957, nifext_7954]	** Review Manually ** 
+amygdalar basolateral nucleus	[UBERON_0006107, birnlex_2679]	Match
+GLOBOID CELL LEUKOENCEPHALOPATHY	[birnlex_12533, DOID_10587]	Match
+ventral amygdalofugal pathway	[birnlex_1563, UBERON_0002745]	Match
+phosphoribulose isomerase	[PR_000023943, PR_000022117, PR_000024180]	No NIF Term ID values in: [PR_000023943, PR_000022117, PR_000024180]
+organum subcommissurale	[UBERON_0002139, birnlex_1028]	Match
+inner bounding mitochondrial membrane	[GO_0097002, sao18461326]	Match
+ ventral part	[birnlex_1597, UBERON_0002480, UBERON_0002604, birnlex_1140]	** Review Manually ** 
+pedunculus cerebri	[birnlex_1202, UBERON_0002623]	Match
+actin cable	[GO_0032432, GO_0001725]	No NIF Term ID values in: [GO_0032432, GO_0001725]
+optic glioma (disorder)	[DOID_4992, birnlex_12621]	Match
+TGR7	[nifext_5714, nifext_5711]	** Review Manually ** 
+TGFBR1 inactive	[PR_000000522, PR_000003173]	No NIF Term ID values in: [PR_000000522, PR_000003173]
+SYNONYM	KEY(TermID)	No NIF Term ID values in: KEY(TermID)
+sigmoid process	[UBERON_0008959, UBERON_0013174]	No NIF Term ID values in: [UBERON_0008959, UBERON_0013174]
+Spasmus Nutans	[birnlex_12744, DOID_2481]	Match
+NADH:oxygen oxidoreductase (2-hydroxylating)	[GO_0018661, GO_0018601]	No NIF Term ID values in: [GO_0018661, GO_0018601]
+Senile macular retinal degeneration	[birnlex_12812, DOID_10871]	Match
+Odland body	[GO_0042599, sao1379604862]	Match
+Ubiquitylation	[PATO_0002216, sao9291838256]	Do Not match
+copula	[UBERON_0010034, UBERON_2001220]	No NIF Term ID values in: [UBERON_0010034, UBERON_2001220]
+ other acceptors	[GO_0016638, GO_0016645, GO_0016903, GO_0016667, GO_0016627, GO_0016695, GO_0016675, GO_0016725, GO_0016661, GO_0016614, GO_0016679]	No NIF Term ID values in: [GO_0016638, GO_0016645, GO_0016903, GO_0016667, GO_0016627, GO_0016695, GO_0016675, GO_0016725, GO_0016661, GO_0016614, GO_0016679]
+IgG receptor complex	[GO_0033001, GO_0033000]	No NIF Term ID values in: [GO_0033001, GO_0033000]
+Mullerian tract development	[GO_0060066, GO_0060065, GO_0060067]	No NIF Term ID values in: [GO_0060066, GO_0060065, GO_0060067]
+endocytotic vesicle	[sao1362520468, GO_0030139]	Match
+ by transamination	[GO_0019481, GO_0019486]	No NIF Term ID values in: [GO_0019481, GO_0019486]
+cavitas glenoidalis	[UBERON_0006657, UBERON_3000694]	No NIF Term ID values in: [UBERON_0006657, UBERON_3000694]
+Tbxa2r	[nifext_6809, nifext_6812]	** Review Manually ** 
+regulation of calcium ion concentration	[GO_0055074, GO_0006874]	No NIF Term ID values in: [GO_0055074, GO_0006874]
+olfactory lobe	[UBERON_0002264, birnlex_1137]	Match
+interstitial nucleus of medial longitudinal fasciculus	[UBERON_0002551, birnlex_1008]	Match
+MUG	[PR_000023308, GO_0043739]	No NIF Term ID values in: [PR_000023308, GO_0043739]
+N'''-triacetylfusarinine C synthesis	[GO_1900696, GO_1900695]	No NIF Term ID values in: [GO_1900696, GO_1900695]
+tegmentum pontis	[UBERON_0003023, birnlex_923]	Match
+vestibular ganglion inferior part	[UBERON_0002826, birnlex_2552]	Match
+V-ATPase complex assembly	[GO_0070070, GO_0070072]	No NIF Term ID values in: [GO_0070070, GO_0070072]
+nucleus geniculatus lateralis	[birnlex_1662, UBERON_0001926]	Match
+ nucleotide and nucleic acid transport	[GO_0032241, GO_0032239, GO_0032240, GO_0015931]	No NIF Term ID values in: [GO_0032241, GO_0032239, GO_0032240, GO_0015931]
+perirhinal area	[UBERON_0006083, nlx_anat_1005006]	Match
+auris	[birnlex_1062, UBERON_0001690]	Match
+hippocampus major	[birnlex_721, UBERON_0001954]	Match
+NPY-Y5 receptor	[PR_000001494, nifext_5810]	Match
+ peptide modification	[GO_0019537, GO_1900704, GO_0042864]	No NIF Term ID values in: [GO_0019537, GO_1900704, GO_0042864]
+inferior colliculus brachium	[UBERON_0003025, birnlex_929]	Match
+Gerstmann-Straussler Inherited Spongiform Encephalopathy	[DOID_4249, birnlex_12691]	Match
+third thoracic dorsal root ganglion	[UBERON_0002847, birnlex_2613]	Match
+estrogen nuclear receptor activity	[GO_0038052, GO_0038053]	No NIF Term ID values in: [GO_0038052, GO_0038053]
+lactose/glucose efflux transporter activity	[GO_0005355, GO_0015155, GO_0015542]	No NIF Term ID values in: [GO_0005355, GO_0015155, GO_0015542]
+extrastriate areas	[UBERON_0014370, nlx_anat_200905010]	Match
+external plexiform layer	[UBERON_0005376, nlx_anat_20090403]	Match
+first lumbar dorsal root ganglion	[UBERON_0002857, birnlex_2624]	Match
+sst3	[nifext_7984, nifext_7979]	** Review Manually ** 
+trigeminal nerve fibers	[UBERON_0003041, birnlex_974]	Match
+Galnr1	[nifext_7666, nifext_7669]	** Review Manually ** 
+dorsomedial nucleus of intermediate hypothalamus	[UBERON_0001934, birnlex_1558]	Match
+area 2 of Brodmann-1909	[UBERON_0013533, birnlex_1733]	Match
+UBE1L	[PR_000016956, GO_0019782]	No NIF Term ID values in: [PR_000016956, GO_0019782]
+histogenesis and organogenesis	[GO_0009888, GO_0009887]	No NIF Term ID values in: [GO_0009888, GO_0009887]
+ dopaminergic	[GO_0032227, GO_0032226]	No NIF Term ID values in: [GO_0032227, GO_0032226]
+orbitofrontal gyrus	[UBERON_0009836, birnlex_1243]	Match
+MT1	[GO_0043791, nifext_6867]	Do Not match
+neuraxis stratum	[UBERON_0002801, birnlex_1727]	Match
+accessory superior olivary nucleus	[UBERON_0002779, birnlex_1675]	Match
+ ncRNA-mediated	[GO_0040033, GO_0045975]	No NIF Term ID values in: [GO_0040033, GO_0045975]
+ EGF stimulated	[GO_0070620, GO_0070619, GO_0070437, GO_0070435, GO_0070436]	No NIF Term ID values in: [GO_0070620, GO_0070619, GO_0070437, GO_0070435, GO_0070436]
+cochlear duct	[UBERON_0001855, birnlex_2562, UBERON_0002295]	Do Not match
+ endonucleolytic	[GO_0000294, GO_0000737]	No NIF Term ID values in: [GO_0000294, GO_0000737]
+Autonomic Hyperreflexia	[birnlex_12583, birnlex_12582]	** Review Manually ** 
+kappa-actin	[PR_000003677, PR_000003678]	No NIF Term ID values in: [PR_000003677, PR_000003678]
+copula 1	[UBERON_0011615, UBERON_2001221]	No NIF Term ID values in: [UBERON_0011615, UBERON_2001221]
+juxtamembrane	[GO_0019897, GO_0009898]	No NIF Term ID values in: [GO_0019897, GO_0009898]
+MRI	[birnlex_2177, birnlex_2251]	** Review Manually ** 
+subependymal plate	[UBERON_0004922, nlx_144262]	No NIF Term ID values in: [UBERON_0004922, nlx_144262]
+dorsal nucleus of oculomotor nuclear complex	[UBERON_0002964, birnlex_793]	Match
+Area subcentralis	[birnlex_1761, UBERON_0013561]	Match
+area 41 of Brodmann	[birnlex_1582, UBERON_0006095, birnlex_1774]	** Review Manually ** 
+astrocyte endfoot	[GO_0097450, sao388182739]	Match
+T-cell chemotactic factor	[PR_000001395, nifext_5057]	Match
+cortex of cerebral hemisphere	[birnlex_1494, UBERON_0000956]	Match
+ramus posterior ascendens fissurae lateralis	[UBERON_0002910, birnlex_4028]	Match
+GPR1	[PR_000001502, nifext_6645]	Do Not match
+commissure habenularum	[birnlex_1609, UBERON_0001909]	Match
+GPR3	[nifext_7694, PR_000001643]	Do Not match
+dentate nuclear amiculum	[UBERON_0002568, birnlex_1044]	Match
+ventral brain stem	[UBERON_0002691, birnlex_1415]	Match
+superficial pes lemniscus	[UBERON_0002662, birnlex_1310]	Match
+superior colliculus segment	[birnlex_1014, UBERON_0002554]	Match
+brodmann (1909) area 11	[UBERON_0013528, birnlex_1742]	Match
+3-diamine-forming) activity	[GO_0034038, GO_0052897, GO_0033983, GO_0052900, GO_0052893]	No NIF Term ID values in: [GO_0034038, GO_0052897, GO_0033983, GO_0052900, GO_0052893]
+CA3 field of hippocampus	[UBERON_0003883, birnlex_1204]	Match
+glycine tRNA	[GO_0033463, GO_0033464, GO_0033462]	No NIF Term ID values in: [GO_0033463, GO_0033464, GO_0033462]
+brodmann (1909) area 14	[UBERON_0013545, birnlex_1745]	Match
+brodmann (1909) area 16	[UBERON_0013547, birnlex_1747]	Match
+midbrain medial longitudinal fasciculus	[birnlex_1302, UBERON_0002660]	Match
+Journal article resource	[birnlex_11037, Journal_Article, IAO_0000013]	Match
+medial nucleus of medial geniculate complex	[birnlex_845, UBERON_0002985]	Match
+protoplast	[GO_0044464, sao340271629, sao628508602]	** Review Manually ** 
+clathrin-independent pinocytosis	[GO_0044350, GO_0006907, GO_0044351]	No NIF Term ID values in: [GO_0044350, GO_0006907, GO_0044351]
+coatomer	[GO_0030137, GO_0030126]	No NIF Term ID values in: [GO_0030137, GO_0030126]
+ATP-regulated potassium channel ROM-K	[PR_000001978, nifext_2892]	Match
+HPI	[PR_000023043, GO_0009978, GO_0047987]	No NIF Term ID values in: [PR_000023043, GO_0009978, GO_0047987]
+nucleus nervi oculomotorii	[UBERON_0001715, birnlex_1240]	Match
+ pars postrema	[birnlex_1170, UBERON_0002617]	Match
+Insect	[birnlex_275, NCBITaxon_50557]	Match
+ principal olive	[UBERON_0002158, nlx_anat_20081248]	Match
+DRG	[UBERON_0000044, birnlex_2596]	Match
+HPS	[PR_000008736, UBERON_0004146]	No NIF Term ID values in: [PR_000008736, UBERON_0004146]
+Caudate putamen	[UBERON_0005383, nlx_anat_100312]	Match
+Schaffer collateral	[sao1950673097, GO_1990021, nlx_subcell_20090511]	Match
+decussation of superior cerebellar peduncles	[UBERON_0002588, birnlex_1089]	Match
+first thoracic spinal cord segment	[UBERON_0006457, birnlex_1452]	Match
+neuroma	[DOID_2001, birnlex_12610]	Match
+nucleus of Roller	[UBERON_0002881, birnlex_2657]	Match
+Temporal lobe epilepsy (disorder) [Ambiguous]	[DOID_3328, birnlex_12733]	Match
+3-butadiene biosynthesis	[GO_1900948, GO_1900949, GO_1900947]	No NIF Term ID values in: [GO_1900948, GO_1900949, GO_1900947]
+nucleus pulvinaris oralis	[UBERON_0002641, birnlex_1239]	Match
+liquor cerebrospinalis	[UBERON_0001359, birnlex_1798]	Match
+cell nucleus	[GO_0005634, sao1702920020]	Match
+diagonal band subdivision	[nlx_anat_20090302, UBERON_0006125]	Match
+lumbar spinal ganglion	[UBERON_0002836, birnlex_2601]	Match
+bicyclomycin/sulfathiazole:hydrogen antiporter activity	[GO_0015545, GO_0045119, GO_0015546]	No NIF Term ID values in: [GO_0015545, GO_0045119, GO_0015546]
+cerebral cortex part	[UBERON_0002619, birnlex_1173]	Match
+HTR1A	[nifext_5892, PR_000001161]	Do Not match
+Apis mellifera Linnaeus	[birnlex_447, NCBITaxon_7460]	Match
+KCNK7	[PR_000002078, nifext_2991]	Do Not match
+Gpr88	[nifext_6146, nifext_6149]	** Review Manually ** 
+Gpr87	[nifext_7857, nifext_7860]	** Review Manually ** 
+forefoot	[UBERON_0002398, nlx_anat_20090603]	Match
+KCNK5	[nifext_2980, nifext_2981]	** Review Manually ** 
+Gpr84	[nifext_6561, nifext_6558]	** Review Manually ** 
+ganglionic layer	[UBERON_0005394, nlx_anat_090811]	Match
+Gpr83	[nifext_7219, nifext_7216]	** Review Manually ** 
+tetrachlorohydroquinone reductive dehalogenase activity	[GO_0018550, GO_0052690]	No NIF Term ID values in: [GO_0018550, GO_0052690]
+ incompatible interaction	[GO_0009816, GO_0009817, GO_0009818, GO_2000072]	No NIF Term ID values in: [GO_0009816, GO_0009817, GO_0009818, GO_2000072]
+receptor ligand activity	[GO_0048019, GO_0048018]	No NIF Term ID values in: [GO_0048019, GO_0048018]
+arachnoidea mater et pia mater	[nlx_anat_090207, UBERON_0000391]	Match
+eye infection	[birnlex_12797, DOID_5614]	Match
+phospho-Cdc2 (Thr 14)	[PR_000026180, PR_000026181]	No NIF Term ID values in: [PR_000026180, PR_000026181]
+calcarine fissure	[UBERON_0002586, birnlex_1086]	Match
+second cervical spinal ganglion	[UBERON_0002839, birnlex_2604]	Match
+segment of vestibular nuclear complex	[UBERON_0002584, birnlex_1080]	Match
+silent subunit	[PR_000000702, PR_000000701]	No NIF Term ID values in: [PR_000000702, PR_000000701]
+embryogenesis	[GO_0009790, GO_0009792, UBERON_0000068, GO_0009793]	No NIF Term ID values in: [GO_0009790, GO_0009792, UBERON_0000068, GO_0009793]
+Cnr2	[nifext_8004, nifext_8007]	** Review Manually ** 
+Body of Luys	[UBERON_0001906, nlx_anat_1010002]	Match
+nucleus pulvinaris inferior thalami	[UBERON_0002982, birnlex_830]	Match
+IRK1	[PR_000002056, nifext_2897]	Do Not match
+KGPDC	[GO_0033982, PR_000024178]	No NIF Term ID values in: [GO_0033982, PR_000024178]
+pterin biosynthetic process	[GO_0042559, GO_0006728]	No NIF Term ID values in: [GO_0042559, GO_0006728]
+dentate cerebellar nucleus	[UBERON_0002132, birnlex_1171]	Match
+Adolescent Myoclonic Epilepsy	[birnlex_12721, DOID_4890]	Match
+ pars oralis	[UBERON_0002978, birnlex_817]	Match
+ nitrogenous group as acceptor	[GO_0016657, GO_0016677]	No NIF Term ID values in: [GO_0016657, GO_0016677]
+nucleus emboliformis	[birnlex_1135, UBERON_0002602]	Match
+pars triangularis gyri frontalis inferioris	[UBERON_0002629, birnlex_1216]	Match
+ventrolateral hypothalamic nucleus	[UBERON_0001935, birnlex_1572]	Match
+Baillarger Syndrome	[birnlex_12587, DOID_11599]	Match
+cytoplasm component	[GO_0033655, GO_0044444]	No NIF Term ID values in: [GO_0033655, GO_0044444]
+Il8ra	[nifext_6577, nifext_6580]	** Review Manually ** 
+inferior colliculi	[UBERON_0001946, birnlex_806]	Match
+ dorsal part	[UBERON_0002758, birnlex_1608]	Match
+area septalis	[birnlex_963, UBERON_0000446]	Match
+inferior frontal convolution	[birnlex_873, UBERON_0002998]	Match
+ producing other than 5'-phosphomonoesters	[GO_0016889, GO_0016892]	No NIF Term ID values in: [GO_0016889, GO_0016892]
+rhombencephalon	[UBERON_0002028, birnlex_942]	Match
+fourth sacral dorsal root ganglion	[UBERON_0007713, birnlex_2631]	Match
+KCNJ3	[nifext_2915, PR_000002002]	Do Not match
+tryptophan--tRNA ligase	[PR_000017369, PR_000024125]	No NIF Term ID values in: [PR_000017369, PR_000024125]
+fMRI	[birnlex_2250, nlx_inv_090914]	** Review Manually ** 
+supraoptic nucleus of hypothalamus	[UBERON_0001929, birnlex_1411]	Match
+Superior oblique nerve	[UBERON_0001644, birnlex_1654]	Match
+ Ataxia and Areflexia Syndrome	[DOID_12889, birnlex_12555]	Match
+posterior part of anterior cochlear nucleus	[birnlex_2573, UBERON_0002831]	Match
+interpeduncular ganglion	[UBERON_0002145, birnlex_1000]	Match
+cisterna chiasmatica	[birnlex_4003, UBERON_0002898]	Match
+6-N-acetylneuraminyltransferase activity	[GO_0003835, GO_0001665, GO_0047287]	No NIF Term ID values in: [GO_0003835, GO_0001665, GO_0047287]
+root of trigeminal V nerve	[UBERON_0004673, birnlex_1346]	Match
+SkM1	[nifext_2588, PR_000002100]	Do Not match
+Gpr61	[nifext_5887, nifext_5884]	** Review Manually ** 
+nucleus of inferior commissure	[birnlex_2639, UBERON_0002868]	Match
+mitochondrial aspartate/glutamate transport	[GO_0015810, GO_0006839, GO_0015813]	No NIF Term ID values in: [GO_0015810, GO_0006839, GO_0015813]
+lateral olfactory tract nucleus	[birnlex_2702, UBERON_0002893]	Match
+KCNK1	[nifext_2961, nifext_2960]	** Review Manually ** 
+Aesthesioneuroblastoma	[DOID_369, birnlex_12632]	Match
+KCNK2	[PR_000001914, nifext_2965, nifext_2966]	** Review Manually ** 
+KCNK4	[nifext_2975, nifext_2976]	** Review Manually ** 
+area 21 of Brodmann	[UBERON_0013552, birnlex_1752]	Match
+climbing fibre	[GO_0044301, nlx_subcell_20090203]	No NIF Term ID values in: [GO_0044301, nlx_subcell_20090203]
+Sulcus occipitalis lateralis	[birnlex_4018, UBERON_0002904]	Match
+phosphoethanolamine phosphohydrolase activity	[GO_0052732, GO_0052731]	No NIF Term ID values in: [GO_0052732, GO_0052731]
+Gyrus temporalis superior	[UBERON_0002769, birnlex_1648]	Match
+Astroglioma	[DOID_3069, birnlex_12619]	Match
+MPIF-1	[nifext_5051, PR_000001995]	Match
+ sensory detection of mechanical stimulus	[GO_0050973, GO_0050910, GO_0071066]	No NIF Term ID values in: [GO_0050973, GO_0050910, GO_0071066]
+Golgi cisternae	[sao561419532, GO_0005795]	Match
+Gm1098	[nifext_5484, PR_000001605]	Do Not match
+Gpr73	[nifext_6946, nifext_6949]	** Review Manually ** 
+MCT3	[PR_000014951, PR_000014956]	No NIF Term ID values in: [PR_000014951, PR_000014956]
+ alpha-beta T lymphocyte lineage commitment	[GO_0043369, GO_0043373]	No NIF Term ID values in: [GO_0043369, GO_0043373]
+ adenylyl cyclase inhibiting pathway	[GO_0007197, GO_0007198, GO_0007195]	No NIF Term ID values in: [GO_0007197, GO_0007198, GO_0007195]
+ Vamp8)	[GO_0070048, GO_0070049]	No NIF Term ID values in: [GO_0070048, GO_0070049]
+anterior interposed nucleus	[birnlex_1146, UBERON_0002153]	Match
+intermediate hypothalamic area	[birnlex_1015, UBERON_0002555]	Match
+lobule V	[UBERON_0004079, nlx_anat_20081228]	Match
+lingula of cerebellum	[UBERON_0004074, birnlex_932, nlx_anat_20081224]	** Review Manually ** 
+ cyclizing)	[GO_0050069, GO_0004734]	No NIF Term ID values in: [GO_0050069, GO_0004734]
+triangular nucleus septum (Cajal)	[UBERON_0002977, birnlex_816]	Match
+Salientia	[birnlex_601, NCBITaxon_8342]	Match
+maculae	[UBERON_0000053, birnlex_2540]	Match
+cornu posterius ventriculi lateralis	[UBERON_0004672, birnlex_1297]	Match
+nucleus medialis dorsalis paralamellaris (Hassler)	[birnlex_1255, UBERON_0002645]	Match
+nucleus mesencephalicus nervi trigemini	[UBERON_0002925, nifext_11]	Match
+optic nerve	[UBERON_0000941, UBERON_0004904, birnlex_1640]	Do Not match
+ventroposteromedial nucleus of the thalamus	[UBERON_0002945, birnlex_743]	Match
+external pyramidal layer of cerebral cortex	[UBERON_0005392, nlx_anat_090809]	Match
+KCNG3	[nifext_2765, nifext_2764]	** Review Manually ** 
+hCatSper	[PR_000000669, nifext_3194]	Match
+KCNG4	[PR_000000789, nifext_2769]	Do Not match
+mitochondrial genome	[GO_0000262, sao1186327184]	Match
+olfactory radiations of zuckerkandl	[UBERON_0002741, birnlex_1551]	Match
+KCNG2	[nifext_2760, nifext_2759]	** Review Manually ** 
+lumbar segment of gracile fasciculus of spinal cord	[UBERON_0005842, birnlex_834]	Match
+rootlet of vagus nerve	[UBERON_0011213, birnlex_1456]	Match
+3-beta-glucan metabolic process	[GO_0032952, GO_0034409]	No NIF Term ID values in: [GO_0032952, GO_0034409]
+CMKLR1	[PR_000001129, nifext_5958]	Do Not match
+nucleus Staderini	[birnlex_2654, UBERON_0002876, birnlex_2651]	** Review Manually ** 
+Gallus gallus	[birnlex_267, NCBITaxon_9031]	Do Not match
+basilar membrane	[birnlex_2521, UBERON_0002226]	Match
+olfactory bulb main glomerulus	[UBERON_0005377, nlx_anat_1005007]	Match
+orbito-frontal cortex	[birnlex_1049, UBERON_0004167]	Match
+chromosome scaffold	[GO_0000785, sao1615953555]	Match
+C8 spinal cord segment	[birnlex_1696, UBERON_0006470]	Match
+decussatio lemnisci medialis	[birnlex_1245, UBERON_0002643]	Match
+lobulus centralis cerebelli [ii et iii]	[UBERON_0003021, birnlex_920]	Match
+cerebrum	[birnlex_1115, UBERON_0001893]	Match
+branch point of dendrite	[GO_1990033, sao-1348591767]	Match
+ alternative pathway	[GO_0045958, GO_0045957, GO_0006957, GO_0030451]	No NIF Term ID values in: [GO_0045958, GO_0045957, GO_0006957, GO_0030451]
+ventral pallidum	[UBERON_0002778, birnlex_1674]	Match
+kdtA	[PR_000024214, GO_0043842]	No NIF Term ID values in: [PR_000024214, GO_0043842]
+Arachnoid	[UBERON_0002362, nlx_anat_090208]	Match
+psalterial cord	[UBERON_0002282, birnlex_2525]	Match
+Multiphoton microscopy	[birnlex_2257, ERO_0001640]	Match
+KCNH4	[PR_000000793, nifext_2849]	Do Not match
+KCNH5	[nifext_2821, nifext_2822]	** Review Manually ** 
+Myopathy	[birnlex_12779, DOID_423]	Match
+forked	[PATO_0001786, PATO_0001784, PATO_0001572]	No NIF Term ID values in: [PATO_0001786, PATO_0001784, PATO_0001572]
+lymphocyte and monocyte chemoattractant	[PR_000001988, nifext_5043]	Match
+T2 spinal cord segment	[birnlex_1454, UBERON_0006458]	Match
+2-diol:NAD+ oxidoreductase activity	[GO_0018504, GO_0052661]	No NIF Term ID values in: [GO_0018504, GO_0052661]
+ glutamatergic	[GO_0051967, GO_0051968]	No NIF Term ID values in: [GO_0051967, GO_0051968]
+inferior olivary complex segment	[UBERON_0002574, birnlex_1052]	Match
+bundle of Turck	[UBERON_0002760, birnlex_1618]	Match
+pronunciation	[NEMO_3302000, NEMO_2887000]	No NIF Term ID values in: [NEMO_3302000, NEMO_2887000]
+ZPA	[PR_000018211, UBERON_0005414]	No NIF Term ID values in: [PR_000018211, UBERON_0005414]
+isocortex (sensu lato)	[UBERON_0001950, birnlex_2547]	Match
+nucleus caudatus	[UBERON_0001873, birnlex_1373]	Match
+cavity of organ	[UBERON_0002558, birnlex_1019]	Match
+membrane bound ribosome	[GO_0005840, sao1429207766]	Match
+15-diene formation	[GO_1901544, GO_1901541]	No NIF Term ID values in: [GO_1901544, GO_1901541]
+lateral hypothalamic group	[UBERON_0002430, birnlex_4037]	Match
+bandpass_filter	[NEMO_7390000, OBI_0400013]	No NIF Term ID values in: [NEMO_7390000, OBI_0400013]
+area 37 of Brodmann-1909	[UBERON_0006478, birnlex_1770]	Match
+anterior horn	[UBERON_0002257, birnlex_2668]	Match
+Geschmackskern@ge	[UBERON_0009050, birnlex_1429]	Match
+brain biological structure	[birnlex_1167, UBERON_0002616]	Match
+Acquired Epileptic Aphasia	[DOID_2538, birnlex_12747]	Match
+granular layer of dentate gyrus	[birnlex_4129, UBERON_0005381]	Match
+post-pyramidal fissure of cerebellum	[UBERON_0002817, nlx_anat_20081258]	Match
+inner mitochondrial membrane	[GO_0005743, sao1371347282]	Match
+ activation of MAPK activity	[GO_0000199, GO_0071508, GO_0000169]	No NIF Term ID values in: [GO_0000199, GO_0071508, GO_0000169]
+P2RY13	[PR_000001570, nifext_7842]	Do Not match
+vestibuloauditory system	[UBERON_0002105, nlx_anat_090817]	Match
+P2RY11	[nifext_5314, PR_000001436]	Do Not match
+KCNF1	[nifext_2751, nifext_2750, PR_000000724]	** Review Manually ** 
+leucine/isoleucine/valine porter activity	[GO_0015425, GO_0005304]	No NIF Term ID values in: [GO_0015425, GO_0005304]
+response to heat shock	[GO_0033638, GO_0009408]	No NIF Term ID values in: [GO_0033638, GO_0009408]
+ deadenylation-dependent decay	[GO_1900153, GO_1900151]	No NIF Term ID values in: [GO_1900153, GO_1900151]
+ventral external arcuate fiber bundle	[birnlex_1628, UBERON_0006097]	Match
+dicarboxylate (succinate/fumarate/malate) antiporter activity	[GO_0015140, GO_0015138, GO_0015141]	No NIF Term ID values in: [GO_0015140, GO_0015138, GO_0015141]
+HTR2A	[PR_000001166, nifext_6743]	Do Not match
+KCNC2	[PR_000000782, nifext_2724]	Do Not match
+helweg's tract	[UBERON_0002719, birnlex_1484]	Match
+KCNC1	[PR_000000781, nifext_2719, nifext_2720]	** Review Manually ** 
+prion induced disorder	[birnlex_12686, DOID_649]	Match
+telencephalic ventricle	[UBERON_0002285, birnlex_1263]	Match
+metepencephalon	[UBERON_0001896, birnlex_957]	Match
+talotibial joint	[UBERON_0001488, UBERON_0012076]	No NIF Term ID values in: [UBERON_0001488, UBERON_0012076]
+gyrus angularis	[UBERON_0002686, birnlex_1376]	Match
+Postvaccinal Encephalitis	[birnlex_12511, DOID_13664]	Match
+nucleus raphes magnus	[UBERON_0002156, birnlex_1363]	Match
+developmental tissue	[UBERON_0000922, UBERON_0005423]	No NIF Term ID values in: [UBERON_0000922, UBERON_0005423]
+Dorsal spinocerebellar tract	[birnlex_1585, UBERON_0002753]	Match
+posterior tegmental decussation	[UBERON_0003009, birnlex_901]	Match
+second sacral dorsal root ganglion	[UBERON_0002861, birnlex_2629]	Match
+diterpene cyclase activity	[GO_0009905, GO_0050559, GO_0051498]	No NIF Term ID values in: [GO_0009905, GO_0050559, GO_0051498]
+KCND3	[PR_000000786, nifext_2746, nifext_2745]	** Review Manually ** 
+central part of trochlear nerve	[UBERON_0002618, birnlex_1172]	Match
+NIEMANN-PICK DISEASE WITH CHOLESTEROL ESTERIFICATION BLOCK	[DOID_14504, birnlex_12538]	Match
+archipallium	[UBERON_0002961, UBERON_0002421, birnlex_715]	Match
+ siRNA loading onto RISC	[GO_0070923, GO_0035087]	No NIF Term ID values in: [GO_0070923, GO_0035087]
+nerve part of peripheral nervous system	[UBERON_0002003, birnlex_1615]	Match
+lobular parts of the cerebellar cortex	[birnlex_1084, UBERON_0004004]	Match
+Ribonucleotide reductase small subunit	[PR_000027713, PR_000027717]	No NIF Term ID values in: [PR_000027713, PR_000027717]
+TLAA	[PR_000017509, PR_000017508]	No NIF Term ID values in: [PR_000017509, PR_000017508]
+tail portion	[GO_1990018, sao1749953771]	Match
+genital morphogenesis	[GO_0035112, GO_0048805]	No NIF Term ID values in: [GO_0035112, GO_0048805]
+precuneus cortex	[UBERON_0006093, birnlex_1446]	Match
+Incisura praeoccipitalis	[UBERON_0002698, birnlex_1436]	Match
+Gpr18	[nifext_7198, nifext_7201]	** Review Manually ** 
+Gpr19	[nifext_6459, nifext_6455]	** Review Manually ** 
+alveus of hippocampus	[UBERON_0007639, birnlex_1510]	Match
+upper secondary molar tooth	[UBERON_0013619, UBERON_0003666]	No NIF Term ID values in: [UBERON_0013619, UBERON_0003666]
+Insular cortex	[birnlex_1117, UBERON_0002022]	Match
+T cell receptor activity	[GO_0032395, GO_0032394, GO_0042288]	No NIF Term ID values in: [GO_0032395, GO_0032394, GO_0042288]
+4-GalNAc transferase activity	[GO_0033207, GO_0035248]	No NIF Term ID values in: [GO_0033207, GO_0035248]
+Coturnix coturnix japonica	[NCBITaxon_93934, birnlex_257]	Match
+KCNA7	[nifext_2700, PR_000000814, nifext_2699]	** Review Manually ** 
+membrane ruffle	[GO_0032587, GO_0001726]	No NIF Term ID values in: [GO_0032587, GO_0001726]
+ germ-line encoded	[GO_0007311, GO_0008070]	No NIF Term ID values in: [GO_0007311, GO_0008070]
+ magnocellular part	[birnlex_720, UBERON_0002936]	Match
+sensory detection of chemical stimulus	[birnlex_15002, GO_0050907]	Do Not match
+ decarboxylating)	[GO_0018670, GO_0047411]	No NIF Term ID values in: [GO_0018670, GO_0047411]
+superior colliculus brachium	[birnlex_1065, UBERON_0002580]	Match
+cell wall organization and biogenesis	[GO_0009664, GO_0071555]	No NIF Term ID values in: [GO_0009664, GO_0071555]
+wall of cochlea	[UBERON_0006106, birnlex_2553]	Match
+Fear of open spaces (finding)	[birnlex_12672, DOID_593]	Match
+nucleus component	[GO_0044428, sao1499850686]	Match
+Drug withdrawal syndrome in newborn	[birnlex_12712, DOID_9828]	Match
+hflA	[PR_000022882, PR_000022884]	No NIF Term ID values in: [PR_000022882, PR_000022884]
+N-acetyltransferase 5	[PR_000010998, PR_000011002]	No NIF Term ID values in: [PR_000010998, PR_000011002]
+lysine tRNA	[GO_0033444, GO_0033443]	No NIF Term ID values in: [GO_0033444, GO_0033443]
+tastebuds	[UBERON_0001727, birnlex_4101]	Match
+3-beta-D-glucan biosynthetic process	[GO_0090334, GO_0060636, GO_0071970, GO_0060635]	No NIF Term ID values in: [GO_0090334, GO_0060636, GO_0071970, GO_0060635]
+ hydrogen-donor:oxygen oxidoreductase activity	[GO_0050603, GO_0004768]	No NIF Term ID values in: [GO_0050603, GO_0004768]
+microvilli	[GO_0005902, UBERON_0012423, sao671419673]	Do Not match
+spinal cord grey commissure	[UBERON_0004677, birnlex_2669]	Match
+proton pump	[GO_0005889, PR_000004451]	No NIF Term ID values in: [GO_0005889, PR_000004451]
+Sacral spinal cord posterior column	[birnlex_1514, UBERON_0005840]	Match
+3-alpha-glucan metabolism	[GO_0070607, GO_0070595]	No NIF Term ID values in: [GO_0070607, GO_0070595]
+CACNA1A	[PR_000002118, nifext_2640]	Do Not match
+vagus	[UBERON_0001759, birnlex_801]	Match
+ftsB	[PR_000022715, PR_000023403]	No NIF Term ID values in: [PR_000022715, PR_000023403]
+Gpr40	[nifext_7690, nifext_7687]	** Review Manually ** 
+sulcus t1	[UBERON_0002734, birnlex_1534]	Match
+posterior cortical nucleus of amygdala	[birnlex_2700, UBERON_0002891]	Match
+Gpr49	[nifext_7239, nifext_7236]	** Review Manually ** 
+Slack	[nifext_2878, PR_000002080]	Match
+ethmoid	[UBERON_0011238, UBERON_0001679]	No NIF Term ID values in: [UBERON_0011238, UBERON_0001679]
+ cholinergic	[GO_0032223, GO_0032224]	No NIF Term ID values in: [GO_0032223, GO_0032224]
+subiculum cornu ammonis	[UBERON_0002191, birnlex_1305]	Match
+NPFF1	[nifext_5783, nifext_5777]	** Review Manually ** 
+Chemosensory	[nlx_anat_090806, UBERON_0005725]	Match
+decussation of pyramidal tract fibers	[UBERON_0002755, birnlex_1594]	Match
+(Drosophila)Tp	[SO_1000041, SO_1000155]	No NIF Term ID values in: [SO_1000041, SO_1000155]
+ signal transduction by p53 class mediator	[GO_0043518, GO_0043517]	No NIF Term ID values in: [GO_0043518, GO_0043517]
+FBL7	[PR_000007369, PR_000007385]	No NIF Term ID values in: [PR_000007369, PR_000007385]
+trigonum olfactorium	[birnlex_4042, UBERON_0002922]	Match
+FBL2	[PR_000027957, PR_000007379]	No NIF Term ID values in: [PR_000027957, PR_000007379]
+corticospinal tract	[birnlex_1464, UBERON_0002707]	Match
+area 35 of Brodmann-1909	[NEMO_3972000, UBERON_0006102, birnlex_1768]	Match
+nucleus olivaris superior	[UBERON_0002128, birnlex_1307]	Match
+medial nucleus of mammillary body	[UBERON_0001939, birnlex_1299]	Match
+Gpr50	[nifext_6884, nifext_6887]	** Review Manually ** 
+P2ry6	[nifext_7496, nifext_7499]	** Review Manually ** 
+small-inducible cytokine A17	[PR_000001989, nifext_5046]	Match
+4-benzoquinone methylase activity	[GO_0043334, GO_0043430, GO_0043333, GO_0043428, GO_0043429]	No NIF Term ID values in: [GO_0043334, GO_0043430, GO_0043333, GO_0043428, GO_0043429]
+trigeminal tract	[UBERON_0004171, birnlex_4097]	Match
+CA2 part of stratum pyramidale hippocampi	[UBERON_0014549, birnlex_4111]	Do Not match
+NADPH:oxygen oxidoreductase (6-hydroxylating)	[GO_0047087, GO_0018675, GO_0018666]	No NIF Term ID values in: [GO_0047087, GO_0018675, GO_0018666]
+layer of Waldeyer	[UBERON_0006118, nlx_anat_100203]	Match
+ malignant	[DOID_4790, DOID_7927, DOID_6723]	No NIF Term ID values in: [DOID_4790, DOID_7927, DOID_6723]
+restiform body	[birnlex_1691, UBERON_0002163]	Match
+photosensory system	[UBERON_0002104, FMAID_7191]	No NIF Term ID values in: [UBERON_0002104, FMAID_7191]
+Fiber	[sao1770195789, GO_0030424]	Match
+Palisade degeneration of retina	[DOID_12165, birnlex_12804]	Match
+endosome component	[sao1683772610, GO_0044440]	Match
+sulcus rhinalis; fissura rhinalis	[birnlex_1368, UBERON_0002683]	Match
+Remittent Progressive Multiple Sclerosis	[DOID_2376, birnlex_12515]	Match
+ASNS	[PR_000004377, PR_000010992]	No NIF Term ID values in: [PR_000004377, PR_000010992]
+Isocitric dehydrogenase	[PR_000026164, PR_000026162]	No NIF Term ID values in: [PR_000026164, PR_000026162]
+ether-a-go-go-like potassium channel 2	[PR_000000792, nifext_2844]	Match
+Granule cell axons	[GO_0044302, nlx_subcell_20090601]	No NIF Term ID values in: [GO_0044302, nlx_subcell_20090601]
+sacral neural root	[UBERON_0009633, birnlex_1518]	Match
+Benign Childhood Epilepsy With Centro-Temporal Spikes	[DOID_3329, birnlex_12732]	Match
+vitamin or cofactor transport	[GO_0051180, GO_0051181]	No NIF Term ID values in: [GO_0051180, GO_0051181]
+nuclei anterior thalami	[UBERON_0002788, birnlex_1692]	Match
+S3 spinal cord segment	[UBERON_0006462, birnlex_1544]	Match
+spine	[UBERON_0013496, GO_0044309, sao1145756102]	Match
+white matter layer of superior colliculus	[UBERON_0006786, birnlex_1023]	Match
+Gpr31	[nifext_7070, nifext_7072]	** Review Manually ** 
+nucleus ventralis posterior inferior thalami	[UBERON_0002939, birnlex_728]	Match
+Motor System Disease	[birnlex_12565, DOID_231]	Match
+Post-infectious polyneuritis (disorder)	[DOID_12842, birnlex_12554]	Match
+Gpr33	[nifext_7365, nifext_7362]	** Review Manually ** 
+human	[NCBITaxon_9606, birnlex_516]	Match
+reticular formation of medulla	[UBERON_0002559, birnlex_1020]	Match
+NEB	[PR_000011107, UBERON_0010002]	No NIF Term ID values in: [PR_000011107, UBERON_0010002]
+occipital visual neocortex	[UBERON_0002436, birnlex_1748]	Match
+centre of macula	[birnlex_2543, UBERON_0001786]	Match
+nucleus parabigeminalis	[UBERON_0002140, birnlex_1007]	Match
+Pyknolepsy	[birnlex_12742, DOID_1825]	Match
+ADORA3	[PR_000001578, nifext_7558]	Do Not match
+4-triazole	[GO_0072722, GO_0072723]	No NIF Term ID values in: [GO_0072722, GO_0072723]
+Siah-1a	[PR_000015946, PR_000014860]	No NIF Term ID values in: [PR_000015946, PR_000014860]
+Huntington's chorea (disorder)	[birnlex_12500, DOID_12858]	Match
+terminal button	[GO_0043195, sao187426937]	Match
+Jakob-Creutzfeldt Disease	[birnlex_12687, DOID_11949]	Match
+ADORA1	[PR_000001575, nifext_5719]	Do Not match
+ X-linked	[PR_000026090, PR_000010976]	No NIF Term ID values in: [PR_000026090, PR_000010976]
+SPBP	[PR_000003431, PR_000023570]	No NIF Term ID values in: [PR_000003431, PR_000023570]
+zinc homeostasis	[GO_0006882, GO_0055069]	No NIF Term ID values in: [GO_0006882, GO_0055069]
+agglutination	[GO_0000752, GO_0007157]	No NIF Term ID values in: [GO_0000752, GO_0007157]
+demyelinating disorder	[DOID_3213, birnlex_12507]	Match
+CDK holoenzyme	[GO_0000307, GO_0000308, GO_0019908]	No NIF Term ID values in: [GO_0000307, GO_0000308, GO_0019908]
+ventral lateral thalamic nuclei	[birnlex_1237, UBERON_0001925]	Match
+mesaxon of Schwann cell	[GO_0097453, sao2127666702]	Match
+ connexon complex	[sao445019788, GO_0005922]	Match
+EP2	[PR_000015454, nifext_6440]	Do Not match
+P2Y4	[nifext_7891, nifext_7886, nifext_7894]	** Review Manually ** 
+SAC	[GO_0071173, GO_0035003]	No NIF Term ID values in: [GO_0071173, GO_0035003]
+P2Y6	[nifext_7488, PR_000001574]	Do Not match
+caudate nuclear body	[birnlex_1217, UBERON_0002630]	Match
+P2Y1	[nifext_6527, nifext_6522]	** Review Manually ** 
+P2Y2	[nifext_6702, nifext_6705, PR_000001572, nifext_6695]	** Review Manually ** 
+medial accessory olive	[nlx_anat_100309, UBERON_0014287]	Match
+inferior parietal lobule (krieg)	[UBERON_0002688, birnlex_1381]	Match
+kinase-related transforming protein	[PR_000003270, PR_000000019]	No NIF Term ID values in: [PR_000003270, PR_000000019]
+http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-GrossAnatomy.owl#birnlex_1167	[NEMO_1269000, NEMO_1119000]	No NIF Term ID values in: [NEMO_1269000, NEMO_1119000]
+EP3	[nifext_7871, nifext_7863]	** Review Manually ** 
+medial lemniscus of pons of varolius	[birnlex_781, UBERON_0002958]	Match
+GPBAR1	[PR_000001110, nifext_5903]	Do Not match
+freezing tolerance	[GO_0009409, GO_0033637]	No NIF Term ID values in: [GO_0009409, GO_0033637]
+Papillary Rathke's Pouch tumor	[DOID_3847, birnlex_12615]	Match
+TP-beta	[PR_000027062, PR_000008434]	No NIF Term ID values in: [PR_000027062, PR_000008434]
+2-chloroethanol dehydrogenase (cytochrome c) activity	[GO_0052932, GO_0052936]	No NIF Term ID values in: [GO_0052932, GO_0052936]
+retrochiasmatic region	[UBERON_0001933, birnlex_1569]	Match
+Fo rster resonance energy transfer	[nlx_inv_20090602, ERO_0001369]	Match
+adult head	[birnlex_1230, UBERON_0000033]	Match
+upper jaw bone	[UBERON_0002397, UBERON_0011597]	No NIF Term ID values in: [UBERON_0002397, UBERON_0011597]
+dorsal basal ganglion	[UBERON_0005382, nlx_anat_1010001]	Match
+skinkine	[PR_000001802, nifext_5054]	Match
+Reactive Depression	[birnlex_12670, DOID_507]	Match
+superior cerebellar peduncle of midbrain	[UBERON_0007707, birnlex_1162]	Match
+axon trunk	[GO_0044304, sao1596975044]	Match
+nuclei raphes tegmenti mesencephali	[UBERON_0007412, birnlex_1676]	Match
+polyamine oxidase activity	[GO_0052903, GO_0052901, GO_0052899]	No NIF Term ID values in: [GO_0052903, GO_0052901, GO_0052899]
+Remitting-Relapsing Multiple Sclerosis	[birnlex_12518, DOID_2378]	Match
+inhibition of eye pigmentation	[GO_0048077, GO_0048074]	No NIF Term ID values in: [GO_0048077, GO_0048074]
+alanine tRNA	[GO_0033454, GO_0033456, GO_0033455]	No NIF Term ID values in: [GO_0033454, GO_0033456, GO_0033455]
+dorsal root	[UBERON_0002261, nlx_anat_20090208]	Match
+SAT	[PR_000022377, PR_000022384]	No NIF Term ID values in: [PR_000022377, PR_000022384]
+Regional part of nervous system	[birnlex_1157, UBERON_0000073]	Match
+vestibulo-spinal tract	[UBERON_0002768, birnlex_1643]	Match
+pars granulosa	[GO_0001652, sao1217793903]	Match
+pallidum	[UBERON_0001875, birnlex_1234]	Match
+nucleus habenularis medialis epithalami	[birnlex_1431, UBERON_0001942]	Match
+Htr1eb	[PR_000001165, nifext_6360]	Do Not match
+neuronal cytoplasmic inclusion	[GO_0016234, sao120573470]	Match
+motor_cortex	[NEMO_8635000, NEMO_8673000, NEMO_0710000]	No NIF Term ID values in: [NEMO_8635000, NEMO_8673000, NEMO_0710000]
+cobalt homeostasis	[GO_0055068, GO_0006877]	No NIF Term ID values in: [GO_0055068, GO_0006877]
+NPC	[GO_0005643, sao220861693]	Match
+BAK1/iso:1	[PR_000002262, PR_000028344]	No NIF Term ID values in: [PR_000002262, PR_000028344]
+5' cAMP	[GO_0071320, GO_0051591]	No NIF Term ID values in: [GO_0071320, GO_0051591]
+smooth ER membrane	[GO_0030868, sao1596955044]	Match
+ using glucoside 3-dehydrogenase	[GO_0019513, GO_0019574]	No NIF Term ID values in: [GO_0019513, GO_0019574]
+inferior central nucleus of raphe	[UBERON_0002993, birnlex_861]	Match
+SCN	[UBERON_0002034, birnlex_1325]	Match
+KCNMC1	[nifext_2887, nifext_2888]	** Review Manually ** 
+area hypothalamica rostralis	[UBERON_0001928, birnlex_1706]	Match
+pyramus (VIII)	[UBERON_0004082, nlx_anat_20081233]	Match
+NPS	[nifext_5576, PR_000011380]	Do Not match
+third sacral spinal ganglion	[birnlex_2630, UBERON_0002862]	Match
+hemispherium cerebri	[UBERON_0001869, birnlex_1042]	Match
+15-diene anabolism	[GO_1901543, GO_1901542]	No NIF Term ID values in: [GO_1901543, GO

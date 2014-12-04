@@ -1,0 +1,17 @@
+Review of NIFSTD Terms to find number of terms where the preferred label matches a synonym in another term:
+Total = 2066(based on Excel analysis file) OR 2271 from initial file(???) 
+
+
+- 623 are overlaps between OBO Foundry terms (No NIF Term ID) 
+- 1147 are the result of an Equivalent statement (Match) 
+- 147 where the NIF term does not match the “other” term(s) (Do not Match) 
+- - 29 where the NIF term does not seem to match an OB Foundry term —> These all Match (see Notes column) 
+- - 118 where the NIF term matches a term in PR and therefore the test script/web services did not result in a correct designation 
+- 149 of review manually since the shared synonym is between 2 NIF terms or between 2 NIF terms and some other term (** Review Manually **) 
+- - 63 of these match, just had multiple IDs so did not check automatically
+- - the rest are overlaps between terms with prefix nifext and based on those examined appear to be duplicates in NIF-Molecule
+
+
+** Executive Summary **
+- 623 are overlaps between OBO Foundry terms 
+- 1443 are the result of an Equivalent statements
