@@ -20,7 +20,12 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-
+/**
+ * Review terms from Russ Poldrack to see if they are in NIFSTD/Uberon
+ * using the Ontoquest web services
+ * @author whetzel
+ *
+ */
 public class CheckTerms {
 
 	/**
