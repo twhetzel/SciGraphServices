@@ -31,7 +31,7 @@ public class Main {
 	 */
 	private static void checkCategoryAssignment(Map<String, ArrayList<String>> mapAll) {
 		int lineCount = -1; //was 0
-		int restartLine = 5788; //adjust as needed to re-start script
+		int restartLine = -1; //adjust as needed to re-start script
 		for (Entry<String, ArrayList<String>> entry : mapAll.entrySet()) {
 			lineCount++;
 			String key = entry.getKey();
@@ -43,7 +43,7 @@ public class Main {
 				if (lineCount > restartLine) {
 					Thread.sleep(20);
 					String categoryValue = SciGraphService.findByURI(idFragment);		
-					System.out.println("LINE:"+lineCount+" Key: " + entry.getKey() + " Value: "+ entry.getValue()+" CV: "+categoryValue);				
+					System.out.println("LINE:"+lineCount+" Key: " + entry.getKey() + " Value: "+ entry.getValue()+" CV: "+categoryValue+"\n");				
 					//bw.write("Key: "+key+TAB+"Value: "+values+TAB+"CV: "+categoryValue+"\n");
 					writeAnalysisFile(lineCount, key, values, categoryValue);
 				}
@@ -67,7 +67,7 @@ public class Main {
 		String TAB = "\t";
 
 		try {
-			File file = new File("./data_files/category_analysis.txt");
+			File file = new File("./data_files/category_analysis_jan222014.txt");
 			if (!file.exists()) {
 				file.createNewFile();
 			}
@@ -84,7 +84,8 @@ public class Main {
 
 
 	/**
-	 * Read in data file
+	 * Read in data file containing all Concept Ids, IRIs, and ontology file IRI
+	 * E.g. PR_000006763	[http://purl.obolibrary.org/obo/PR_000006763, http://ontology.neuinfo.org/NIF/BiomaterialEntities/pr.owl]	http://purl.obolibrary.org/obo/PR_000006763	http://ontology.neuinfo.org/NIF/BiomaterialEntities/pr.owl
 	 * @return 
 	 */
 	private static Map<String, ArrayList<String>> getData() {

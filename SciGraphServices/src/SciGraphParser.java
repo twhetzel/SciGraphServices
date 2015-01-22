@@ -15,7 +15,7 @@ public class SciGraphParser {
 		//http://examples.javacodegeeks.com/core-java/json/java-json-parser-example/
 		JSONParser parser = new JSONParser();
 		JSONObject obj = (JSONObject)parser.parse(output);
-		System.out.println("Obj:"+obj+"\n");
+		System.out.println("Obj:"+obj);
 
 		JSONArray concepts = (JSONArray) obj.get("concepts");
 		// take the elements of the json array
