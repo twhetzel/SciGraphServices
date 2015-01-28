@@ -15,7 +15,7 @@ import org.json.simple.parser.ParseException;
 public class SciGraphService {
 
 	public static String findByURI(String termIRI) throws ParseException  {
-		boolean categoryStatus = true;
+		//boolean categoryStatus = true;
 		String categoryValue = null;
 		try {
 			/*@SuppressWarnings("deprecation")
@@ -24,7 +24,7 @@ public class SciGraphService {
 			*/
 			//Create File writer to generate error log file
 
-			File errorLog = new File("./data_files/error_log_jan222014.txt");
+			File errorLog = new File("./data_files/error_log_jan272014.txt");
 			if (!errorLog.exists()) {
 				errorLog.createNewFile();
 			}
@@ -34,7 +34,7 @@ public class SciGraphService {
 			
 			// http://matrix.neuinfo.org:9000/scigraph/docs/#!/vocabulary/findById -> findByURI is down
 			URL url = new URL("http://matrix.neuinfo.org:9000/scigraph/vocabulary/id/"+termIRI);
-			System.out.println("URL "+url);
+			System.out.println("URL: "+url);
 			
 			HttpURLConnection conn = (HttpURLConnection) url.openConnection();
 			conn.setRequestMethod("GET");

@@ -26,13 +26,19 @@ public class SciGraphParser {
 		// take each value from the json array separately
 		while (i.hasNext()) {
 			JSONObject innerObj = (JSONObject) i.next();
-			//System.out.println("categories "+ innerObj.get("categories"));
 			
+			// Get deprecated status
+			boolean deprecatedStatus = (boolean) innerObj.get("deprecated");
+			System.out.println("DepStatus: "+deprecatedStatus+"\n");
+						
+			// Get category values 
+			//System.out.println("categories "+ innerObj.get("categories"));			
 			JSONArray categories = (JSONArray) innerObj.get("categories");
 			if (categories.size() == 0) {
 				//System.out.println("** No category values");
-				categoryStatus = false;
-				categoryValue = "none";
+				categoryStatus = false;  //not currently used
+				//If deprecated Status is true, then category is null and should be returned as deprecated
+				categoryValue = "none-"+deprecatedStatus; //After a trial run, if all ok then swap "none" for deprecatedStatus
 			}
 			else {
 				int index = 0;

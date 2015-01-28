@@ -37,11 +37,10 @@ public class Main {
 			String key = entry.getKey();
 			ArrayList<String> values = entry.getValue();
 			String idFragment = key;
-			String termIRI = values.get(0);
 			try {
 				// Add re-start ability 
 				if (lineCount > restartLine) {
-					Thread.sleep(20);
+					Thread.sleep(0); //was 20
 					String categoryValue = SciGraphService.findByURI(idFragment);		
 					System.out.println("LINE:"+lineCount+" Key: " + entry.getKey() + " Value: "+ entry.getValue()+" CV: "+categoryValue+"\n");				
 					//bw.write("Key: "+key+TAB+"Value: "+values+TAB+"CV: "+categoryValue+"\n");
@@ -66,15 +65,25 @@ public class Main {
 	private static void writeAnalysisFile(int lineCount, String key, ArrayList<String> values, String categoryValue) {
 		String TAB = "\t";
 
+		String termIRI = null;
+		String ontologyIRI = null;
+		
+		//Iterate through ArrayList values to get individual values to add to the data file
+		for (int i = 0; i < values.size(); i++) {
+			termIRI = values.get(0);
+			ontologyIRI  = values.get(1);
+		}
+		
 		try {
-			File file = new File("./data_files/category_analysis_jan222014.txt");
+			File file = new File("./data_files/category_analysis_jan272014.txt");
 			if (!file.exists()) {
 				file.createNewFile();
 			}
 
 			FileWriter fw = new FileWriter(file.getAbsoluteFile(), true);
 			BufferedWriter bw = new BufferedWriter(fw);
-			bw.append("Line:"+lineCount+TAB+"Key: "+key+TAB+"Value: "+values+TAB+"CV: "+categoryValue+"\n");
+			//bw.append("Line:"+lineCount+TAB+"Key: "+key+TAB+"TermIRI: "+termIRI+TAB+"OntologyIRI: "+ontologyIRI+TAB+"CV: "+categoryValue+"\n");
+			bw.append("Line:"+lineCount+TAB+key+TAB+termIRI+TAB+ontologyIRI+TAB+categoryValue+"\n");
 			bw.close();
 
 		} catch (IOException e) {
